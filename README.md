@@ -3,6 +3,8 @@
 ![Light screenshot](logo.png#gh-light-mode-only)
 ![Dark screenshot](logo-dark.png#gh-dark-mode-only)
 
+![](Hydrogen/scalable/apps/org.gnome.Nautilus.svg)  ![](Hydrogen/scalable/apps/systemsettings.svg)
+
 Hydrogen is the default icon theme in tauOS
 
 ### Why Hydrogen?
