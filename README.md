@@ -1,3 +1,5 @@
+<img align="left" style="vertical-align: middle" width="64" height="64" src="logo.png">
+
 # Hydrogen
 
 Hydrogen is the default icon theme in tauOS
