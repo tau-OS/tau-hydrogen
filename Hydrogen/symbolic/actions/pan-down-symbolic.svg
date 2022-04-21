@@ -45,8 +45,8 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#241f31;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 0.79375002,1.8520835 2.1166666,2.6458441 3.439583,1.8520835"
+       style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="M 0.73046875,1.5957031 A 0.2645835,0.2645835 0 0 0 0.56640625,1.7167969 0.2645835,0.2645835 0 0 0 0.65820312,2.078125 L 1.9804687,2.8730469 a 0.26460996,0.26460996 0 0 0 0.2714844,0 L 3.5761719,2.078125 A 0.2645835,0.2645835 0 0 0 3.6660156,1.7167969 0.2645835,0.2645835 0 0 0 3.3027344,1.625 L 2.1171875,2.3378906 0.9296875,1.625 A 0.2645835,0.2645835 0 0 0 0.73046875,1.5957031 Z"
        id="path856" />
   </g>
 </svg>
