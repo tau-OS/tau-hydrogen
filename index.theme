@@ -2,23 +2,23 @@
 Name=Hydrogen
 Comment=Hydrogen icon theme for tauOS
 Inherits=Adwaita
-
 Example=folder
 
-FollowsColorScheme=true
-
+# KDE Specific Stuff
+DisplayDepth=32
+LinkOverlay=link_overlay
+LockOverlay=lock_overlay
+ZipOverlay=zip_overlay
 DesktopDefault=48
-DesktopSizes=16,22,24,32,48,64
+DesktopSizes=16,22,32,48,64,72,96,128
 ToolbarDefault=22
-ToolbarSizes=16,22,24,32,48
+ToolbarSizes=16,22,32,48
 MainToolbarDefault=22
-MainToolbarSizes=16,22,24,32,48
+MainToolbarSizes=16,22,32,48
 SmallDefault=16
-SmallSizes=16,22,24,32,48
-PanelDefault=48
-PanelSizes=16,22,24,32,48,64
-DialogDefault=48
-DialogSizes=16,22,24,32,48,64
+SmallSizes=16
+PanelDefault=32
+PanelSizes=16,22,32,48,64,72,96,128
 
 # Directory list
 Directories=scalable/apps,symbolic/actions,symbolic/apps
@@ -26,7 +26,7 @@ Directories=scalable/apps,symbolic/actions,symbolic/apps
 [scalable/apps]
 Context=Applications
 Size=128
-MinSize=16
+MinSize=8
 MaxSize=512
 Type=Scalable
 
