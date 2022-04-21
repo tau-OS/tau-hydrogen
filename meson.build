@@ -30,3 +30,8 @@ install_subdir(
     icon_folder,
     install_dir : icon_dir
 )
+
+install_data(
+    join_paths(meson.source_root(), 'logo.png'),
+    install_dir: join_paths(icon_dir, 'Hydrogen')
+)
