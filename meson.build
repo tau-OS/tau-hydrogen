@@ -5,7 +5,7 @@ project (
 )
 
 i18n = import('i18n')
-icon_folder = 'Hydrogen'
+icon_folder = join_paths(meson.source_root(), 'Hydrogen')
 icon_dir = join_paths(get_option('datadir'), 'icons', 'Hydrogen')
 
 # Let's do fancy things
