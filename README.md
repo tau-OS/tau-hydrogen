@@ -1,6 +1,7 @@
-<img align="left" style="vertical-align: middle" width="64" height="64" src="logo.png">
-
 # Hydrogen
+
+![Light screenshot](logo.png#gh-light-mode-only)
+![Dark screenshot](logo-dark.png#gh-dark-mode-only)
 
 Hydrogen is the default icon theme in tauOS
 
