@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Hydrogen
 Comment=Hydrogen icon theme for tauOS
-Inherits=hicolor
+Inherits=Adwaita
 
 Example=folder
 
@@ -21,37 +21,14 @@ DialogDefault=48
 DialogSizes=16,22,24,32,48,64
 
 # Directory list
-Directories=16x16/apps,22x22/apps,24x24/apps,32x32/apps,48x48/apps,64x64/apps,symbolic/actions,symbolic/apps
+Directories=scalable/apps,symbolic/actions,symbolic/apps
 
-[16x16/apps]
+[scalable/apps]
 Context=Applications
-Size=16
-Type=Fixed
-
-[22x22/apps]
-Context=Applications
-Size=22
-Type=Fixed
-
-[24x24/apps]
-Context=Applications
-Size=24
-Type=Fixed
-
-[32x32/apps]
-Context=Applications
-Size=32
-Type=Fixed
-
-[48x48/apps]
-Context=Applications
-Size=48
-Type=Fixed
-
-[64x64/apps]
-Context=Applications
-Size=64
-Type=Fixed
+Size=128
+MinSize=16
+MaxSize=512
+Type=Scalable
 
 [symbolic/actions]
 Context=Actions
