@@ -12,6 +12,13 @@ Hydrogen is the default icon theme in tauOS
 Hydrogen, like the first element in the periodic table, is small yet important.
 We only make minimal modifcations, but those modifications are a large part of what makes tauOS special.
 
+## Vaccuuming
+
+It is strongly encouraged to vacuum all vectors with [Inkscape](http://inkscape.org). This keeps the repository lean, clean, and fast for everyone. For convenience, a git pre-commit hook is included. To install, run this command from your local repository folder:
+```bash
+$ cp pre-commit .git/hooks/
+```
+
 ## Building
 
 This will install Hydrogen to /usr/share/icons
