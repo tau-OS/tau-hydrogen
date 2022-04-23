@@ -15,7 +15,8 @@ We only make minimal modifcations, but those modifications are a large part of w
 ## Vaccuuming
 
 It is strongly encouraged to vacuum all vectors with [Inkscape](http://inkscape.org). This keeps the repository lean, clean, and fast for everyone. For convenience, a git pre-commit hook is included. To install, run this command from your local repository folder:
-```bash
+
+```sh
 $ cp pre-commit .git/hooks/
 ```
 
