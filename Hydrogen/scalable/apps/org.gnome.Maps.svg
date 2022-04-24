@@ -111,10 +111,10 @@
      d="m 18,11 h 92 c 3.324,0 6,3.568 6,8 v 88 c 0,4.432 -2.676,8 -6,8 H 18 c -3.324,0 -6,-3.568 -6,-8 V 19 c 0,-4.432 2.676,-8 6,-8 z" />
   <path
      id="rect893-3"
-     style="fill:#8ff0a4;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     style="fill:#33d17a;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
      d="m 18,11 h 92 c 3.324,0 6,3.122 6,7 v 86 c 0,3.878 -2.676,7 -6,7 H 18 c -3.324,0 -6,-3.122 -6,-7 V 18 c 0,-3.878 2.676,-7 6,-7 z" />
   <circle
-     style="fill:#57e389;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2;stop-color:#000000"
+     style="fill:#2ec27e;fill-opacity:1;stroke:none;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.2;stop-color:#000000"
      id="path9126"
      cx="50"
      cy="72"
