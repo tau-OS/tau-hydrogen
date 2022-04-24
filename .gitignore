@@ -1,4 +1,4 @@
 build*
 **/*.rpm
-results_*
 *.tar.gz
+*.log
