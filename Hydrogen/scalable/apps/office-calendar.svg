@@ -20,27 +20,33 @@
     <stop
        offset="0"
        stop-color="#deddda"
-       id="stop2" />
+       id="stop2"
+       style="stop-color:#c0bfbc;stop-opacity:1" />
     <stop
        offset="0.0454546"
        stop-color="#eeeeec"
-       id="stop4" />
+       id="stop4"
+       style="stop-color:#deddda;stop-opacity:1" />
     <stop
        offset="0.0909091"
        stop-color="#deddda"
-       id="stop6" />
+       id="stop6"
+       style="stop-color:#c0bfbc;stop-opacity:1" />
     <stop
        offset="0.909091"
        stop-color="#deddda"
-       id="stop8" />
+       id="stop8"
+       style="stop-color:#c0bfbc;stop-opacity:1" />
     <stop
        offset="0.954545"
        stop-color="#eeeeec"
-       id="stop10" />
+       id="stop10"
+       style="stop-color:#deddda;stop-opacity:1" />
     <stop
        offset="1"
        stop-color="#c0bfbc"
-       id="stop12" />
+       id="stop12"
+       style="stop-color:#c0bfbc;stop-opacity:1" />
   </linearGradient>
   <linearGradient
      id="b"
@@ -53,11 +59,28 @@
     <stop
        offset="0"
        stop-color="#e01b24"
-       id="stop15" />
+       id="stop15"
+       style="stop-color:#f66151;stop-opacity:1" />
+    <stop
+       offset="0.24979866"
+       stop-color="#e01b24"
+       id="stop972"
+       style="stop-color:#ed333b;stop-opacity:1" />
+    <stop
+       offset="0.52154362"
+       stop-color="#e01b24"
+       id="stop1038"
+       style="stop-color:#e01b24;stop-opacity:1" />
+    <stop
+       offset="0.78496647"
+       stop-color="#e01b24"
+       id="stop1232"
+       style="stop-color:#c01c28;stop-opacity:1" />
     <stop
        offset="1"
        stop-color="#c01c27"
-       id="stop17" />
+       id="stop17"
+       style="stop-color:#a51d2d;stop-opacity:1" />
   </linearGradient>
   <path
      d="m 20 16 h 88 c 4.417969 0 8 3.582031 8 8 v 84 c 0 4.417969 -3.582031 8 -8 8 h -88 c -4.417969 0 -8 -3.582031 -8 -8 v -84 c 0 -4.417969 3.582031 -8 8 -8 z m 0 0"
@@ -68,15 +91,18 @@
      fill="#f6f5f4"
      id="path22" />
   <path
-     d="m 20 12 c -4.433594 0 -8 3.566406 -8 8 v 8.71875 h 104 v -8.71875 c 0 -4.433594 -3.566406 -8 -8 -8 z m 0 0"
+     d="m 20,11 c -4.433594,0 -8,3.566406 -8,8 V 29 H 116 V 19 c 0,-4.433594 -3.56641,-8 -8,-8 z"
      fill="url(#b)"
-     id="path24" />
+     id="path24"
+     style="fill:#e01b24;fill-opacity:1" />
   <path
      d="m 54.785156 77.136719 c 7.292969 0 12.335938 -3.839844 12.335938 -9.601563 c 0 -4.894531 -3.746094 -8.304687 -9.410156 -8.449218 l -0.71875 0.578124 c 4.992187 -0.144531 8.398437 -3.503906 8.398437 -8.113281 c 0 -5.277343 -4.269531 -8.6875 -10.460937 -8.6875 c -3.457032 0 -7.296876 1.105469 -10.128907 2.738281 l 0.910157 2.972657 c 2.976562 -1.488281 6.097656 -2.253907 8.542968 -2.253907 c 4.273438 0 7.394532 2.207032 7.394532 5.617188 c 0 3.644531 -3.550782 6.09375 -8.449219 6.09375 h -2.589844 v 3.410156 h 3.453125 c 5.570312 0 9.074219 2.398438 9.074219 6.335938 c 0 3.742187 -3.265625 5.804687 -8.207031 5.804687 c -2.929688 0 -6.816407 -0.71875 -9.9375 -2.253906 l -0.863282 3.214844 c 3.214844 1.632812 7.152344 2.59375 10.65625 2.59375 z m 0 0"
-     id="path26" />
+     id="path26"
+     style="fill:#241f31" />
   <path
      d="m 80.078125 76.847656 h 3.792969 v -33.550781 h -2.304688 l -11.855468 6.144531 l 1.441406 2.734375 l 10.175781 -4.847656 l -1.25 -1.199219 z m 0 0"
-     id="path28" />
+     id="path28"
+     style="fill:#241f31" />
   <g
      fill="#77767b"
      id="g40">
@@ -97,7 +123,17 @@
        id="path38" />
   </g>
   <path
-     d="m 96.605469 112 l 19.394531 -19.6875 l -9.855469 -0.3125 s -10.707031 1.125 -10.121093 8.960938 c 0.585937 7.839843 0.582031 11.039062 0.582031 11.039062 z m 0 0"
+     d="m 95,110 20,-20 h -10 c 0,0 -10,0 -10,10 0,10 0,10 0,10 z"
      fill="#ffffff"
      id="path42" />
+  <path
+     id="path1366"
+     style="fill:#a51d2d;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     transform="rotate(-90)"
+     d="m -15,30 a 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 z" />
+  <path
+     id="path1368"
+     style="fill:#a51d2d;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     transform="rotate(-90)"
+     d="m -15,97 a 5,5 0 0 1 -5,5 5,5 0 0 1 -5,-5 5,5 0 0 1 5,-5 5,5 0 0 1 5,5 z" />
 </svg>
