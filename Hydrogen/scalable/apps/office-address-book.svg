@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="128px"
+   viewBox="0 0 128 128"
+   width="128px"
+   version="1.1"
+   id="svg31"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs35" />
+  <linearGradient
+     id="a"
+     gradientTransform="matrix(0.231174 0 0 0.326968 -16.047201 261.981628)"
+     gradientUnits="userSpaceOnUse"
+     x1="88.595886"
+     x2="536.595886"
+     y1="-449.394012"
+     y2="-449.394012">
+    <stop
+       offset="0"
+       stop-color="#77767b"
+       id="stop2" />
+    <stop
+       offset="0.0500001"
+       stop-color="#c0bfbc"
+       id="stop4" />
+    <stop
+       offset="0.099807"
+       stop-color="#9a9996"
+       id="stop6" />
+    <stop
+       offset="0.900001"
+       stop-color="#9a9996"
+       id="stop8" />
+    <stop
+       offset="0.950001"
+       stop-color="#c0bfbc"
+       id="stop10" />
+    <stop
+       offset="1"
+       stop-color="#77767b"
+       id="stop12" />
+  </linearGradient>
+  <path
+     d="m 20 13 v 103 h 78.675781 c 5.164063 0 9.324219 -3.402344 9.324219 -7.628906 v -87.742188 c 0 -4.226562 -4.160156 -7.628906 -9.324219 -7.628906 z m 0 0"
+     fill="#33d17a"
+     id="path15" />
+  <path
+     d="m 20 15.644531 v 99.398438 h 78.585938 c 5.214843 0 9.414062 -3.410157 9.414062 -7.644531 v -84.105469 c 0 -4.238281 -4.199219 -7.648438 -9.414062 -7.648438 z m 0 0"
+     fill="url(#a)"
+     id="path17" />
+  <path
+     d="m 20 8 v 103 h 78.675781 c 5.164063 0 9.324219 -3.402344 9.324219 -7.628906 v -87.742188 c 0 -4.226562 -4.160156 -7.628906 -9.324219 -7.628906 z m 0 0"
+     fill="#33d17a"
+     id="path19" />
+  <path
+     d="m 83 45 c 0 6.628906 -5.371094 12 -12 12 s -12 -5.371094 -12 -12 s 5.371094 -12 12 -12 s 12 5.371094 12 12 z m 0 0"
+     fill="#26a269"
+     id="path21" />
+  <path
+     d="m 71 61 c -13.808594 0 -25 10.726562 -25 23.957031 c 0.019531 0.347657 0.042969 0.695313 0.078125 1.042969 h 49.84375 c 0.035156 -0.347656 0.058594 -0.695312 0.078125 -1.042969 c 0 -13.230469 -11.191406 -23.957031 -25 -23.957031 z m 0 0"
+     fill="#26a269"
+     id="path23" />
+  <path
+     d="m 20 8 h 14 v 103 h -14 z m 0 0"
+     fill="#241f31"
+     id="path25" />
+  <path
+     d="m 20 111 h 2 v 5 h -2 z m 0 0"
+     fill="#2ec27e"
+     id="path27" />
+  <path
+     d="m 20 111 h 1 v 5 h -1 z m 0 0"
+     fill="#241f31"
+     id="path29" />
+</svg>
