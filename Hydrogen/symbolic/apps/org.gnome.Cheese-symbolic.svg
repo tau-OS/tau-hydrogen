@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16px"
+   viewBox="0 0 16 16"
+   width="16px"
+   version="1.1"
+   id="svg54"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs58" />
+  <filter
+     id="a"
+     height="1"
+     width="1"
+     x="0"
+     y="0">
+    <feColorMatrix
+       in="SourceGraphic"
+       type="matrix"
+       values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+       id="feColorMatrix2" />
+  </filter>
+  <mask
+     id="b">
+    <g
+       filter="url(#a)"
+       id="g7">
+      <rect
+         fill-opacity="0.6"
+         height="16"
+         width="16"
+         id="rect5" />
+    </g>
+  </mask>
+  <radialGradient
+     id="c"
+     cx="-251.055023"
+     cy="52.752613"
+     gradientTransform="matrix(-0.846883 1.305436 -1.218098 -0.790224 -65.108978 434.367493)"
+     gradientUnits="userSpaceOnUse"
+     r="44">
+    <stop
+       offset="0"
+       stop-color="#8ff0a4"
+       id="stop10" />
+    <stop
+       offset="0.293477"
+       stop-color="#62a0ea"
+       id="stop12" />
+    <stop
+       offset="0.617135"
+       stop-color="#3584e4"
+       id="stop14" />
+    <stop
+       offset="0.820867"
+       stop-color="#9141ac"
+       id="stop16" />
+    <stop
+       offset="1"
+       stop-color="#a347ba"
+       id="stop18" />
+  </radialGradient>
+  <clipPath
+     id="d">
+    <rect
+       height="152"
+       width="192"
+       id="rect21" />
+  </clipPath>
+  <mask
+     id="e">
+    <g
+       filter="url(#a)"
+       id="g26">
+      <rect
+         fill-opacity="0.5"
+         height="16"
+         width="16"
+         id="rect24" />
+    </g>
+  </mask>
+  <clipPath
+     id="f">
+    <rect
+       height="152"
+       width="192"
+       id="rect29" />
+  </clipPath>
+  <mask
+     id="g">
+    <g
+       filter="url(#a)"
+       id="g34">
+      <rect
+         fill-opacity="0.5"
+         height="16"
+         width="16"
+         id="rect32" />
+    </g>
+  </mask>
+  <clipPath
+     id="h">
+    <rect
+       height="152"
+       width="192"
+       id="rect37" />
+  </clipPath>
+  <path
+     d="m 6 2 c -0.550781 0 -1 0.449219 -1 1 v 1 h -3 c -0.550781 0 -1 0.449219 -1 1 v 8 c 0 0.550781 0.449219 1 1 1 h 12 c 0.550781 0 1 -0.449219 1 -1 v -8 c 0 -0.550781 -0.449219 -1 -1 -1 h -3 v -1 c 0 -0.550781 -0.449219 -1 -1 -1 z m 2 3 c 2.210938 0 4 1.789062 4 4 s -1.789062 4 -4 4 s -4 -1.789062 -4 -4 s 1.789062 -4 4 -4 z m 0 2 c -1.105469 0 -2 0.894531 -2 2 s 0.894531 2 2 2 s 2 -0.894531 2 -2 s -0.894531 -2 -2 -2 z m 0 0"
+     fill="#241f31"
+     id="path40" />
+  <g
+     clip-path="url(#d)"
+     mask="url(#b)"
+     transform="matrix(1 0 0 1 -168 -16)"
+     id="g44">
+    <path
+       d="m 72 124 c -24.300781 0 -44 -19.699219 -44 -44 s 19.699219 -44 44 -44 s 44 19.699219 44 44 s -19.699219 44 -44 44 z m 0 0"
+       fill="url(#c)"
+       id="path42" />
+  </g>
+  <g
+     clip-path="url(#f)"
+     mask="url(#e)"
+     transform="matrix(1 0 0 1 -168 -16)"
+     id="g48">
+    <path
+       d="m 104.828125 104.921875 c 0 4.417969 -3.582031 8 -8 8 c -4.421875 0 -8 -3.582031 -8 -8 s 3.578125 -8 8 -8 c 4.417969 0 8 3.582031 8 8 z m 0 0"
+       fill="#ffffff"
+       id="path46" />
+  </g>
+  <g
+     clip-path="url(#h)"
+     mask="url(#g)"
+     transform="matrix(1 0 0 1 -168 -16)"
+     id="g52">
+    <path
+       d="m 88 92 c 0 2.210938 -1.789062 4 -4 4 s -4 -1.789062 -4 -4 s 1.789062 -4 4 -4 s 4 1.789062 4 4 z m 0 0"
+       fill="#ffffff"
+       id="path50" />
+  </g>
+</svg>
