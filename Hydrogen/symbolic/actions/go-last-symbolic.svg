@@ -11,16 +11,20 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs2" />
-  <path
-     style="color:#000000;fill:#241f31;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="m 8.4907798,1.0342934 a 1.2002991,1.1667148 0 0 1 0.7384653,0.5332251 l 3.6008969,5.833574 a 1.2004191,1.1668315 0 0 1 0,1.1986172 L 9.2292451,14.433284 A 1.2002991,1.1667148 0 0 1 7.5835224,14.834342 1.2002991,1.1667148 0 0 1 7.1709195,13.234666 L 10.401412,8.0004011 7.1709195,2.7661357 A 1.2002991,1.1667148 0 0 1 7.5835224,1.1664603 1.2002991,1.1667148 0 0 1 8.4907798,1.0342934 Z"
-     id="path997" />
-  <path
-     id="path2415"
-     style="fill:#241f31;stroke-linecap:round;stroke-linejoin:round"
-     d="m 2.9999158,8.0000842 a 2,2 0 0 0 2,1.9999998 2,2 0 0 0 2.0000002,-1.9999998 2,2 0 0 0 -2.0000002,-2 2,2 0 0 0 -2,2 z" />
-  <path
-     style="color:#000000;fill:#241f31;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="m 13.999916,1.5307378 a 0.50005,0.53913056 0 0 1 0.5,-0.5306536 0.50005,0.53913056 0 0 1 0.5,0.5306536 V 14.468578 a 0.50005,0.53913056 0 0 1 -1,0 z"
-     id="path2678" />
+  <g
+     id="g1306"
+     transform="matrix(0,1,1,0,-1.23e-4,6.11e-5)">
+    <path
+       id="path2415"
+       style="fill:#241f31;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round"
+       d="M 8,5 A 1,1 0 0 1 9,6 1,1 0 0 1 8,7 1,1 0 0 1 7,6 1,1 0 0 1 8,5 Z" />
+    <path
+       style="color:#000000;fill:#241f31;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="M 1.5306536,14 A 0.53913056,0.50005 0 0 0 1,14.5 0.53913056,0.50005 0 0 0 1.5306536,15 H 14.468494 a 0.53913056,0.50005 0 0 0 0,-1 z"
+       id="path2678" />
+    <path
+       style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="M 1.8046875,7.0195312 A 1,1 0 0 0 1.1679687,7.4453125 1,1 0 0 0 1.4453125,8.8320313 l 6,3.9999997 a 1.0001,1.0001 0 0 0 1.109375,0 L 14.554688,8.8320313 A 1,1 0 0 0 14.832031,7.4453125 1,1 0 0 0 13.445313,7.1679687 L 8,10.798828 2.5546875,7.1679687 a 1,1 0 0 0 -0.75,-0.1484375 z"
+       id="path939" />
+  </g>
 </svg>
