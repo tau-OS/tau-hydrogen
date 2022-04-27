@@ -2,21 +2,27 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="16"
-   height="16"
-   viewBox="0 0 4.2333332 4.2333332"
+   width="22"
+   height="22"
+   viewBox="0 0 22 22"
    version="1.1"
    id="svg5"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs2" />
-  <path
-     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.26458332;stroke-miterlimit:4;stroke-dasharray:none;stroke:none;fill-opacity:1"
-     d="m 2.1171875,1.3222656 c -0.4368086,0 -0.7949219,0.3581133 -0.7949219,0.7949219 0,0.4368086 0.3581133,0.7929687 0.7949219,0.7929688 0.4368086,0 0.7929688,-0.3561602 0.7929688,-0.7929688 0,-0.4368086 -0.3561602,-0.7949219 -0.7929688,-0.7949219 z m 0,0.265625 c 0.2938175,0 0.5292969,0.2354794 0.5292969,0.5292969 0,0.2938175 -0.2354794,0.5292969 -0.5292969,0.5292969 -0.2938175,0 -0.5292969,-0.2354794 -0.5292969,-0.5292969 0,-0.2938175 0.2354794,-0.5292969 0.5292969,-0.5292969 z"
-     id="path830" />
-  <path
-     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="M 1.9980469,0.02734375 0.41015625,0.82226563 A 0.26460978,0.26460978 0 0 0 0.26367188,1.0585937 V 3.1757813 A 0.26460978,0.26460978 0 0 0 0.41015625,3.4121094 L 1.9980469,4.2050781 a 0.26460978,0.26460978 0 0 0 0.2363281,0 L 3.8222656,3.4121094 A 0.26460978,0.26460978 0 0 0 3.96875,3.1757813 V 1.0585937 A 0.26460978,0.26460978 0 0 0 3.8222656,0.82226563 L 2.234375,0.02734375 a 0.26460978,0.26460978 0 0 0 -0.2363281,0 z M 2.1171875,0.56054687 3.4394531,1.2226562 V 3.0117188 L 2.1171875,3.6738281 0.79296875,3.0117188 V 1.2226562 Z"
-     id="path6982" />
+  <g
+     id="layer1">
+    <path
+       style="fill:none;stroke:#241f31;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 1.9999996,6.5555475 10.999999,0.9999817 20,6.5555475 v 8.8889055 l -9.000001,5.555565 -8.9999994,-5.555565 z"
+       id="path973" />
+    <ellipse
+       style="fill:none;stroke:#241f31;stroke-width:1.99997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="path1131"
+       cx="11.00001"
+       cy="11.00001"
+       rx="3.00001"
+       ry="3.000015" />
+  </g>
 </svg>
