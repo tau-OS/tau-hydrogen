@@ -13,31 +13,24 @@
      id="defs2" />
   <g
      id="layer1">
-    <g
-       id="g829"
-       transform="rotate(90,2.1166666,2.1166668)">
-      <circle
-         style="fill:#241f31;stroke:none;stroke-width:0.529168;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
-         id="path926"
-         cx="-1.3229165"
-         cy="-2.1166668"
-         r="0.26458332"
-         transform="scale(-1)" />
-      <circle
-         style="fill:#241f31;stroke:none;stroke-width:0.529168;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
-         id="path926-3"
-         cx="-2.1166666"
-         cy="-2.1166668"
-         r="0.26458332"
-         transform="scale(-1)" />
-      <circle
-         style="fill:#241f31;stroke:none;stroke-width:0.529168;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
-         id="path926-3-6"
-         cx="-2.9104166"
-         cy="-2.1166668"
-         r="0.26458332"
-         transform="scale(-1)" />
-    </g>
+    <circle
+       style="fill:#241f31;stroke:none;stroke-width:0.529168;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="path926"
+       cx="1.3229165"
+       cy="2.1166668"
+       r="0.26458332" />
+    <circle
+       style="fill:#241f31;stroke:none;stroke-width:0.529168;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="path926-3"
+       cx="2.1166666"
+       cy="2.1166668"
+       r="0.26458332" />
+    <circle
+       style="fill:#241f31;stroke:none;stroke-width:0.529168;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="path926-3-6"
+       cx="2.9104166"
+       cy="2.1166668"
+       r="0.26458332" />
     <path
        style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
        d="M 2.1171875,0 C 0.95131982,0 0,0.95131982 0,2.1171875 c 0,1.1658677 0.95131982,2.1152344 2.1171875,2.1152344 1.1658677,0 2.1152344,-0.9493667 2.1152344,-2.1152344 C 4.2324219,0.95131982 3.2830552,0 2.1171875,0 Z m 0,0.52929687 c 0.8798849,0 1.5878906,0.70800573 1.5878906,1.58789063 0,0.8798849 -0.7080057,1.5878906 -1.5878906,1.5878906 -0.8798849,0 -1.58789063,-0.7080057 -1.58789063,-1.5878906 0,-0.8798849 0.70800573,-1.58789063 1.58789063,-1.58789063 z"
