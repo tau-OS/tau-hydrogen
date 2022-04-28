@@ -12,5 +12,5 @@
   <path
      id="path849"
      style="fill:#241f31;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;stop-color:#000000"
-     d="M 8 0 A 8 8 0 0 0 0 8 A 8 8 0 0 0 8 16 A 8 8 0 0 0 16 8 A 8 8 0 0 0 8 0 z M 7 2 L 9 2 L 9 7 L 14 7 L 14 9 L 9 9 L 9 14 L 7 14 L 7 9 L 2 9 L 2 7 L 7 7 L 7 2 z " />
+     d="M 8,0 C 3.581722,0 0,3.581722 0,8 c 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 C 16,3.581722 12.418278,0 8,0 Z M 7,3 h 2 v 4 h 4 V 9 H 9 v 4 H 7 V 9 H 3 V 7 h 4 z" />
 </svg>
