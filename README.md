@@ -3,7 +3,7 @@
 ![Light screenshot](logo.png#gh-light-mode-only)
 ![Dark screenshot](logo-dark.png#gh-dark-mode-only)
 
-![](Hydrogen/scalable/apps/org.gnome.Nautilus.svg)  ![](Hydrogen/scalable/apps/systemsettings.svg)  ![](Hydrogen/scalable/apps/org.gnome.Weather.svg) ![](Hydrogen/scalable/apps/utilities-terminal.svg) ![](Hydrogen/scalable/apps/application-default-icon.svg) ![](Hydrogen/scalable/apps/org.gnome.Music.svg) ![](Hydrogen/scalable/apps/org.gnome.Geary.svg) ![](Hydrogen/scalable/apps/org.gnome.Photos.svg) ![](Hydrogen/scalable/apps/org.gnome.Boxes.svg) 
+![](Hydrogen/scalable/apps/org.gnome.Nautilus.svg)  ![](Hydrogen/scalable/apps/systemsettings.svg)  ![](Hydrogen/scalable/apps/org.gnome.Weather.svg) ![](Hydrogen/scalable/apps/utilities-terminal.svg) ![](Hydrogen/scalable/apps/application-default-icon.svg) ![](Hydrogen/scalable/apps/org.gnome.Music.svg) ![](Hydrogen/scalable/apps/org.gnome.Geary.svg) ![](Hydrogen/scalable/apps/org.gnome.Photos.svg) ![](Hydrogen/scalable/apps/org.gnome.Boxes.svg) ![](Hydrogen/scalable/apps/org.gnome.Totem.svg) ![](Hydrogen/scalable/apps/org.gnome.SystemMonitor.svg) ![](Hydrogen/scalable/apps/org.gnome.baobab.svg) 
 
 Hydrogen is the default icon theme in tauOS
 
@@ -12,7 +12,7 @@ Hydrogen is the default icon theme in tauOS
 Hydrogen, like the first element in the periodic table, is small yet important.
 We only make minimal modifcations, but those modifications are a large part of what makes tauOS special.
 
-## Vaccuuming
+## Vacuuming
 
 It is strongly encouraged to vacuum all vectors with [Inkscape](http://inkscape.org). This keeps the repository lean, clean, and fast for everyone. For convenience, a git pre-commit hook is included. To install, run this command from your local repository folder:
 
