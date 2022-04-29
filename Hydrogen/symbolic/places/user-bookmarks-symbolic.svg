@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16px"
+   viewBox="0 0 16 16"
+   width="16px"
+   version="1.1"
+   id="svg4"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <path
+     id="path1024"
+     style="color:#000000;-inkscape-font-specification:sans-serif;fill:#241f31;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 8,0 A 0.50005,0.52637513 0 0 0 7.53125,0.3433432 L 5.6660156,5.6641347 H 0.5 A 0.50005,0.52637513 0 0 0 0.18554688,6.5995908 L 4.21875,10.04947 2.8808594,15.339422 a 0.50005,0.52637513 0 0 0 0.7558594,0.575665 L 8,12.942187 l 4.363281,2.9729 a 0.50005,0.52637513 0 0 0 0.75586,-0.575665 L 11.78125,10.04947 15.814453,6.5995908 A 0.50005,0.52637513 0 0 0 15.5,5.6641347 H 10.333984 L 8.46875,0.3433432 A 0.50005,0.52637513 0 0 0 8,0 Z" />
+</svg>
