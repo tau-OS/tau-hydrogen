@@ -21,7 +21,7 @@ PanelDefault=32
 PanelSizes=16,22,32,48,64,72,96,128
 
 # Directory list
-Directories=scalable/apps,scalable/mimes,symbolic/actions,symbolic/apps,symbolic/mimes,symbolic/status
+Directories=scalable/apps,scalable/mimes,symbolic/actions,symbolic/apps,symbolic/mimes,symbolic/status,scalable-up-to-32/status
 
 [scalable/apps]
 Context=Applications
@@ -63,4 +63,11 @@ Context=Status
 Size=16
 MinSize=16
 MaxSize=512
+Type=Scalable
+
+[scalable-up-to-32/status]
+Context=Status
+Size=16
+MinSize=16
+MaxSize=32
 Type=Scalable
