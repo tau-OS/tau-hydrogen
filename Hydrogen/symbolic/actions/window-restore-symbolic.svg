@@ -10,27 +10,34 @@
   <defs
      id="defs8" />
   <g
-     id="path940"
-     transform="rotate(180,11.000146,4.8535156)">
-    <path
-       style="color:#000000;fill:#241f31;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-       d="m 9,3 h 4 v 4 z"
-       id="path1158" />
-    <path
-       style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-       d="M 9,2 A 1.0001,1.0001 0 0 0 8.2929688,3.7070313 L 12.292969,7.7070312 A 1.0001,1.0001 0 0 0 14,7 V 3 A 1.0001,1.0001 0 0 0 13,2 Z m 2.414063,2 H 12 v 0.5859375 z"
-       id="path1160" />
-  </g>
-  <g
-     id="path942"
-     transform="rotate(180,4.9998537,10.999982)">
-    <path
-       style="color:#000000;fill:#241f31;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-       d="m 3,9 4,4 H 3 Z"
-       id="path1152" />
-    <path
-       style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-       d="M 2.6171875,8.0761719 A 1.0001,1.0001 0 0 0 2,9 v 4 a 1.0001,1.0001 0 0 0 1,1 H 7 A 1.0001,1.0001 0 0 0 7.7070312,12.292969 L 3.7070313,8.2929688 A 1.0001,1.0001 0 0 0 2.6171875,8.0761719 Z M 4,11.414063 4.5859375,12 H 4 Z"
-       id="path1154" />
+     id="g833"
+     transform="matrix(0.66666669,0,0,0.65079913,2.6666666,2.8888751)"
+     style="stroke-width:1.51817">
+    <g
+       id="path940"
+       transform="rotate(180,11.000146,4.8535156)"
+       style="stroke-width:1.51817">
+      <path
+         style="color:#000000;fill:#241f31;stroke-width:3.03635;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+         d="m 9,3 h 4 v 4 z"
+         id="path1158" />
+      <path
+         style="color:#000000;fill:#241f31;stroke-width:1.51817;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+         d="M 9,2 A 1.0001,1.0001 0 0 0 8.2929688,3.7070313 L 12.292969,7.7070312 A 1.0001,1.0001 0 0 0 14,7 V 3 A 1.0001,1.0001 0 0 0 13,2 Z m 2.414063,2 H 12 v 0.5859375 z"
+         id="path1160" />
+    </g>
+    <g
+       id="path942"
+       transform="rotate(180,4.9998537,10.999982)"
+       style="stroke-width:1.51817">
+      <path
+         style="color:#000000;fill:#241f31;stroke-width:3.03635;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+         d="m 3,9 4,4 H 3 Z"
+         id="path1152" />
+      <path
+         style="color:#000000;fill:#241f31;stroke-width:1.51817;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+         d="M 2.6171875,8.0761719 A 1.0001,1.0001 0 0 0 2,9 v 4 a 1.0001,1.0001 0 0 0 1,1 H 7 A 1.0001,1.0001 0 0 0 7.7070312,12.292969 L 3.7070313,8.2929688 A 1.0001,1.0001 0 0 0 2.6171875,8.0761719 Z M 4,11.414063 4.5859375,12 H 4 Z"
+         id="path1154" />
+    </g>
   </g>
 </svg>
