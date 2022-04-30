@@ -23,33 +23,15 @@
   <defs
      id="defs10" />
   <path
+     id="rect951"
      style="color:#000000;fill:#241f31;fill-opacity:0.5;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="M 1,4 A 1.0001,1.0001 0 0 0 0,5 v 10 a 1.0001,1.0001 0 0 0 1,1 h 14 a 1.0001,1.0001 0 0 0 1,-1 V 5 A 1.0001,1.0001 0 0 0 15,4 Z m 1,2 h 12 v 8 H 2 Z"
-     id="rect951" />
+     d="M 7.5351562 4 L 9.5351562 6 L 14 6 L 14 10.464844 L 16 12.464844 L 16 5 A 1.0001 1.0001 0 0 0 15 4 L 7.5351562 4 z M 0.57226562 4.1074219 A 1.0001 1.0001 0 0 0 0 5 L 0 15 A 1.0001 1.0001 0 0 0 1 16 L 12.464844 16 L 10.464844 14 L 2 14 L 2 6 L 2.4648438 6 L 0.57226562 4.1074219 z " />
   <path
      id="rect1077"
      style="fill:#241f31;fill-opacity:0.5;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;stop-color:#000000"
-     d="M 4,0 C 3.446,0 3,0.446 3,1 V 3 H 5 V 2 h 6 v 1 h 2 V 1 C 13,0.446 12.554,0 12,0 Z" />
-  <g
-     id="g849"
-     transform="translate(0.11088514,0.41248226)">
-    <circle
-       style="fill:#241f31;stroke:none;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
-       id="path1422"
-       cx="4.8891144"
-       cy="9.5875177"
-       r="1" />
-    <circle
-       style="fill:#241f31;stroke:none;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
-       id="path1424"
-       cx="7.8891144"
-       cy="9.5875177"
-       r="1" />
-    <circle
-       style="fill:#241f31;stroke:none;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
-       id="path1426"
-       cx="10.889115"
-       cy="9.5875177"
-       r="1" />
-  </g>
+     d="M 4 0 C 3.8623871 0 3.730433 0.026314177 3.6113281 0.076171875 L 5.5351562 2 L 11 2 L 11 3 L 13 3 L 13 1 C 13 0.446 12.554 0 12 0 L 4 0 z " />
+  <path
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 1.7070312,0.29296875 a 1.0001,1.0001 0 0 0 -1.40429682,0.009766 1.0001,1.0001 0 0 0 -0.009766,1.40429682 L 14.292969,15.707031 a 1.0001,1.0001 0 0 0 0.960937,0.248047 1.0001,1.0001 0 0 0 0.701172,-0.701172 1.0001,1.0001 0 0 0 -0.248047,-0.960937 z"
+     id="path1170" />
 </svg>
