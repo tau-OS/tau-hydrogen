@@ -10,18 +10,18 @@ LinkOverlay=link_overlay
 LockOverlay=lock_overlay
 ZipOverlay=zip_overlay
 DesktopDefault=48
-DesktopSizes=16,22,32,48,64,72,96,128
-ToolbarDefault=22
-ToolbarSizes=16,22,32,48
-MainToolbarDefault=22
-MainToolbarSizes=16,22,32,48
+DesktopSizes=16,32,48,64,128
+ToolbarDefault=32
+ToolbarSizes=16,32,48
+MainToolbarDefault=32
+MainToolbarSizes=16,32,48
 SmallDefault=16
 SmallSizes=16
 PanelDefault=32
-PanelSizes=16,22,32,48,64,72,96,128
+PanelSizes=16,32,48,64,128
 
 # Directory list
-Directories=scalable/apps,scalable/mimes,scalable/places,scalable/status,symbolic/actions,symbolic/apps,symbolic/mimes,symbolic/places,symbolic/status,scalable-up-to-32/status
+Directories=scalable/apps,scalable/mimes,scalable/places,scalable/status,symbolic/actions,symbolic/apps,symbolic/categories,symbolic/mimes,symbolic/places,symbolic/status,scalable-up-to-32/status
 
 [scalable/apps]
 Context=Applications
@@ -60,6 +60,13 @@ Type=Scalable
 
 [symbolic/apps]
 Context=Applications
+Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+[symbolic/categories]
+Context=Categories
 Size=16
 MinSize=16
 MaxSize=512
