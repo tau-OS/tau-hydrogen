@@ -12,7 +12,7 @@
   <path
      id="path4953"
      style="color:#000000;fill:#241f31;-inkscape-stroke:none"
-     d="M 8 2 C 5.4537064 2 3 4.2500035 3 7.5 L 3 11 L 2 11 L 2 12 L 14 12 L 14 11 L 13 11 L 13 7.5 C 13 4.2500034 10.546294 2 8 2 z M 8 3 C 9.9537022 3 12 4.7500026 12 7.5 L 12 11 L 4 11 L 4 7.5 C 4 4.7500025 6.0462977 3 8 3 z " />
+     d="M 8 1 C 5.4537064 1 3 3.2500035 3 6.5 L 3 10 L 3 11 L 4 11 L 4 10 L 4 6.5 C 4 3.7500025 6.0462977 2 8 2 C 9.9537022 2 12 3.7500026 12 6.5 L 12 10 L 12 11 L 13 11 L 13 10 L 13 6.5 C 13 3.2500034 10.546294 1 8 1 z " />
   <rect
      style="fill:#241f31;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.0901961;stop-color:#000000"
      id="rect7179"
@@ -22,4 +22,8 @@
      y="13"
      rx="0.5"
      ry="0.5" />
+  <path
+     id="rect847"
+     style="fill:#241f31;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.0901961;stop-color:#000000"
+     d="m 3,10 h 10 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 H 3 C 2.446,12 2,11.554 2,11 2,10.446 2.446,10 3,10 Z" />
 </svg>
