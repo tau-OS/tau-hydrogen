@@ -11,19 +11,16 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs2" />
-  <g
-     id="layer1">
-    <path
-       id="path838"
-       style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-       d="M 3,1 C 1,1 1.0000525,2.447737 1,3 v 10 c 5.25e-5,0.552263 0,2 2,2 h 10 c 0.552263,-5.2e-5 2,0 2,-2 V 7 5 L 13.300781,6.6992188 C 13.25701,7.0202962 13.155084,7.3307072 13,7.6152344 V 13 H 3 V 3 H 8.3847656 C 8.6692928,2.8449163 8.9797037,2.7429903 9.3007812,2.6992188 L 11,1 H 9 Z" />
-    <path
-       id="rect835"
-       style="fill:#241f31;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
-       d="m 5,10 h 6 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 H 5 C 4.446,12 4,11.554 4,11 4,10.446 4.446,10 5,10 Z" />
-    <path
-       id="path832"
-       style="fill:#241f31;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
-       d="M 13.666666,0.99999997 10.763021,3.9036458 A 2.6666666,2.6666666 0 0 0 9.666666,3.6666666 2.6666666,2.6666666 0 0 0 6.9999997,6.3333332 V 8.9999998 H 9.666666 A 2.6666666,2.6666666 0 0 0 12.333333,6.3333332 2.6666666,2.6666666 0 0 0 12.096354,5.2369791 L 15,2.3333333 Z" />
-  </g>
+  <path
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 14.146484,1.1464844 -6.9999996,7 a 0.5,0.5 0 0 0 0,0.7070312 0.5,0.5 0 0 0 0.7070312,0 l 7.0000004,-7 a 0.5,0.5 0 0 0 0,-0.7070312 0.5,0.5 0 0 0 -0.707032,0 z"
+     id="path940" />
+  <path
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 1.5,2 A 0.50005,0.50005 0 0 0 1,2.5 v 12 A 0.50005,0.50005 0 0 0 1.5,15 h 13 A 0.50005,0.50005 0 0 0 15,14.5 V 5.7734375 a 0.5,0.5 0 0 0 -0.5,-0.5 0.5,0.5 0 0 0 -0.5,0.5 V 14 H 2 V 3 h 8.166016 a 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z"
+     id="path942" />
+  <path
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 4.4453125,12 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 h 7.1093755 a 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z"
+     id="path944" />
 </svg>

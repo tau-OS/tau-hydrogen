@@ -23,11 +23,11 @@
   <defs
      id="defs10" />
   <path
-     style="color:#000000;fill:#241f31;fill-opacity:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="M 1,12 A 1.0001,-1.0001 0 0 1 0,11 V 1 A 1.0001,-1.0001 0 0 1 1,0 h 14 a 1.0001,-1.0001 0 0 1 1,1 v 10 a 1.0001,-1.0001 0 0 1 -1,1 z M 2,10 H 14 V 2 H 2 Z"
-     id="rect951" />
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 1.5,2 A 0.50005,0.50005 0 0 0 1,2.5 v 9 A 0.50005,0.50005 0 0 0 1.5,12 h 13 A 0.50005,0.50005 0 0 0 15,11.5 v -9 A 0.50005,0.50005 0 0 0 14.5,2 Z M 2,3 h 12 v 8 H 2 Z"
+     id="path859" />
   <path
-     id="rect1077"
-     style="fill:#241f31;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;stop-color:#000000"
-     d="M 4,16 C 3.446,16 3,15.554 3,15 v -2 h 2 v 1 h 6 v -1 h 2 v 2 c 0,0.554 -0.446,1 -1,1 z" />
+     style="color:#000000;fill:#241f31;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 4.5,15 C 4.2238693,14.999984 4.0000279,14.657789 4,14.5 v -1 C 4,13.342204 4.2238578,13 4.5,13 4.7761422,13 5,13.342204 5,13.5 V 14 h 6 v -0.5 c 0,-0.157796 0.223858,-0.5 0.5,-0.5 0.276142,0 0.5,0.342204 0.5,0.5 v 1 c -2.8e-5,0.157789 -0.223869,0.499984 -0.5,0.5 z"
+     id="path1108" />
 </svg>

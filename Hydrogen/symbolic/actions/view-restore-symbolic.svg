@@ -9,38 +9,20 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs8" />
-  <g
-     id="path940"
-     transform="matrix(-0.66666667,0,0,-0.66666667,17.333528,9.1380208)"
-     style="stroke-width:1.49999">
-    <path
-       style="color:#000000;fill:#241f31;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-       d="m 9,3 h 4 v 4 z"
-       id="path1158" />
-    <path
-       style="color:#000000;fill:#241f31;stroke-width:1.49999;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-       d="M 9,2 A 1.0001,1.0001 0 0 0 8.2929688,3.7070313 L 12.292969,7.7070312 A 1.0001,1.0001 0 0 0 14,7 V 3 A 1.0001,1.0001 0 0 0 13,2 Z m 2.414063,2 H 12 v 0.5859375 z"
-       id="path1160" />
-  </g>
-  <g
-     id="path942"
-     transform="matrix(-0.66666667,0,0,-0.66666667,9.3331383,17.33331)"
-     style="stroke-width:1.49999">
-    <path
-       style="color:#000000;fill:#241f31;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-       d="m 3,9 4,4 H 3 Z"
-       id="path1152" />
-    <path
-       style="color:#000000;fill:#241f31;stroke-width:1.49999;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-       d="M 2.6171875,8.0761719 A 1.0001,1.0001 0 0 0 2,9 v 4 a 1.0001,1.0001 0 0 0 1,1 H 7 A 1.0001,1.0001 0 0 0 7.7070312,12.292969 L 3.7070313,8.2929688 A 1.0001,1.0001 0 0 0 2.6171875,8.0761719 Z M 4,11.414063 4.5859375,12 H 4 Z"
-       id="path1154" />
-  </g>
   <path
-     id="path852"
-     style="fill:#241f31;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
-     d="M 5,12 A 1,1 0 0 1 4,13 1,1 0 0 1 3,12 1,1 0 0 1 4,11 1,1 0 0 1 5,12 Z" />
+     style="color:#000000;fill:#241f31;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 11.555556,7 C 11.801016,6.9999998 12,6.7454597 12,6.5 12,6.2545403 11.801016,6.0000002 11.555556,6 H 9 V 3.5 C 9,3.2545401 8.7454599,3 8.5,3 8.2545401,3 8,3.1989845 8,3.4444444 V 6.5555556 C 8.0000246,6.8010053 8.1989948,6.9999755 8.4444445,7 Z"
+     id="path863" />
   <path
-     id="path852-3"
-     style="fill:#241f31;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
-     d="M 13,4 A 1,1 0 0 1 12,5 1,1 0 0 1 11,4 1,1 0 0 1 12,3 1,1 0 0 1 13,4 Z" />
+     style="color:#000000;fill:#241f31;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 6.5,12 C 6.7454597,12 6.9999998,11.801016 7,11.555556 V 8.4444445 C 6.9999755,8.1989948 6.8010053,8.0000246 6.5555556,8 H 3.4444444 C 3.1989845,8 3,8.2545401 3,8.5 3,8.7454599 3.1989845,9 3.4444444,9 H 6 v 2.555556 C 6.0000002,11.801016 6.2545403,12 6.5,12 Z"
+     id="path865" />
+  <path
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 12.646484,1.6464844 -3.9999996,4 a 0.5,0.5 0 0 0 0,0.7070312 0.5,0.5 0 0 0 0.7070312,0 l 4.0000004,-4 a 0.5,0.5 0 0 0 0,-0.7070312 0.5,0.5 0 0 0 -0.707032,0 z"
+     id="path856" />
+  <path
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 6,8.5 A 0.5,0.5 0 0 0 5.6464844,8.6464844 l -4,3.9999996 a 0.5,0.5 0 0 0 0,0.707032 0.5,0.5 0 0 0 0.7070312,0 l 4,-4.0000004 a 0.5,0.5 0 0 0 0,-0.7070312 A 0.5,0.5 0 0 0 6,8.5 Z"
+     id="path858" />
 </svg>

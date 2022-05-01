@@ -11,6 +11,17 @@
   <defs
      id="defs55">
     <linearGradient
+       id="linearGradient964">
+      <stop
+         style="stop-color:#77767b;stop-opacity:1;"
+         offset="0"
+         id="stop960" />
+      <stop
+         style="stop-color:#77767b;stop-opacity:0;"
+         offset="1"
+         id="stop962" />
+    </linearGradient>
+    <linearGradient
        id="linearGradient2898">
       <stop
          style="stop-color:#000000;stop-opacity:1"
@@ -29,11 +40,38 @@
        x2="65"
        y2="20"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.69230769,0,0,0.97938144,19.692308,3.3917526)" />
+       gradientTransform="matrix(0.67307691,0,0,0.97938144,20.923078,3.3917526)" />
+    <linearGradient
+       xlink:href="#linearGradient964"
+       id="linearGradient966"
+       x1="85"
+       y1="80"
+       x2="85"
+       y2="115"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.0277778,0,-2.2222222)" />
+    <linearGradient
+       xlink:href="#linearGradient964"
+       id="linearGradient968"
+       x1="65"
+       y1="80"
+       x2="65"
+       y2="115"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.0277778,0,-2.2222222)" />
+    <linearGradient
+       xlink:href="#linearGradient964"
+       id="linearGradient970"
+       x1="45"
+       y1="80"
+       x2="45"
+       y2="115"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,1.0277778,0,-2.2222222)" />
   </defs>
   <linearGradient
      id="a"
-     gradientTransform="matrix(0.16071438,0,0,0.3295883,13.761405,265.11561)"
+     gradientTransform="matrix(0.15625009,0,0,0.3295883,15.156921,264.83726)"
      gradientUnits="userSpaceOnUse"
      x1="88.595886"
      x2="536.595886"
@@ -119,9 +157,9 @@
   <path
      id="rect2768"
      style="fill:url(#linearGradient2900);stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
-     d="M 34,22 H 93.999998 C 97.324002,22 100,24.676 100,28 v 56.556701 c 0,3.324 -2.675998,6 -6.000002,6 H 34 c -3.324,0 -6,-2.676 -6,-6 V 28 c 0,-3.324 2.676,-6 6,-6 z" />
+     d="m 34.833334,22 h 58.33333 C 96.398335,22 99,24.676 99,28 v 56.556701 c 0,3.324 -2.601665,6 -5.833336,6 h -58.33333 c -3.231668,0 -5.833334,-2.676 -5.833334,-6 V 28 c 0,-3.324 2.601666,-6 5.833334,-6 z" />
   <path
-     d="m 28,56.27835 v 52.70679 C 28,113.42679 30.469051,117 33.538462,117 H 94.461539 C 97.530947,117 100,113.42679 100,108.98514 V 56.27835 c 0,4.441648 -2.469053,8.01486 -5.538461,8.01486 H 33.538462 C 30.469051,64.29321 28,60.719998 28,56.27835 Z"
+     d="m 29,56 v 52.70679 c 0,4.44165 2.400466,8.01486 5.384616,8.01486 H 93.615385 C 96.599532,116.72165 99,113.14844 99,108.70679 V 56 c 0,4.441648 -2.400468,8.01486 -5.384615,8.01486 H 34.384616 C 31.400466,64.01486 29,60.441648 29,56 Z"
      fill="url(#a)"
      id="path39"
      style="fill:url(#a);stroke-width:1.20185" />
@@ -145,4 +183,25 @@
      style="color:#000000;fill:#77767b;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
      d="m 36,16 c -5.470806,0 -10,4.529194 -10,10 v 33 c 0,5.470806 4.529194,10 10,10 h 56 c 5.470806,0 10,-4.529194 10,-10 V 26 C 102,20.529194 97.470806,16 92,16 Z m 0,8 h 56 c 1.177188,0 2,0.822812 2,2 v 33 c 0,1.177188 -0.822812,2 -2,2 H 36 c -1.177188,0 -2,-0.822812 -2,-2 V 26 c 0,-1.177188 0.822812,-2 2,-2 z"
      id="rect868" />
+  <rect
+     style="fill:url(#linearGradient970);fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     id="rect874"
+     width="10"
+     height="37"
+     x="40"
+     y="80" />
+  <rect
+     style="fill:url(#linearGradient968);fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     id="rect876"
+     width="10"
+     height="37"
+     x="60"
+     y="80" />
+  <rect
+     style="fill:url(#linearGradient966);fill-opacity:1;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     id="rect878"
+     width="10"
+     height="37"
+     x="80"
+     y="80" />
 </svg>

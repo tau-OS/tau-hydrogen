@@ -10,11 +10,14 @@
   <defs
      id="defs14" />
   <path
-     id="path4"
-     style="fill:#241f31"
-     d="M 4 0 C 2.355469 0 1 1.355469 1 3 L 1 10 C 1 11.644531 2.355469 13 4 13 L 10 13 C 11.644531 13 13 11.644531 13 10 L 13 3 C 13 1.355469 11.644531 0 10 0 L 4 0 z M 4 2 L 10 2 C 10.570312 2 11 2.429688 11 3 L 11 10 C 11 10.570312 10.570312 11 10 11 L 4 11 C 3.429688 11 3 10.570312 3 10 L 3 3 C 3 2.429688 3.429688 2 4 2 z " />
-  <path
      style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
      d="M 14.5,6 A 0.5,0.5 0 0 0 14,6.5 V 14 H 5.5 A 0.5,0.5 0 0 0 5,14.5 0.5,0.5 0 0 0 5.5,15 h 9 A 0.50005,0.50005 0 0 0 15,14.5 v -8 A 0.5,0.5 0 0 0 14.5,6 Z"
      id="path1257" />
+  <rect
+     style="fill:none;stroke:#241f31;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+     id="rect941"
+     width="11"
+     height="11"
+     x="1.5"
+     y="1.5" />
 </svg>

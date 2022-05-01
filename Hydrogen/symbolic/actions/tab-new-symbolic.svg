@@ -10,15 +10,11 @@
   <defs
      id="defs14" />
   <path
-     d="m 4,7 h 8 V 9 H 4 Z m 0,0"
-     id="path4"
-     style="fill:#241f31" />
+     id="rect1088"
+     style="fill:#241f31;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+     d="M 6.5,4 C 6.223,4 6,4.223 6,4.5 V 9 H 1.5 C 1.223,9 1,9.223 1,9.5 1,9.777 1.223,10 1.5,10 H 6 v 4.5 C 6,14.777 6.223,15 6.5,15 6.777,15 7,14.777 7,14.5 V 10 h 4.5 C 11.777,10 12,9.777 12,9.5 12,9.223 11.777,9 11.5,9 H 7 V 4.5 C 7,4.223 6.777,4 6.5,4 Z" />
   <path
-     d="m 9,4 v 8 H 7 V 4 Z m 0,0"
-     id="path6"
-     style="fill:#241f31" />
-  <path
-     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="M 8,0 C 3.593571,0 0,3.593571 0,8 c 0,4.406429 3.593571,8 8,8 4.406429,0 8,-3.593571 8,-8 C 16,3.593571 12.406429,0 8,0 Z m 0,2 c 3.32555,0 6,2.6744502 6,6 0,3.32555 -2.67445,6 -6,6 C 4.6744502,14 2,11.32555 2,8 2,4.6744502 4.6744502,2 8,2 Z"
-     id="path938" />
+     id="rect1238"
+     style="fill:#241f31;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="M 14.5,15 C 14.223,15 14,14.777 14,14.5 V 2 H 1.5 C 1.223,2 1,1.777 1,1.5 1,1.223 1.223,1 1.5,1 h 13 C 14.777,1 15,1.223 15,1.5 v 13 c 0,0.277 -0.223,0.5 -0.5,0.5 z" />
 </svg>

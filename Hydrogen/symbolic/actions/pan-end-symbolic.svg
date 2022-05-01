@@ -7,46 +7,15 @@
    viewBox="0 0 4.2333332 4.2333335"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="pan-end-symbolic.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="px"
-     showgrid="true"
-     units="px"
-     width="16px"
-     inkscape:zoom="46"
-     inkscape:cx="8"
-     inkscape:cy="8"
-     inkscape:window-width="2560"
-     inkscape:window-height="919"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
-    <inkscape:grid
-       type="xygrid"
-       id="grid938" />
-  </sodipodi:namedview>
   <defs
      id="defs2" />
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-       d="M 1.9165838,0.53737243 A 0.2645835,0.2645835 0 0 1 2.0786932,0.65651306 L 2.8736151,1.9807319 a 0.26460996,0.26460996 0 0 1 0,0.2714843 L 2.0786932,3.5744819 A 0.2645835,0.2645835 0 0 1 1.715412,3.6662789 0.2645835,0.2645835 0 0 1 1.625568,3.3029977 L 2.3365057,2.1154975 1.6255682,0.92995056 a 0.2645835,0.2645835 0 0 1 0.089844,-0.36328125 0.2645835,0.2645835 0 0 1 0.2011716,-0.0292969 z"
-       id="path856" />
+       style="color:#000000;fill:#241f31;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="M 1.5928563,3.5939206 A 0.13214014,0.14430897 0 0 1 1.6065126,3.4852631 L 2.3595552,2.1174523 1.6065124,0.74751122 A 0.13214014,0.14430897 0 0 1 1.6513834,0.54937044 0.13214014,0.14430897 0 0 1 1.832816,0.60050354 L 2.6268269,2.0428832 a 0.13215336,0.1443234 0 0 1 0,0.1491382 L 1.8328154,3.634401 A 0.13214014,0.14430897 0 0 1 1.6513828,3.683404 0.13214014,0.14430897 0 0 1 1.5928563,3.5939206 Z"
+       id="path857" />
   </g>
 </svg>

@@ -10,11 +10,11 @@
   <defs
      id="defs8" />
   <path
-     id="path929"
-     style="fill:#241f31;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;stop-color:#000000"
-     d="M 8 0 A 8 8 0 0 0 0 8 A 8 8 0 0 0 8 16 A 8 8 0 0 0 16 8 A 8 8 0 0 0 8 0 z M 8 2 A 6 6 0 0 1 14 8 A 6 6 0 0 1 8 14 A 6 6 0 0 1 2 8 A 6 6 0 0 1 8 2 z " />
-  <path
      id="rect1157"
      style="fill:#241f31;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;stop-color:#000000"
      d="M 6 3 L 6 4 L 5 4 L 5 6 L 4 6 L 4 8 L 5 8 L 5 7 L 7 7 L 7 9 L 7 11 L 7 13 L 8 13 L 8 15 L 11 15 L 11 13 L 11 11 L 10 11 L 10 10 L 8 10 L 8 9 L 11 9 L 11 7 L 12 7 L 12 6 L 10 6 L 10 5 L 11 5 L 11 4 L 9 4 L 8 4 L 8 3 L 6 3 z " />
+  <path
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 8,0 C 3.5876485,0 0,3.5876485 0,8 c 0,4.412352 3.5876485,8 8,8 4.412352,0 8,-3.587648 8,-8 C 16,3.5876485 12.412352,0 8,0 Z m 0,1 c 3.871914,0 7,3.1280859 7,7 0,3.871914 -3.128086,7 -7,7 C 4.1280859,15 1,11.871914 1,8 1,4.1280859 4.1280859,1 8,1 Z"
+     id="path925" />
 </svg>

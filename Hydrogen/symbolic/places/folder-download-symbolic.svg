@@ -12,21 +12,17 @@
   <path
      id="path849"
      style="fill:#241f31;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
-     d="M 9,7 A 1,1 0 0 1 8,8 1,1 0 0 1 7,7 1,1 0 0 1 8,6 1,1 0 0 1 9,7 Z" />
+     d="M 9,9 A 1,1 0 0 1 8,10 1,1 0 0 1 7,9 1,1 0 0 1 8,8 1,1 0 0 1 9,9 Z" />
   <path
      id="path851"
      style="fill:#241f31;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
-     d="M 9,4 A 1,1 0 0 1 8,5 1,1 0 0 1 7,4 1,1 0 0 1 8,3 1,1 0 0 1 9,4 Z" />
+     d="M 9,6 A 1,1 0 0 1 8,7 1,1 0 0 1 7,6 1,1 0 0 1 8,5 1,1 0 0 1 9,6 Z" />
   <path
      id="path853"
      style="fill:#241f31;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
-     d="M 9,1 A 1,1 0 0 1 8,2 1,1 0 0 1 7,1 1,1 0 0 1 8,0 1,1 0 0 1 9,1 Z" />
+     d="M 9,3 A 1,1 0 0 1 8,4 1,1 0 0 1 7,3 1,1 0 0 1 8,2 1,1 0 0 1 9,3 Z" />
   <path
-     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="m 4,7 a 1,1 0 0 0 -0.7070312,0.2929687 1,1 0 0 0 0,1.4140626 l 3.9999999,3.9999997 a 1.0001,1.0001 0 0 0 1.4140626,0 L 12.707031,8.7070313 a 1,1 0 0 0 0,-1.4140626 1,1 0 0 0 -1.414062,0 L 8,10.585938 4.7070312,7.2929687 A 1,1 0 0 0 4,7 Z"
-     id="path888" />
-  <path
-     id="rect1091"
-     style="fill:#241f31;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
-     d="m 3,14 h 10 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 H 3 C 2.446,16 2,15.554 2,15 2,14.446 2.446,14 3,14 Z" />
+     style="color:#000000;fill:#241f31;stroke-width:0.999997;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 2.6665772,10 c -0.1768037,2e-5 -0.3463561,0.05271 -0.4713619,0.146484 -0.2602874,0.195254 -0.2602874,0.511778 0,0.707032 l 5.3334221,4 c 0.2603576,0.195184 0.6823667,0.195184 0.9427243,0 l 5.3334223,-4 c 0.260288,-0.195254 0.260288,-0.511778 0,-0.707032 -0.260343,-0.1952124 -0.682383,-0.1952124 -0.942725,0 L 8,14 3.1379392,10.146484 C 3.0129333,10.052711 2.8433808,10.00002 2.6665772,10 Z"
+     id="path1497" />
 </svg>

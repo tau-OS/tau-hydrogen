@@ -23,21 +23,24 @@
   <defs
      id="defs10" />
   <path
-     style="color:#000000;fill:#241f31;fill-opacity:0.5;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="M 1,4 A 1.0001,1.0001 0 0 0 0,5 v 10 a 1.0001,1.0001 0 0 0 1,1 h 14 a 1.0001,1.0001 0 0 0 1,-1 V 5 A 1.0001,1.0001 0 0 0 15,4 Z m 1,2 h 12 v 8 H 2 Z"
-     id="rect951" />
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:0.5"
+     d="M 2.5,5 A 0.500048,0.500048 0 0 0 2,5.5 v 9 A 0.500048,0.500048 0 0 0 2.5,15 h 11 A 0.500048,0.500048 0 0 0 14,14.5 v -9 A 0.500048,0.500048 0 0 0 13.5,5 Z M 3,6 h 10 v 8 H 3 Z"
+     id="path859" />
   <path
-     id="rect1077"
-     style="fill:#241f31;fill-opacity:0.5;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;stop-color:#000000"
-     d="M 4,0 C 3.446,0 3,0.446 3,1 V 3 H 5 V 2 h 6 v 1 h 2 V 1 C 13,0.446 12.554,0 12,0 Z" />
-  <g
-     aria-label="?"
-     id="text3019"
-     style="font-size:10px;line-height:1.25;fill:#241f31;stroke-width:0.950049"
-     transform="matrix(1.0278544,0,0,1.0778947,0.86072779,2.7663158)">
-    <path
-       d="M 5.9729007,9.4941409 H 6.9458011 V 10.421875 H 5.9729007 Z M 6.9458011,8.5664065 H 5.9729007 c 0,-0.9277344 0,-0.9277344 0,-1.8554688 0,-0.9277344 0,-0.9277344 0.9729004,-0.9277344 0.9729004,0 0.9729004,0 0.9729004,-0.9277344 0,-0.9277344 0,-0.9277344 -0.9729004,-0.9277344 -0.7256484,0 -1.3989866,0 -1.9458009,0 V 3.0000001 c 0.9729005,0 1.9458009,0 2.9187013,0 0.9729005,0 0.9729005,0 0.9729005,0.9277344 0,0.6695725 0,1.1437254 0,1.8554688 0,0.9277344 0,0.9277344 -0.9729005,0.9277344 -0.9729004,0 -0.7418462,0 -0.9729004,0 0,0.3871314 0,0.9277344 0,1.8554688 z"
-       id="path8642"
-       style="fill:#241f31;stroke-width:0.950049" />
-  </g>
+     style="color:#000000;fill:#241f31;stroke-width:0.999996;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:0.5"
+     d="M 4.5,2 C 4.2238693,2.000016 4.0000279,2.342211 4,2.5 v 1 C 4,3.657796 4.2238578,4 4.5,4 4.7761422,4 5,3.657796 5,3.5 V 3 h 6 V 3.5 C 11,3.657796 11.223858,4 11.5,4 11.776142,4 12,3.657796 12,3.5 v -1 C 11.999972,2.342211 11.776131,2.000016 11.5,2 Z"
+     id="path1108" />
+  <path
+     id="rect1319"
+     style="fill:#241f31;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="M 6.5 7 C 6.223 7 6 7.223 6 7.5 C 6 7.777 6.223 8 6.5 8 L 9 8 L 9 9 L 7.5253906 9 C 7.516845 8.9995696 7.5086562 9 7.5 9 C 7.223 9 7 9.223 7 9.5 L 7 10.5 C 7 10.777 7.223 11 7.5 11 C 7.777 11 8 10.777 8 10.5 L 8 10 L 9.5 10 C 9.777 10 10 9.777 10 9.5 L 10 7.5 C 10 7.223 9.777 7 9.5 7 L 6.5 7 z " />
+  <rect
+     style="fill:#241f31;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     id="rect1349"
+     width="1"
+     height="1"
+     x="7"
+     y="12"
+     rx="0.5"
+     ry="0.5" />
 </svg>

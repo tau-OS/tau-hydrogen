@@ -9,8 +9,16 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs8" />
-  <path
-     id="path849"
-     style="fill:#241f31;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;stop-color:#000000"
-     d="M 8,0 C 3.581722,0 0,3.581722 0,8 c 0,4.418278 3.581722,8 8,8 4.418278,0 8,-3.581722 8,-8 C 16,3.581722 12.418278,0 8,0 Z M 3,7 H 13 V 9 H 3 Z" />
+  <g
+     id="path1236"
+     style="fill:#241f31">
+    <path
+       style="color:#000000;fill:#241f31;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="M 0.5,7.5 H 15.558824"
+       id="path866" />
+    <path
+       style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       d="M 0.5,7 A 0.5,0.5 0 0 0 0,7.5 0.5,0.5 0 0 0 0.5,8 h 15.058594 a 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z"
+       id="path868" />
+  </g>
 </svg>
