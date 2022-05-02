@@ -33,11 +33,11 @@
        style="fill:#241f31;stroke-width:0.950049" />
   </g>
   <path
-     style="fill:none;stroke:#241f31;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
-     d="m 3.4999961,2.5 -2,5.5 2,5.5"
+     style="color:#000000;fill:#241f31;fill-opacity:0.5;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 3.6699219,2.0292969 a 0.5,0.5 0 0 0 -0.640625,0.3007812 l -2,5.5 a 0.50005,0.50005 0 0 0 0,0.3398438 l 2,5.5000001 a 0.5,0.5 0 0 0 0.640625,0.300781 0.5,0.5 0 0 0 0.3007812,-0.640625 L 2.03125,8 3.9707031,2.6699219 A 0.5,0.5 0 0 0 3.6699219,2.0292969 Z"
      id="path861" />
   <path
-     style="fill:none;stroke:#241f31;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5"
-     d="m 12.5,2.5 2,5.5 -2,5.5"
+     style="color:#000000;fill:#241f31;fill-opacity:0.5;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 12.330078,2.0292969 a 0.5,0.5 0 0 0 -0.300781,0.640625 L 13.96875,8 12.029297,13.330078 a 0.5,0.5 0 0 0 0.300781,0.640625 0.5,0.5 0 0 0 0.640625,-0.300781 l 2,-5.5000001 a 0.50005,0.50005 0 0 0 0,-0.3398438 l -2,-5.5 A 0.5,0.5 0 0 0 12.330078,2.0292969 Z"
      id="path863" />
 </svg>
