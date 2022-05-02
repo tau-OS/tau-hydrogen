@@ -16,14 +16,6 @@
      stroke-width="1.5"
      style="fill:#241f31;paint-order:stroke fill markers"
      id="path2" />
-  <path
-     d="m6 5v0.5c0 1.3994-0.81858 2.5934-2 3.1543v2.3457h7v-6z"
-     fill="#363636"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-width="1.5"
-     style="paint-order:stroke fill markers;fill:#241f31"
-     id="path4" />
   <g
      transform="translate(-.069557)"
      fill="#363636"

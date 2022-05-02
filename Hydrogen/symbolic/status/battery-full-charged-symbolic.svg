@@ -9,12 +9,12 @@
   <defs
      id="defs10" />
   <path
-     d="m2 3c-1.108 0-2 0.892-2 2v6c0 1.108 0.892 2 2 2h11c1.108 0 2-0.892 2-2v-2h1v-2h-1v-2c0-1.108-0.892-2-2-2zm0 1h11c0.554 0 1 0.446 1 1v6c0 0.554-0.446 1-1 1h-11c-0.554 0-1-0.446-1-1v-6c0-0.554 0.446-1 1-1z"
+     d="M 2,3 C 0.892,3 0,3.892 0,5 v 6 c 0,1.108 0.892,2 2,2 h 11 c 1.108,0 2,-0.892 2,-2 v -1 h 1 V 6 H 15 V 5 C 15,3.892 14.108,3 13,3 Z m 0,1 h 11 c 0.554,0 1,0.446 1,1 v 6 c 0,0.554 -0.446,1 -1,1 H 2 C 1.446,12 1,11.554 1,11 V 5 C 1,4.446 1.446,4 2,4 Z"
      fill="#363636"
      stroke-linecap="round"
      stroke-linejoin="round"
      stroke-width="1.5"
-     style="paint-order:stroke fill markers"
+     style="paint-order:stroke fill markers;fill:#241f31"
      id="path2" />
   <rect
      x="2"
