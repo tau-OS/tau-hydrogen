@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16px"
+   viewBox="0 0 16 16"
+   width="16px"
+   version="1.1"
+   id="svg14"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs18" />
+  <circle
+     style="fill:#241f31;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.0901961;stop-color:#000000"
+     id="path1618"
+     cx="8"
+     cy="14"
+     r="1" />
+  <path
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 1.5390625,11 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 H 14.460938 a 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z"
+     id="path1019" />
+  <path
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 5.75,1 C 4.4686242,1 3.6861548,1.670445 3.3398438,2.3203125 2.9935327,2.97018 3,3.6113281 3,3.6113281 V 11 A 0.5,0.5 0 0 0 3.5,11.5 0.5,0.5 0 0 0 4,11 V 3.6113281 c 0,0 0.00647,-0.4146272 0.2226562,-0.8203125 C 4.4388439,2.3853303 4.781381,2 5.75,2 h 4.5 c 0,0 0.465646,0.00734 0.912109,0.2167969 C 11.608573,2.4262488 12,2.7334067 12,3.6113281 V 11 A 0.5,0.5 0 0 0 12.5,11.5 0.5,0.5 0 0 0 13,11 V 3.6113281 C 13,2.3781438 12.266425,1.6288714 11.587891,1.3105469 10.909357,0.99222239 10.25,1 10.25,1 Z"
+     id="path1222" />
+</svg>
