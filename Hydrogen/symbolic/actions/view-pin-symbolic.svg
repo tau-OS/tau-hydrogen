@@ -10,7 +10,7 @@
   <defs
      id="defs8" />
   <path
-     d="M 8,0 V 7 H 3 V 8 H 13 V 7 H 9 V 0 Z m 0,10 v 4 2 l 1,-2 v -4 z"
+     d="M 7,0 V 7 H 3 V 8 H 13 V 7 H 9 V 0 Z m 0,10 v 4 l 1,2 1,-2 v -4 z"
      fill="#2e3436"
      id="path2"
      style="fill:#241f31" />
