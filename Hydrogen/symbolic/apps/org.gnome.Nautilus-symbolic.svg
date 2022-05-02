@@ -4,17 +4,17 @@
    viewBox="0 0 16 16"
    width="16px"
    version="1.1"
-   id="svg10"
+   id="svg8"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs14" />
+     id="defs12" />
   <path
-     id="path2"
-     style="fill:#241f31"
-     d="M 1,4 C 0.449219,4 -0.05480476,4.4519524 0,5 l 1,10 c 0.054805,0.548048 0.449219,1 1,1 h 12 c 0.550781,0 0.945195,-0.451952 1,-1 L 16,5 C 16.054805,4.4519524 15.550781,4 15,4 Z" />
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 1.4375,4 C 0.63155828,4.000086 7.5509852e-5,4.6944408 0,5.5 v 7 C 0,14.402212 1.4776027,16 3.3125,16 h 9.375 C 14.522397,16 16,14.402212 16,12.5 v -7 C 15.999924,4.6944408 15.368442,4.000086 14.5625,4 Z m 0,1 h 13.125 c 0.229548,2.45e-5 0.437472,0.2010366 0.4375,0.5 v 7 C 15,13.887187 13.936414,15 12.6875,15 H 3.3125 C 2.063586,15 1,13.887187 1,12.5 v -7 C 1.000028,5.2010366 1.2079517,5.0000245 1.4375,5 Z"
+     id="rect855" />
   <path
-     id="rect1098"
-     style="fill:#241f31;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
-     d="M 2 1 C 1.446 1 1 1.446 1 2 L 1 3 L 2 3 L 9 3 L 10 3 L 10 2 C 10 1.446 9.554 1 9 1 L 2 1 z " />
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 2.5996094,2 a 0.5,0.5 0 0 0 -0.5,0.5 0.5,0.5 0 0 0 0.5,0.5 h 4.8007812 a 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z"
+     id="path999" />
 </svg>

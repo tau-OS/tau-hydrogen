@@ -8,22 +8,18 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs16" />
-  <path
-     d="m 3.025,0 0.034,0.002 a 2.086,2.086 0 0 0 -0.159,0 H 2.88 L 2.856,0.004 A 1.98,1.98 0 0 0 1,2.045 V 13.959 A 1.981,1.981 0 0 0 3.041,16 h 9.918 A 1.98,1.98 0 0 0 15,13.96 V 5 A 1.991,1.991 0 0 0 14.383,3.578 L 11.426,0.62 A 1.99,1.99 0 0 0 10.004,0 H 9.996 Z M 3.008,2 C 3.006,1.998 3.013,2 3.01,2 H 9.975 C 9.965,2 9.989,2.011 9.982,2.004 L 9.99,2.012 12.988,5.014 12.996,5.02 C 12.989,5.013 13,5.039 13,5.03 v 8.959 c -10e-4,-0.08 -0.093,0.01 -0.012,0.012 H 3.012 C 3.093,14 3.002,13.909 3,13.989 V 2.011 c 10e-4,0.055 0.027,0.005 0.008,-0.01 z"
-     style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal;fill:#241f31;marker:none"
-     color="#bebebe"
-     font-weight="400"
-     font-family="sans-serif"
-     overflow="visible"
-     id="path2" />
   <g
      aria-label="?"
      id="text3019"
      style="font-size:10px;line-height:1.25;fill:#241f31;stroke-width:0.950049"
-     transform="matrix(1.0278544,0,0,1.0778947,0.86072778,0.76631598)">
+     transform="matrix(1.0278544,0,0,1.0778947,0.86072778,0.766316)">
     <path
        d="M 5.9729007,9.4941409 H 6.9458011 V 10.421875 H 5.9729007 Z M 6.9458011,8.5664065 H 5.9729007 c 0,-0.9277344 0,-0.9277344 0,-1.8554688 0,-0.9277344 0,-0.9277344 0.9729004,-0.9277344 0.9729004,0 0.9729004,0 0.9729004,-0.9277344 0,-0.9277344 0,-0.9277344 -0.9729004,-0.9277344 -0.7256484,0 -1.3989866,0 -1.9458009,0 V 3.0000001 c 0.9729005,0 1.9458009,0 2.9187013,0 0.9729005,0 0.9729005,0 0.9729005,0.9277344 0,0.6695725 0,1.1437254 0,1.8554688 0,0.9277344 0,0.9277344 -0.9729005,0.9277344 -0.9729004,0 -0.7418462,0 -0.9729004,0 0,0.3871314 0,0.9277344 0,1.8554688 z"
        id="path8642"
        style="fill:#241f31;stroke-width:0.950049" />
   </g>
+  <path
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 2.5,1 A 0.50005,0.50005 0 0 0 2,1.5 v 13 A 0.50005,0.50005 0 0 0 2.5,15 h 11 A 0.50005,0.50005 0 0 0 14,14.5 V 5.2148437 A 0.50005,0.50005 0 0 0 13.855469,4.8632812 L 10.189453,1.1484375 A 0.50005,0.50005 0 0 0 9.8339844,1 Z M 3,2 H 9.625 L 13,5.4199219 V 14 H 3 Z"
+     id="path859" />
 </svg>
