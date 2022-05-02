@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   enable-background="new"
+   version="1.1"
+   id="svg12"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs16" />
+  <circle
+     style="fill:#241f31;stroke:none;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     id="path930"
+     cx="4"
+     cy="4"
+     r="1" />
+  <circle
+     style="fill:#241f31;stroke:none;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     id="path932"
+     cx="12"
+     cy="4"
+     r="1" />
+  <circle
+     style="fill:#241f31;stroke:none;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     id="path934"
+     cx="4"
+     cy="12"
+     r="1" />
+  <circle
+     style="fill:#241f31;stroke:none;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     id="path936"
+     cx="12"
+     cy="12"
+     r="1" />
+</svg>
