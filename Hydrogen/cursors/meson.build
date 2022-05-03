@@ -1,4 +1,4 @@
-cursor_dir = join_paths(icon_dir, 'cursors')
+cursor_dir = join_paths(icon_dir, 'Hydrogen', 'cursors')
 rsvg = find_program('rsvg-convert')
 xcursorgen = find_program('xcursorgen')
 
