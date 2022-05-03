@@ -16,4 +16,22 @@
      stroke-width="1.5"
      style="fill:#e01b24;paint-order:stroke fill markers"
      id="path2" />
+  <rect
+     style="fill:#e01b24;stroke:none;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;fill-opacity:1"
+     id="rect1051"
+     width="1"
+     height="4"
+     x="7"
+     y="5"
+     rx="0.5"
+     ry="0.5" />
+  <rect
+     style="fill:#e01b24;stroke:none;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;fill-opacity:1"
+     id="rect1054"
+     width="1"
+     height="1"
+     x="7"
+     y="10"
+     rx="0.5"
+     ry="0.5" />
 </svg>
