@@ -50,7 +50,7 @@ sizes = [
 ]
 
 foreach size: sizes
-    run_command('mkdir', join_paths (meson.build_root(), 'cursors', size + 'x' + size))
+    run_command('mkdir', join_paths (meson.build_root(), 'Hydrogen', 'cursors', size + 'x' + size))
 
     foreach cursor : cursors
             message('rendering: ' + size + 'x' + size + '/' + cursor + '.png')
@@ -58,7 +58,7 @@ foreach size: sizes
             run_command(
                 rsvg, '--format', 'png',
                 '--width=@0@'.format(size), '--height=@0@'.format(size),
-                '--output', '@0@.png'.format(join_paths (meson.build_root(), 'cursors', size + 'x' + size, cursor)),
+                '--output', '@0@.png'.format(join_paths (meson.build_root(), 'Hydrogen', 'cursors', size + 'x' + size, cursor)),
                 join_paths ('24', cursor + '.svg')
             )
     endforeach
@@ -75,12 +75,12 @@ foreach cursor : cursors
     run_command(
         xcursorgen,
         cursor + '.in',
-        '-p', join_paths (meson.build_root(), 'cursors'),
-        join_paths (meson.build_root(), 'cursors', cursor)
+        '-p', join_paths (meson.build_root(), 'Hydrogen', 'cursors'),
+        join_paths (meson.build_root(), 'Hydrogen', 'cursors', cursor)
     )
 
     install_data(
-        join_paths (meson.build_root(), 'cursors', cursor),
+        join_paths (meson.build_root(), 'Hydrogen', 'cursors', cursor),
         install_dir: cursor_dir
     )
 endforeach
