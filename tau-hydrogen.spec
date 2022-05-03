@@ -32,8 +32,6 @@ install -pm 0644 LICENSE licenses/LICENSE
 %license licenses/LICENSE
 %doc README.md
 %{_datadir}/icons/Hydrogen/*
-%{_datadir}/icons/Hydrogen/cursor.theme
-%{_datadir}/icons/Hydrogen/cursors
 
 %changelog
 * Tue May 3 2022 Lains <lainsce@airmail.cc> - 1.1-16
