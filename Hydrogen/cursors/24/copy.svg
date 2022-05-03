@@ -11,23 +11,17 @@
   <g
      filter="url(#filter0_d)"
      id="g4"
-     style="fill:#000000;stroke:#ffffff">
+     style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none">
     <path
        d="M35.0002 25.0001C32.2162 25.0001 25 25 25 25C25 25 25.0003 32.2613 25.0003 35.0001V103C25.0003 103.583 25.0501 104.154 25.1457 104.709C27.5758 143.937 60.1603 175 100 175C141.421 175 175 141.421 175 100C175 60.1602 143.937 27.5756 104.709 25.1455C104.154 25.0499 103.583 25.0001 103 25.0001H35.0002Z"
        fill="#00FF00"
        id="path2"
-       style="fill:#000000;stroke:#ffffff" />
+       style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
   <path
-     d="M133 92.3749H66V108.625H133V92.3749Z"
-     fill="#0000FF"
      id="path6"
-     style="fill:#deddda" />
-  <path
-     d="M107.875 68H91.125V133H107.875V68Z"
-     fill="#0000FF"
-     id="path8"
-     style="fill:#deddda" />
+     style="fill:#deddda;stroke:none;stroke-opacity:1"
+     d="M 91.125 68 L 91.125 92.375 L 66 92.375 L 66 108.625 L 91.125 108.625 L 91.125 133 L 107.875 133 L 107.875 108.625 L 133 108.625 L 133 92.375 L 107.875 92.375 L 107.875 68 L 91.125 68 z " />
   <defs
      id="defs25">
     <filter

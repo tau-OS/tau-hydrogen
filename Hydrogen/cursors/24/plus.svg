@@ -10,7 +10,7 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <path
      id="path2"
-     style="fill:#000000;stroke:#ffffff;filter:url(#filter1_d)"
+     style="fill:#000000;stroke:#ffffff;filter:url(#filter1_d);stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
      d="M 82 45 C 76.4772 45 72 49.4771 72 55 L 72 75 L 54 75 C 48.4772 75 44 79.4772 44 85 L 44 115 C 44 120.523 48.4771 125 54 125 L 72 125 L 72 145 C 72 150.523 76.4771 155 82 155 L 115 155 C 120.523 155 125 150.523 125 145 L 125 125 L 144 125 C 149.523 125 154 120.523 154 115 L 154 85 C 154 79.4772 149.523 75 144 75 L 125 75 L 125 55 C 125 49.4772 120.523 45 115 45 L 82 45 z " />
   <defs
      id="defs40">

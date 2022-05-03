@@ -11,12 +11,12 @@
   <g
      filter="url(#filter0_d)"
      id="g4"
-     style="fill:#000000;stroke:#ffffff">
+     style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none">
     <path
        d="M29.5002 115.5C23.9774 115.5 19.5002 111.023 19.5002 105.5V94.5001C19.5002 88.9772 23.9774 84.5001 29.5002 84.5001H171.5C177.023 84.5001 181.5 88.9772 181.5 94.5001V105.5C181.5 111.023 177.023 115.5 171.5 115.5H29.5002Z"
        fill="#00FF00"
        id="path2"
-       style="fill:#000000;stroke:#ffffff" />
+       style="fill:#000000;stroke:#ffffff;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
   <defs
      id="defs21">
