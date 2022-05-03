@@ -8,7 +8,7 @@ Source0:        %{name}-%{version}.tar.gz
 BuildArch:      noarch
 BuildRequires:  meson
 BuildRequires:  ninja-build
-BuildRequires:  librsvg-tools
+BuildRequires:  librsvg2-tools
 BuildRequires:  xcursorgen
 
 %description
