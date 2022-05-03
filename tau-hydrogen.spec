@@ -8,6 +8,8 @@ Source0:        %{name}-%{version}.tar.gz
 BuildArch:      noarch
 BuildRequires:  meson
 BuildRequires:  ninja-build
+BuildRequires:  librsvg-tools
+BuildRequires:  xcursorgen
 
 %description
 Hydrogen is the default icon theme in tauOS.
