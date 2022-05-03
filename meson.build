@@ -26,7 +26,7 @@ else
     message(msg + '\n')
 endif
 
-subdir('cursors')
+subdir('Hydrogen/cursors')
 
 # Let's install
 install_subdir(
