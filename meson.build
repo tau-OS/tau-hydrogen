@@ -7,6 +7,7 @@ project (
 i18n = import('i18n')
 icon_folder = join_paths(meson.source_root(), 'Hydrogen')
 icon_dir = join_paths(get_option('datadir'), 'icons')
+symlink = join_paths(meson.source_root (), 'meson', 'symlink.py')
 
 # Let's do fancy things
 msg_warning = false
@@ -24,6 +25,8 @@ if (msg_warning)
 else
     message(msg + '\n')
 endif
+
+subdir('cursors')
 
 # Let's install
 install_subdir(

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="200"
+   height="200"
+   viewBox="0 0 200 200"
+   fill="none"
+   version="1.1"
+   id="svg25"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <g
+     filter="url(#filter0_d)"
+     id="g6"
+     style="fill:#000000">
+    <path
+       d="M166.468 33.532C177.012 44.0761 177.012 61.1716 166.468 71.7157C155.924 82.2599 138.828 82.2599 128.284 71.7157C117.74 61.1716 117.74 44.0761 128.284 33.532C138.828 22.9878 155.924 22.9878 166.468 33.532Z"
+       fill="#00FF00"
+       id="path2"
+       style="fill:#000000" />
+    <path
+       d="M62.5233 137.477C59.3991 134.352 59.3991 129.287 62.5233 126.163L128.284 60.402C131.408 57.2778 136.474 57.2778 139.598 60.402V60.402C142.722 63.5262 142.722 68.5915 139.598 71.7157L73.837 137.477C70.7128 140.601 65.6475 140.601 62.5233 137.477V137.477Z"
+       fill="#00FF00"
+       id="path4"
+       style="fill:#000000" />
+  </g>
+  <defs
+     id="defs23">
+    <filter
+       id="filter0_d"
+       x="54.1802"
+       y="23.6238"
+       width="126.196"
+       height="126.196"
+       filterUnits="userSpaceOnUse"
+       color-interpolation-filters="sRGB">
+      <feFlood
+         flood-opacity="0"
+         result="BackgroundImageFix"
+         id="feFlood8" />
+      <feColorMatrix
+         in="SourceAlpha"
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
+         id="feColorMatrix10" />
+      <feOffset
+         dy="4"
+         id="feOffset12" />
+      <feGaussianBlur
+         stdDeviation="3"
+         id="feGaussianBlur14" />
+      <feColorMatrix
+         type="matrix"
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"
+         id="feColorMatrix16" />
+      <feBlend
+         mode="normal"
+         in2="BackgroundImageFix"
+         result="effect1_dropShadow"
+         id="feBlend18" />
+      <feBlend
+         mode="normal"
+         in="SourceGraphic"
+         in2="effect1_dropShadow"
+         result="shape"
+         id="feBlend20" />
+    </filter>
+  </defs>
+</svg>
