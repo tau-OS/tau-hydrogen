@@ -15,10 +15,12 @@
      stroke-linejoin="round"
      stroke-width="1.5"
      style="fill:#e01b24;paint-order:stroke fill markers"
+     class="error"
      id="path2" />
   <rect
      style="fill:#e01b24;stroke:none;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;fill-opacity:1"
      id="rect1051"
+     class="error"
      width="1"
      height="4"
      x="7"
@@ -28,6 +30,7 @@
   <rect
      style="fill:#e01b24;stroke:none;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000;fill-opacity:1"
      id="rect1054"
+     class="error"
      width="1"
      height="1"
      x="7"

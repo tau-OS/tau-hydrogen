@@ -8,24 +8,15 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs12" />
-  <g
-     fill="#363636"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-width="2.001"
-     style="paint-order:stroke fill markers;fill:#3d3846"
-     aria-label=""
-     id="g4">
-    <path
-       d="m5.292 1.997h0.71128v12.006h-0.71128l-3.0015-3.0015h-2.2902v-6.0029h2.2902zm-0.2892 1.7118-2.2902 2.2902h-1.7118v4.0019h1.7118l2.2902 2.2902z"
-       fill="#363636"
-       stroke-width="2.001"
-       id="path2"
-       style="fill:#3d3846" />
-  </g>
   <path
-     d="m8.5254 4.8184-0.70703 0.70703 2.4746 2.4746-2.4746 2.4746 0.70703 0.70703 2.4746-2.4746 2.4746 2.4746 0.70703-0.70703-2.4746-2.4746 2.4746-2.4746-0.70703-0.70703-2.4746 2.4746z"
+     d="M 5.292,1.997 H 6.00328 V 14.003 H 5.292 L 2.2905,11.0015 H 3e-4 V 4.9986 H 2.2905 Z M 5.0028,3.7088 2.7126,5.999 H 1.0008 v 4.0019 h 1.7118 l 2.2902,2.2902 z"
      fill="#363636"
+     stroke-width="2.001"
+     id="path2"
+     style="fill:#3d3846;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+  <path
+     id="path6"
      style="paint-order:stroke fill markers;fill:#e01b24"
-     id="path6" />
+     class="error"
+     d="M 8.5253906 4.8183594 L 7.8183594 5.5253906 L 10.292969 8 L 7.8183594 10.474609 L 8.5253906 11.181641 L 11 8.7070312 L 13.474609 11.181641 L 14.181641 10.474609 L 11.707031 8 L 14.181641 5.5253906 L 13.474609 4.8183594 L 11 7.2929688 L 8.5253906 4.8183594 z " />
 </svg>

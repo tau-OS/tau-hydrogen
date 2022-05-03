@@ -22,7 +22,8 @@
      stroke-linecap="round"
      stroke-linejoin="round"
      stroke-width="1.5"
-     style="paint-order:stroke fill markers;fill:#8ff0a4"
+     class="success"
+     style="paint-order:stroke fill markers;fill:#33d17a"
      id="path4" />
   <g
      transform="translate(-.069557)"
@@ -30,6 +31,7 @@
      stroke-linecap="round"
      stroke-linejoin="round"
      stroke-width="4"
+     class="warning"
      style="paint-order:stroke fill markers;fill:#ff7800"
      aria-label=""
      id="g8">

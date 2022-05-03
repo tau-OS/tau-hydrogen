@@ -27,6 +27,7 @@
      stroke-linecap="round"
      stroke-linejoin="round"
      stroke-width="1.5"
-     style="paint-order:stroke fill markers;fill:#8ff0a4"
+     class="success"
+     style="paint-order:stroke fill markers;fill:#33d17a"
      id="rect4" />
 </svg>

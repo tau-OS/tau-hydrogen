@@ -14,6 +14,7 @@
      stroke-linecap="round"
      stroke-linejoin="round"
      stroke-width="1.5"
+     class="error"
      style="fill:#e01b24;paint-order:stroke fill markers"
      id="path2" />
   <g
