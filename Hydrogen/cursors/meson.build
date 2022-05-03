@@ -234,8 +234,3 @@ foreach link_entry : links
         )
     endforeach
 endforeach
-
-install_data(
-    'cursor.theme',
-    install_dir: icon_dir
-)
