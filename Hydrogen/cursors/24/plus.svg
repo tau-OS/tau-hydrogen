@@ -8,67 +8,12 @@
    id="svg42"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <g
-     filter="url(#filter0_d)"
-     id="g8"
-     style="fill:#000000">
-    <g
-       filter="url(#filter1_d)"
-       id="g6"
-       style="fill:#000000">
-      <path
-         d="M72 55C72 49.4771 76.4772 45 82 45H115C120.523 45 125 49.4772 125 55V145C125 150.523 120.523 155 115 155H82C76.4771 155 72 150.523 72 145V55Z"
-         fill="#00FF00"
-         id="path2"
-         style="fill:#000000" />
-      <path
-         d="M54 125C48.4771 125 44 120.523 44 115V85C44 79.4772 48.4772 75 54 75H144C149.523 75 154 79.4772 154 85V115C154 120.523 149.523 125 144 125H54Z"
-         fill="#00FF00"
-         id="path4"
-         style="fill:#000000" />
-    </g>
-  </g>
+  <path
+     id="path2"
+     style="fill:#000000;stroke:#ffffff;filter:url(#filter1_d)"
+     d="M 82 45 C 76.4772 45 72 49.4771 72 55 L 72 75 L 54 75 C 48.4772 75 44 79.4772 44 85 L 44 115 C 44 120.523 48.4771 125 54 125 L 72 125 L 72 145 C 72 150.523 76.4771 155 82 155 L 115 155 C 120.523 155 125 150.523 125 145 L 125 125 L 144 125 C 149.523 125 154 120.523 154 115 L 154 85 C 154 79.4772 149.523 75 144 75 L 125 75 L 125 55 C 125 49.4772 120.523 45 115 45 L 82 45 z " />
   <defs
      id="defs40">
-    <filter
-       id="filter0_d"
-       x="34"
-       y="39"
-       width="130"
-       height="130"
-       filterUnits="userSpaceOnUse"
-       color-interpolation-filters="sRGB">
-      <feFlood
-         flood-opacity="0"
-         result="BackgroundImageFix"
-         id="feFlood10" />
-      <feColorMatrix
-         in="SourceAlpha"
-         type="matrix"
-         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
-         id="feColorMatrix12" />
-      <feOffset
-         dy="4"
-         id="feOffset14" />
-      <feGaussianBlur
-         stdDeviation="5"
-         id="feGaussianBlur16" />
-      <feColorMatrix
-         type="matrix"
-         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"
-         id="feColorMatrix18" />
-      <feBlend
-         mode="normal"
-         in2="BackgroundImageFix"
-         result="effect1_dropShadow"
-         id="feBlend20" />
-      <feBlend
-         mode="normal"
-         in="SourceGraphic"
-         in2="effect1_dropShadow"
-         result="shape"
-         id="feBlend22" />
-    </filter>
     <filter
        id="filter1_d"
        x="38"

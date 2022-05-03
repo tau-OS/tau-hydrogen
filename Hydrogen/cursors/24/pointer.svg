@@ -11,14 +11,14 @@
   <g
      filter="url(#filter0_d)"
      id="g4"
-     style="fill:#000000">
+     style="fill:#000000;stroke:#ffffff">
     <path
        fill-rule="evenodd"
        clip-rule="evenodd"
        d="M100 175C141.421 175 175 141.421 175 100C175 58.5786 141.421 25 100 25C58.5786 25 25 58.5786 25 100C25 141.421 58.5786 175 100 175ZM100 150C127.614 150 150 127.614 150 100C150 72.3858 127.614 50 100 50C72.3858 50 50 72.3858 50 100C50 127.614 72.3858 150 100 150Z"
        fill="#00FF00"
        id="path2"
-       style="fill:#000000" />
+       style="fill:#000000;stroke:#ffffff" />
   </g>
   <defs
      id="defs21">
