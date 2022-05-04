@@ -14,7 +14,7 @@
      d="M 13.499968,4.4999985 V 11.501367"
      id="path1150" />
   <path
-     style="fill:none;stroke:#241f31;stroke-width:0.999999px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="m 3.500001,2.49995 v 11.0001 l 8,-5.50005 z"
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 3.2675781,2.0566406 A 0.50004949,0.50004949 0 0 0 3,2.5 v 11 a 0.50004949,0.50004949 0 0 0 0.7832031,0.412109 L 11.783203,8.4121094 a 0.50004949,0.50004949 0 0 0 0,-0.8242188 l -7.9999999,-5.5 a 0.50004949,0.50004949 0 0 0 -0.515625,-0.03125 z M 4,3.4511719 10.617188,8 4,12.548828 Z"
      id="path1542" />
 </svg>
