@@ -45,6 +45,44 @@
        x2="115.96703"
        y2="66.006171"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="c-3"
+       gradientTransform="matrix(1,0,0,0.850001,0,-135.9253)"
+       gradientUnits="userSpaceOnUse"
+       x1="48.00016"
+       x2="80.00016"
+       y1="275.49991"
+       y2="275.49991">
+      <stop
+         offset="0"
+         stop-color="#e8e7e4"
+         id="stop20" />
+      <stop
+         offset="0.511049"
+         stop-color="#ffffff"
+         id="stop22" />
+      <stop
+         offset="1"
+         stop-color="#c2bfba"
+         id="stop24" />
+    </linearGradient>
+    <linearGradient
+       id="b-6"
+       gradientUnits="userSpaceOnUse"
+       x1="58.999043"
+       x2="69.00042"
+       y1="63.999893"
+       y2="63.999893"
+       gradientTransform="translate(0,-0.999974)">
+      <stop
+         offset="0"
+         stop-color="#9a9996"
+         id="stop15" />
+      <stop
+         offset="1"
+         stop-color="#77767b"
+         id="stop17" />
+    </linearGradient>
   </defs>
   <linearGradient
      id="a"
@@ -188,21 +226,14 @@
      fill="url(#d)"
      id="path52"
      style="fill:#ffce41;stroke-width:1;fill-opacity:0.98431373" />
-  <image
-     height="152"
-     width="192"
-     xlink:href="data:image/png;base64,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"
-     id="image44"
-     x="-9"
-     y="-18" />
   <path
-     d="m 59.0625,56.000034 c 0,0 -0.191406,-2.425781 0.08984,-3.585938 0.773437,-3.191406 4.277344,-8.824218 4.277344,-8.824218 0.378906,-0.789063 0.625,-0.769532 0.984374,-0.04297 0,0 3.625,5.691406 4.429688,8.933594 0.281254,1.13672 0.09766,3.519532 0.09766,3.519532 z m 0,0"
+     d="m 59.0625,69.500026 c 0,0 -0.191406,-2.425781 0.08984,-3.585938 0.773437,-3.191406 4.27734,-8.824218 4.27734,-8.824218 0.37891,-0.789063 0.625,-0.769532 0.98438,-0.04297 0,0 3.625,5.691406 4.42969,8.933594 0.28125,1.13672 0.0977,3.519532 0.0977,3.519532 z m 0,0"
      fill="url(#b)"
-     id="path46"
-     style="fill:url(#b)" />
+     id="path39"
+     style="fill:url(#b-6)" />
   <path
-     d="M 56,54.000034 C 50,65.320346 48,70.039096 48,83.246128 V 124.00003 H 80 V 83.246128 C 80,70.039096 78,65.320346 72,54.000034 Z m 0,0"
+     d="M 56,68.500026 C 50,78.12112 48,82.132838 48,93.359401 V 128.00003 H 80 V 93.359401 C 80,82.132838 78,78.12112 72,68.500026 Z m 0,0"
      fill="url(#c)"
-     id="path48"
-     style="fill:url(#c)" />
+     id="path45"
+     style="fill:url(#c-3)" />
 </svg>
