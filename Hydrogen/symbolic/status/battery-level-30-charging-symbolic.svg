@@ -22,8 +22,8 @@
      stroke-linecap="round"
      stroke-linejoin="round"
      stroke-width="1.5"
-     style="paint-order:stroke fill markers;fill:#e01b24"
-     class="error"
+     style="paint-order:stroke fill markers;fill:#ff7800"
+     class="warning"
      id="path4" />
   <path
      id="path6"
