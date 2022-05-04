@@ -10,7 +10,7 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <path
      id="path2"
-     style="fill:#000000;stroke:#ffffff;filter:url(#filter0_d);stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:#000000;stroke:#ffffff;filter:url(#filter0_d);stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"
      d="M 53 46 C 48.5817 46 45 49.5817 45 54 L 45 100 L 45 147 C 45 151.418 48.5817 155 53 155 C 57.4183 155 61 151.418 61 147 L 61 108 L 146 108 C 150.418 108 154 104.418 154 100 C 154 95.5817 150.418 92 146 92 L 61 92 L 61 54 C 61 49.5817 57.4183 46 53 46 z " />
   <defs
      id="defs23">

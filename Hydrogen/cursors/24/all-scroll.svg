@@ -11,12 +11,12 @@
   <g
      filter="url(#filter0_d)"
      id="g4"
-     style="fill:#000000;stroke:#ffffff;stroke-opacity:1;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none">
+     style="fill:#000000;stroke:#ffffff;stroke-opacity:1;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none">
     <path
        d="M30.2357 119.383C19.2548 108.402 19.2548 90.5982 30.2357 79.6172L78.6172 31.2357C89.5982 20.2548 107.402 20.2548 118.383 31.2357L166.764 79.6172C177.745 90.5982 177.745 108.402 166.764 119.383L118.383 167.764C107.402 178.745 89.5982 178.745 78.6172 167.764L30.2357 119.383Z"
        fill="#00FF00"
        id="path2"
-       style="fill:#000000;stroke:#ffffff;stroke-opacity:1;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="fill:#000000;stroke:#ffffff;stroke-opacity:1;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
   <path
      d="M70.8314 154.379C66.6353 154.379 64.5339 159.452 67.501 162.42L75.593 170.512C88.2442 183.163 108.756 183.163 121.407 170.512L129.499 162.42C132.466 159.452 130.365 154.379 126.169 154.379H70.8314Z"
