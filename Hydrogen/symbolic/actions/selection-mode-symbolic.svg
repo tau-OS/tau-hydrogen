@@ -49,11 +49,11 @@
        id="path868-7-5" />
   </g>
   <path
-     style="fill:none;stroke:#241f31;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="M 11.5,3.5052023 12.529557,4.5000395 14.5,2.5"
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 14.496094,2 A 0.5,0.5 0 0 0 14.144531,2.1484375 L 12.521484,3.796875 11.847656,3.1464844 a 0.5,0.5 0 0 0 -0.707031,0.011719 0.5,0.5 0 0 0 0.01172,0.7070313 l 1.029297,0.9941406 a 0.50005,0.50005 0 0 0 0.703125,-0.00781 l 1.970703,-2 A 0.5,0.5 0 0 0 14.851563,2.1445313 0.5,0.5 0 0 0 14.496094,2 Z"
      id="path935" />
   <path
-     style="fill:none;stroke:#241f31;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="m 11.329268,7.4198269 1.029557,0.9948372 1.970443,-2.0000395"
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 14.326172,5.9140625 A 0.5,0.5 0 0 0 13.972656,6.0644531 L 12.349609,7.7109375 11.675781,7.0605469 a 0.5,0.5 0 0 0 -0.707031,0.011719 0.5,0.5 0 0 0 0.01367,0.7070313 l 1.029297,0.9941406 a 0.50005,0.50005 0 0 0 0.703125,-0.00781 l 1.970703,-2 a 0.5,0.5 0 0 0 -0.0059,-0.7070313 0.5,0.5 0 0 0 -0.353516,-0.1445312 z"
      id="path935-6" />
 </svg>
