@@ -15,12 +15,18 @@
      style="fill:#241f31;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;stop-color:#000000"
      id="path967"
      cx="2.1166666"
-     cy="1.3229167"
+     cy="1.0583334"
      r="0.26458335" />
   <circle
      style="fill:#241f31;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.5;stop-color:#000000"
      id="path969"
      cx="2.1166668"
-     cy="2.9104168"
+     cy="3.1750002"
      r="0.26458335" />
+  <circle
+     style="fill:#241f31;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     id="circle998"
+     cx="2.1166666"
+     cy="2.1166666"
+     r="0.26458332" />
 </svg>
