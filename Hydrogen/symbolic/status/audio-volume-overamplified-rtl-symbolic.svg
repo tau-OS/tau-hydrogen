@@ -9,7 +9,7 @@
   <defs
      id="defs16" />
   <rect
-     x="8"
+     x="-7.0002999"
      y="5"
      width="1"
      height="6"
@@ -17,12 +17,13 @@
      ry="0"
      fill="#363636"
      fill-rule="evenodd"
-     stroke-width=".86602"
-     style="paint-order:stroke fill markers;fill:#ff7800"
+     stroke-width="0.86602"
+     style="fill:#ff7800;paint-order:stroke fill markers"
+     id="rect2"
      class="warning"
-     id="rect2" />
+     transform="scale(-1,1)" />
   <rect
-     x="11"
+     x="-4.0002999"
      y="3"
      width="1"
      height="10"
@@ -30,11 +31,12 @@
      ry="0"
      fill="#363636"
      fill-rule="evenodd"
-     style="paint-order:stroke fill markers;fill:#ff7800"
+     style="fill:#ff7800;paint-order:stroke fill markers"
+     id="rect4"
      class="warning"
-     id="rect4" />
+     transform="scale(-1,1)" />
   <rect
-     x="14"
+     x="-1.0003"
      y="1"
      width="1"
      height="14"
@@ -43,19 +45,21 @@
      fill="#363636"
      fill-rule="evenodd"
      stroke-width="1.0801"
-     style="paint-order:stroke fill markers;fill:#ff7800"
+     style="fill:#ff7800;paint-order:stroke fill markers"
+     id="rect6"
      class="warning"
-     id="rect6" />
+     transform="scale(-1,1)" />
   <g
      fill="#363636"
      stroke-linecap="round"
      stroke-linejoin="round"
      stroke-width="2.001"
-     style="paint-order:stroke fill markers;fill:#241f31"
+     style="fill:#241f31;paint-order:stroke fill markers"
      aria-label=""
-     id="g10">
+     id="g10"
+     transform="matrix(-1,0,0,1,15.0003,0)">
     <path
-       d="m5.292 1.997h0.71128v12.006h-0.71128l-3.0015-3.0015h-2.2902v-6.0029h2.2902zm-0.2892 1.7118-2.2902 2.2902h-1.7118v4.0019h1.7118l2.2902 2.2902z"
+       d="M 5.292,1.997 H 6.00328 V 14.003 H 5.292 L 2.2905,11.0015 H 3e-4 V 4.9986 H 2.2905 Z M 5.0028,3.7088 2.7126,5.999 H 1.0008 v 4.0019 h 1.7118 l 2.2902,2.2902 z"
        fill="#363636"
        stroke-width="2.001"
        id="path8"
