@@ -101,18 +101,19 @@
      style="fill:#f0f0f2" />
   <g
      id="g843"
-     transform="translate(0,-0.2)">
+     transform="translate(0,-0.2)"
+     style="fill:#fecb49">
     <path
        d="m 54.4,54.6 -9.6,9.6 9.6,9.6 v 4.8 L 40,64.2 v 0 L 54.4,49.8 Z"
        id="path4126"
-       style="font-size:48px;line-height:1.25;fill:#38947e;stroke-width:1" />
+       style="font-size:48px;line-height:1.25;fill:#fecb49;stroke-width:1" />
     <path
        d="m 64,45 h 4.8 L 64,83.4 h -4.8 z"
        id="path4128"
-       style="font-size:48px;line-height:1.25;fill:#38947e;stroke-width:1" />
+       style="font-size:48px;line-height:1.25;fill:#fecb49;stroke-width:1" />
     <path
        d="M 73.6,54.6 V 49.8 L 88,64.2 v 0 L 73.6,78.6 v -4.8 l 9.6,-9.6 z"
        id="path4130"
-       style="font-size:48px;line-height:1.25;fill:#38947e;stroke-width:1" />
+       style="font-size:48px;line-height:1.25;fill:#fecb49;stroke-width:1" />
   </g>
 </svg>
