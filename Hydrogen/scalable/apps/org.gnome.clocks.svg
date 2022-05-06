@@ -43,7 +43,8 @@
   <path
      d="m 124 64 c 0 33.136719 -26.863281 60 -60 60 s -60 -26.863281 -60 -60 s 26.863281 -60 60 -60 s 60 26.863281 60 60 z m 0 0"
      fill="#241f31"
-     id="path13" />
+     id="path13"
+     style="fill:#2d2d2d" />
   <path
      d="m 64 6 c 30.929688 0 56 25.070312 56 56 v 2 c 0 30.929688 -25.070312 56 -56 56 s -56 -25.070312 -56 -56 v -2 c 0 -30.929688 25.070312 -56 56 -56 z m 0 0"
      fill="#d5d3cf"
@@ -51,7 +52,8 @@
   <path
      d="m 124 61 c 0 32.585938 -26.863281 59 -60 59 s -60 -26.414062 -60 -59 s 26.863281 -59 60 -59 s 60 26.414062 60 59 z m 0 0"
      fill="#3d3846"
-     id="path17" />
+     id="path17"
+     style="fill:#474747" />
   <g
      clip-path="url(#c)"
      mask="url(#b)"
@@ -62,30 +64,29 @@
        fill-rule="evenodd"
        id="path19" />
   </g>
-  <g
-     fill="none"
-     stroke-linecap="round"
-     id="g29">
-    <path
-       d="m 64 62 l -18 -20"
-       stroke="#9a9996"
-       stroke-width="4.00626"
-       id="path23" />
-    <path
-       d="m 64 62 l 26 -28"
-       stroke="#f6f5f4"
-       stroke-width="2.00313"
-       id="path25" />
-    <path
-       d="m 64 62 l -14 36"
-       stroke="#ff7800"
-       stroke-width="2.00313"
-       id="path27" />
-  </g>
+  <path
+     d="M 64,62 46,42"
+     stroke="#9a9996"
+     stroke-width="4.00626"
+     id="path23"
+     style="fill:none;stroke-linecap:round;stroke:#a5a5a5" />
+  <path
+     d="M 64,62 90,34"
+     stroke="#f6f5f4"
+     stroke-width="2.00313"
+     id="path25"
+     style="fill:none;stroke-linecap:round;stroke:#d0d0d0" />
+  <path
+     d="M 64,62 50,98"
+     stroke="#ff7800"
+     stroke-width="2.00313"
+     id="path27"
+     style="fill:none;stroke-linecap:round;stroke:#f7812b" />
   <path
      d="m 69.480469 59.554688 c 1.347656 3.027343 -0.011719 6.574218 -3.035157 7.925781 c -3.027343 1.347656 -6.574218 -0.011719 -7.925781 -3.035157 c -1.347656 -3.027343 0.011719 -6.574218 3.035157 -7.925781 c 3.027343 -1.347656 6.574218 0.011719 7.925781 3.035157 z m 0 0"
      fill="#d5d3cf"
-     id="path31" />
+     id="path31"
+     style="fill:#d0d0d0" />
   <path
      d="m 66.03125 62 c 0 1.105469 -0.894531 2.003906 -2.003906 2.003906 c -1.105469 0 -2 -0.898437 -2 -2.003906 s 0.894531 -2.003906 2 -2.003906 c 1.109375 0 2.003906 0.898437 2.003906 2.003906 z m 0 0"
      fill="#131c1a"
@@ -93,5 +94,6 @@
   <path
      d="m 66.027344 62 c 0 1.105469 -0.894532 2 -2 2 c -1.101563 0 -2 -0.894531 -2 -2 s 0.898437 -2 2 -2 c 1.105468 0 2 0.894531 2 2 z m 0 0"
      fill="#5e5c64"
-     id="path35" />
+     id="path35"
+     style="fill:#474747" />
 </svg>

@@ -20,32 +20,39 @@
     <stop
        offset="0"
        stop-color="#77767b"
-       id="stop2" />
+       id="stop2"
+       style="stop-color:#fecb49;stop-opacity:1" />
     <stop
        offset="0.0357143"
        stop-color="#c0bfbc"
-       id="stop4" />
+       id="stop4"
+       style="stop-color:#fee8af;stop-opacity:1" />
     <stop
        offset="0.0713653"
        stop-color="#9a9996"
-       id="stop6" />
+       id="stop6"
+       style="stop-color:#fecb49;stop-opacity:1" />
     <stop
        offset="0.928571"
        stop-color="#9a9996"
-       id="stop8" />
+       id="stop8"
+       style="stop-color:#fecb49;stop-opacity:1" />
     <stop
        offset="0.964286"
        stop-color="#c0bfbc"
-       id="stop10" />
+       id="stop10"
+       style="stop-color:#fee8af;stop-opacity:1" />
     <stop
        offset="1"
        stop-color="#77767b"
-       id="stop12" />
+       id="stop12"
+       style="stop-color:#fecb49;stop-opacity:1" />
   </linearGradient>
   <path
      d="m 20.496094 64 c -3.578125 0 -5.070313 -30.53125 -7.539063 -32.089844 l 51.289063 -27.359375 l 51.292968 27.359375 c -2.46875 1.558594 -4.457031 32.089844 -8.035156 32.089844 z m 0 0"
      fill="#9a9996"
-     id="path15" />
+     id="path15"
+     style="fill:#fecb49" />
   <path
      d="m 22.246094 35.265625 c -3.574219 0 -6.820313 1.296875 -9.289063 3.414063 c -2.882812 2.476562 -4.710937 6.082031 -4.710937 10.125 v 54.152343 c 0 4.042969 1.828125 7.648438 4.710937 10.125 c 2.46875 2.121094 5.714844 3.414063 9.289063 3.414063 h 84 c 3.578125 0 6.824218 -1.292969 9.292968 -3.414063 c 2.882813 -2.476562 4.707032 -6.082031 4.707032 -10.125 v -54.152343 c 0 -4.042969 -1.824219 -7.648438 -4.707032 -10.125 c -2.46875 -2.117188 -5.714843 -3.414063 -9.292968 -3.414063 z m 0 0"
      fill="url(#a)"
@@ -61,25 +68,31 @@
   <path
      d="m 12.957031 31.910156 c -2.882812 2.476563 -4.710937 6.082032 -4.710937 10.125 v 54.152344 c 0 4.042969 1.828125 7.648438 4.710937 10.125 l 51.289063 -37.199219 z m 0 0"
      fill="#deddda"
-     id="path21" />
+     id="path21"
+     style="fill:#fee8af" />
   <path
      d="m 115.539062 31.910156 l -51.292968 37.203125 l 51.292968 37.199219 c 2.882813 -2.476562 4.707032 -6.082031 4.707032 -10.125 v -54.152344 c 0 -4.042968 -1.824219 -7.648437 -4.707032 -10.125 z m 0 0"
      fill="#deddda"
-     id="path23" />
+     id="path23"
+     style="fill:#fee8af" />
   <path
      d="m 64.246094 69.113281 l -51.289063 37.199219 c 2.46875 2.121094 5.714844 3.414062 9.289063 3.414062 h 84 c 3.578125 0 6.824218 -1.292968 9.292968 -3.414062 z m 0 0"
      fill="#f6f5f4"
-     id="path25" />
+     id="path25"
+     style="fill:#fee8af" />
   <g
      fill="none"
      stroke="#000000"
      stroke-opacity="0.078431"
-     id="g31">
+     id="g31"
+     style="stroke:#a24806">
     <path
        d="m 12.957031 31.910156 l 102.039063 74.433594 z m 0 0"
-       id="path27" />
+       id="path27"
+       style="stroke:#a24806" />
     <path
        d="m 115.539062 31.910156 l -102.582031 74.402344 z m 0 0"
-       id="path29" />
+       id="path29"
+       style="stroke:#a24806" />
   </g>
 </svg>

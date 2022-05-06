@@ -37,17 +37,19 @@
      id="c"
      cx="-251.055023"
      cy="52.752613"
-     gradientTransform="matrix(-0.846883 1.305436 -1.218098 -0.790224 -65.108978 434.367493)"
+     gradientTransform="matrix(-0.846883,1.305436,-1.218098,-0.790224,-73.108978,418.36749)"
      gradientUnits="userSpaceOnUse"
      r="44">
     <stop
        offset="0"
        stop-color="#8ff0a4"
-       id="stop10" />
+       id="stop10"
+       style="stop-color:#d3eee8;stop-opacity:1" />
     <stop
        offset="0.293477"
        stop-color="#62a0ea"
-       id="stop12" />
+       id="stop12"
+       style="stop-color:#58a8fa;stop-opacity:1" />
     <stop
        offset="0.617135"
        stop-color="#3584e4"
@@ -55,11 +57,13 @@
     <stop
        offset="0.820867"
        stop-color="#9141ac"
-       id="stop16" />
+       id="stop16"
+       style="stop-color:#723ea4;stop-opacity:1" />
     <stop
        offset="1"
        stop-color="#a347ba"
-       id="stop18" />
+       id="stop18"
+       style="stop-color:#7a2e69;stop-opacity:1" />
   </radialGradient>
   <clipPath
      id="d">
@@ -109,58 +113,64 @@
   <path
      d="m 124 66 c 0 33.136719 -26.863281 60 -60 60 s -60 -26.863281 -60 -60 s 26.863281 -60 60 -60 s 60 26.863281 60 60 z m 0 0"
      fill="#241f31"
-     id="path40" />
+     id="path40"
+     style="fill:#2d2d2d" />
   <path
      d="m 124 62 c 0 33.136719 -26.863281 60 -60 60 s -60 -26.863281 -60 -60 s 26.863281 -60 60 -60 s 60 26.863281 60 60 z m 0 0"
      fill="#3d3846"
-     id="path42" />
+     id="path42"
+     style="fill:#474747" />
   <path
      d="m 114 64 c 0 27.613281 -22.386719 50 -50 50 s -50 -22.386719 -50 -50 s 22.386719 -50 50 -50 s 50 22.386719 50 50 z m 0 0"
      fill="#77767b"
-     id="path44" />
+     id="path44"
+     style="fill:#808080" />
   <path
      d="m 108 64 c 0 24.300781 -19.699219 44 -44 44 s -44 -19.699219 -44 -44 s 19.699219 -44 44 -44 s 44 19.699219 44 44 z m 0 0"
      fill="#3d3846"
-     id="path46" />
+     id="path46"
+     style="fill:#333333" />
   <path
      d="m 88 64 c 0 13.253906 -10.746094 24 -24 24 s -24 -10.746094 -24 -24 s 10.746094 -24 24 -24 s 24 10.746094 24 24 z m 0 0"
      fill="#77767b"
-     id="path48" />
+     id="path48"
+     style="fill:#808080" />
   <path
      d="m 80 64 c 0 8.835938 -7.164062 16 -16 16 s -16 -7.164062 -16 -16 s 7.164062 -16 16 -16 s 16 7.164062 16 16 z m 0 0"
-     id="path50" />
-  <g
-     clip-path="url(#d)"
-     mask="url(#b)"
-     transform="matrix(1 0 0 1 -8 -16)"
-     id="g54">
-    <path
-       d="m 72 124 c -24.300781 0 -44 -19.699219 -44 -44 s 19.699219 -44 44 -44 s 44 19.699219 44 44 s -19.699219 44 -44 44 z m 0 0"
-       fill="url(#c)"
-       id="path52" />
-  </g>
+     id="path50"
+     style="fill:#111111" />
+  <path
+     d="M 64,108 C 39.699219,108 20,88.30078 20,64 20,39.699219 39.699219,20 64,20 c 24.300781,0 44,19.699219 44,44 0,24.30078 -19.699219,44 -44,44 z m 0,0"
+     fill="url(#c)"
+     id="path52"
+     style="fill:url(#c);opacity:0.5" />
   <path
      d="m 56.828125 44.921875 c 0 6.628906 -5.375 12 -12 12 c -6.628906 0 -12 -5.371094 -12 -12 s 5.371094 -12 12 -12 c 6.625 0 12 5.371094 12 12 z m 0 0"
      fill="#ffffff"
-     id="path56" />
+     id="path56"
+     style="fill:#f0f0f2" />
   <g
      clip-path="url(#f)"
      mask="url(#e)"
      transform="matrix(1 0 0 1 -8 -16)"
-     id="g60">
+     id="g60"
+     style="fill:#d0d0d0">
     <path
        d="m 104.828125 104.921875 c 0 4.417969 -3.582031 8 -8 8 c -4.421875 0 -8 -3.582031 -8 -8 s 3.578125 -8 8 -8 c 4.417969 0 8 3.582031 8 8 z m 0 0"
        fill="#ffffff"
-       id="path58" />
+       id="path58"
+       style="fill:#d0d0d0" />
   </g>
   <g
      clip-path="url(#h)"
      mask="url(#g)"
      transform="matrix(1 0 0 1 -8 -16)"
-     id="g64">
+     id="g64"
+     style="fill:#e5e5e5">
     <path
        d="m 88 92 c 0 2.210938 -1.789062 4 -4 4 s -4 -1.789062 -4 -4 s 1.789062 -4 4 -4 s 4 1.789062 4 4 z m 0 0"
        fill="#ffffff"
-       id="path62" />
+       id="path62"
+       style="fill:#e5e5e5" />
   </g>
 </svg>

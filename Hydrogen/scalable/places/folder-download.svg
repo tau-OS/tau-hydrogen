@@ -43,36 +43,36 @@
   </linearGradient>
   <path
      id="path17-6"
-     style="fill:#2ec27e;stroke-width:0.999998"
+     style="fill:#2fb744;stroke-width:0.999998"
      d="m 20,12 c -2.277586,0 -7,2.059406 -7,9.267328 v 13.386139 2.059406 11.326732 23.683169 c 2,10.29703 1,13.386139 3,32.950496 C 17,112.91089 17.945019,116 22,116 h 83 c 4.05496,0 7,-3.08911 8,-11.32673 l 2.00001,-68.495554 C 115,24.356437 115,21.267328 105,21.267328 H 63 C 62.962258,14.241496 58.258964,12 56,12 Z" />
   <path
      d="M 16.023473,36.713081 H 112.0016 c 4.10075,0 6.9984,3.254256 6.9984,7.207712 l -6.03033,60.801547 c -0.39058,3.93813 -3.86571,7.15885 -7.96648,7.15885 H 24.02165 c -4.100764,0 -7.550465,-3.27673 -8.02165,-7.20792 L 9.0250685,43.871947 C 8.6810093,39.93243 11.922832,36.682903 16.023473,36.713081 Z"
      fill="#3584e4"
      id="path25"
-     style="fill:#57e389;fill-opacity:1;stroke-width:1.0001" />
+     style="fill:#72da82;fill-opacity:1;stroke-width:1.0001" />
   <g
      id="g845"
      transform="matrix(3.0000002,0,0,3,39.999998,50.999997)"
-     style="fill:#ffffff;stroke-width:0.333367">
+     style="fill:#f0f0f2;stroke-width:0.333367">
     <path
        id="path849"
-       style="fill:#ffffff;stroke-width:0.666667;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       style="fill:#f0f0f2;stroke-width:0.666667;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
        d="M 9,7 A 1,1 0 0 1 8,8 1,1 0 0 1 7,7 1,1 0 0 1 8,6 1,1 0 0 1 9,7 Z" />
     <path
        id="path851"
-       style="fill:#ffffff;stroke-width:0.666667;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       style="fill:#f0f0f2;stroke-width:0.666667;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
        d="M 9,4 A 1,1 0 0 1 8,5 1,1 0 0 1 7,4 1,1 0 0 1 8,3 1,1 0 0 1 9,4 Z" />
     <path
        id="path853"
-       style="fill:#ffffff;stroke-width:0.666667;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       style="fill:#f0f0f2;stroke-width:0.666667;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
        d="M 9,1 A 1,1 0 0 1 8,2 1,1 0 0 1 7,1 1,1 0 0 1 8,0 1,1 0 0 1 9,1 Z" />
     <path
-       style="color:#000000;fill:#ffffff;stroke-width:0.333367;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       style="color:#000000;fill:#f0f0f2;stroke-width:0.333367;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
        d="m 4,7 a 1,1 0 0 0 -0.7070312,0.2929687 1,1 0 0 0 0,1.4140626 l 3.9999999,3.9999997 a 1.0001,1.0001 0 0 0 1.4140626,0 L 12.707031,8.7070313 a 1,1 0 0 0 0,-1.4140626 1,1 0 0 0 -1.414062,0 L 8,10.585938 4.7070312,7.2929687 A 1,1 0 0 0 4,7 Z"
        id="path888" />
     <path
        id="rect1091"
-       style="fill:#ffffff;stroke-width:0.666667;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       style="fill:#f0f0f2;stroke-width:0.666667;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
        d="m 3,14 h 10 c 0.554,0 1,0.446 1,1 0,0.554 -0.446,1 -1,1 H 3 C 2.446,16 2,15.554 2,15 2,14.446 2.446,14 3,14 Z" />
   </g>
 </svg>

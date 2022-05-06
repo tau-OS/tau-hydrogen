@@ -35,11 +35,13 @@
     <stop
        offset="0"
        stop-color="#3d3846"
-       id="stop7" />
+       id="stop7"
+       style="stop-color:#474747;stop-opacity:1" />
     <stop
        offset="1"
        stop-color="#241f31"
-       id="stop9" />
+       id="stop9"
+       style="stop-color:#111111;stop-opacity:1" />
   </linearGradient>
   <linearGradient
      id="c"
@@ -51,7 +53,8 @@
     <stop
        offset="0"
        stop-color="#5e5c64"
-       id="stop12" />
+       id="stop12"
+       style="stop-color:#808080;stop-opacity:1" />
     <stop
        offset="0.0384615"
        stop-color="#c0bfbc"
@@ -59,11 +62,13 @@
     <stop
        offset="0.0768555"
        stop-color="#5e5c64"
-       id="stop16" />
+       id="stop16"
+       style="stop-color:#808080;stop-opacity:1" />
     <stop
        offset="0.923077"
        stop-color="#5e5c64"
-       id="stop18" />
+       id="stop18"
+       style="stop-color:#808080;stop-opacity:1" />
     <stop
        offset="0.961538"
        stop-color="#c0bfbc"
@@ -71,7 +76,8 @@
     <stop
        offset="1"
        stop-color="#5e5c64"
-       id="stop22" />
+       id="stop22"
+       style="stop-color:#808080;stop-opacity:1" />
   </linearGradient>
   <filter
      id="d"
@@ -150,17 +156,20 @@
     <stop
        offset="0"
        stop-color="#8ff0a4"
-       id="stop49" />
+       id="stop49"
+       style="stop-color:#56bfa6;stop-opacity:1" />
     <stop
        offset="1"
        stop-color="#26a269"
        stop-opacity="0.070588"
-       id="stop51" />
+       id="stop51"
+       style="stop-color:#56bfa6;stop-opacity:0.12652853" />
   </linearGradient>
   <path
      d="m 16 28 h 96 c 4.417969 0 8 3.582031 8 8 v 70 c 0 4.417969 -3.582031 8 -8 8 h -96 c -4.417969 0 -8 -3.582031 -8 -8 v -70 c 0 -4.417969 3.582031 -8 8 -8 z m 0 0"
      fill="url(#a)"
-     id="path54" />
+     id="path54"
+     style="fill:#b0b0b0" />
   <path
      d="m 16 32 h 84 c 2.210938 0 4 1.789062 4 4 v 68 c 0 2.210938 -1.789062 4 -4 4 h -84 c -2.210938 0 -4 -1.789062 -4 -4 v -68 c 0 -2.210938 1.789062 -4 4 -4 z m 0 0"
      fill="url(#b)"
@@ -173,17 +182,20 @@
      clip-path="url(#g)"
      mask="url(#e)"
      transform="matrix(1 0 0 1 -8 -16)"
-     id="g62">
+     id="g62"
+     style="fill:#4c9d8d;fill-opacity:1">
     <path
        d="m 24 120 h 84 v -68 h -84 z m 0 0"
        fill="url(#f)"
-       id="path60" />
+       id="path60"
+       style="fill:#4c9d8d;fill-opacity:1" />
   </g>
   <g
      clip-path="url(#i)"
      mask="url(#h)"
      transform="matrix(1 0 0 1 -8 -16)"
-     id="g66">
+     id="g66"
+     style="stroke:#38947e">
     <path
        d="m 16 246 h 26 l 10 -23 l 6 39 l 8 -16 h 34"
        fill="none"
@@ -191,7 +203,8 @@
        stroke-miterlimit="10"
        stroke-width="4"
        transform="matrix(1 0 0 1 8 -156)"
-       id="path64" />
+       id="path64"
+       style="stroke:#38947e" />
   </g>
   <path
      d="m 16 246 h 26 l 10 -23 l 6 39 l 8 -16 h 6"
@@ -205,65 +218,80 @@
   <path
      d="m 116 62 v 4 c 0 2.210938 -1.789062 4 -4 4 s -4 -1.789062 -4 -4 v -2 l 4 -2 z m 0 0"
      fill="#949390"
-     id="path70" />
+     id="path70"
+     style="fill:#8a8a8a" />
   <path
      d="m 116 78 v 6 h -4 c -2.214844 0 -4 -1.785156 -4 -4 v -2 z m 0 0"
      fill="#949390"
-     id="path72" />
+     id="path72"
+     style="fill:#8a8a8a" />
   <path
      d="m 116 82 v -4 c 0 -2.210938 -1.789062 -4 -4 -4 s -4 1.789062 -4 4 s 1.789062 4 4 4 z m 0 0"
      fill="#d5d3cf"
-     id="path74" />
+     id="path74"
+     style="fill:#e5e5e5" />
   <path
      d="m 113 80 c 0 0.550781 0.449219 1 1 1 s 1 -0.449219 1 -1 s -0.449219 -1 -1 -1 s -1 0.449219 -1 1 z m 0 0"
      fill="#68676b"
-     id="path76" />
+     id="path76"
+     style="fill:#a5a5a5" />
   <path
      d="m 116 60 v 4 c 0 2.210938 -1.789062 4 -4 4 s -4 -1.789062 -4 -4 s 1.789062 -4 4 -4 z m 0 0"
      fill="#d5d3cf"
-     id="path78" />
+     id="path78"
+     style="fill:#e5e5e5" />
   <path
      d="m 113 62 c 0 -0.550781 0.449219 -1 1 -1 s 1 0.449219 1 1 s -0.449219 1 -1 1 s -1 -0.449219 -1 -1 z m 0 0"
      fill="#68676b"
-     id="path80" />
+     id="path80"
+     style="fill:#a5a5a5" />
   <path
      d="m 108 48 v 4 c 0 2.210938 1.789062 4 4 4 s 4 -1.789062 4 -4 v -2 l -4 -2 z m 0 0"
      fill="#949390"
-     id="path82" />
+     id="path82"
+     style="fill:#8a8a8a" />
   <path
      d="m 108 46 v 4 c 0 2.210938 1.789062 4 4 4 s 4 -1.789062 4 -4 s -1.789062 -4 -4 -4 z m 0 0"
      fill="#d5d3cf"
-     id="path84" />
+     id="path84"
+     style="fill:#e5e5e5" />
   <path
      d="m 111 48 c 0 -0.550781 -0.449219 -1 -1 -1 s -1 0.449219 -1 1 s 0.449219 1 1 1 s 1 -0.449219 1 -1 z m 0 0"
      fill="#68676b"
-     id="path86" />
+     id="path86"
+     style="fill:#a5a5a5" />
   <path
      d="m 116 36 v 6 h -4 c -2.214844 0 -4 -1.785156 -4 -4 v -2 z m 0 0"
      fill="#949390"
-     id="path88" />
+     id="path88"
+     style="fill:#8a8a8a" />
   <path
      d="m 116 40 v -4 c 0 -2.210938 -1.789062 -4 -4 -4 s -4 1.789062 -4 4 s 1.789062 4 4 4 z m 0 0"
      fill="#d5d3cf"
-     id="path90" />
+     id="path90"
+     style="fill:#e5e5e5" />
   <path
      d="m 113 38 c 0 0.550781 0.449219 1 1 1 s 1 -0.449219 1 -1 s -0.449219 -1 -1 -1 s -1 0.449219 -1 1 z m 0 0"
      fill="#68676b"
-     id="path92" />
+     id="path92"
+     style="fill:#a5a5a5" />
   <g
      fill="none"
      stroke="#241f31"
      transform="matrix(1 0 0 -1 0 -172)"
-     id="g98">
+     id="g98"
+     style="stroke:#333333">
     <path
        d="m 16 -276 h 84 v 68 h -84 z m 0 0"
        stroke-width="0.011211"
-       id="path94" />
+       id="path94"
+       style="stroke:#333333" />
     <path
        d="m 14 -278 h 88 v 72 h -88 z m 0 0"
        stroke-linecap="round"
        stroke-linejoin="round"
        stroke-width="4"
-       id="path96" />
+       id="path96"
+       style="stroke:#333333" />
   </g>
 </svg>

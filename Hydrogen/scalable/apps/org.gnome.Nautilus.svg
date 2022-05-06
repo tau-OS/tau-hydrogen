@@ -47,10 +47,10 @@
      style="stroke-width:1.0001">
     <path
        id="path17-6"
-       style="fill:#1c71d8;stroke-width:1.0001"
+       style="fill:#0674e6;stroke-width:1.0001"
        d="m 17.979046,9.9994139 c -4.000799,0 -7.001398,3.0594231 -7.001398,10.2673831 v 13.38621 c 0,4.46207 1.20024,69.346903 1.20024,69.346903 1.0002,8.00004 3.898817,12.00006 10.017684,12.00006 h 82.604718 c 5.09906,0 7.99767,-4.00002 8.99787,-12.00006 l 0.20004,-68.000363 c -2e-5,-11.821342 -4.00079,-15.00008 -9.00179,-15.00008 l -43.028197,0.26733 C 61.929723,13.240928 58.987228,9.9994139 54.98643,9.9994139 Z" />
     <rect
-       style="opacity:1;fill:#c0bfbc;stroke:none;stroke-width:1.0002;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+       style="opacity:1;fill:#d0d0d0;stroke:none;stroke-width:1.0002;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
        id="rect6832"
        width="84.016762"
        height="71.868233"
@@ -60,7 +60,7 @@
        ry="6.0000315"
        transform="scale(1,-1)" />
     <rect
-       style="fill:#f6f5f4;stroke:none;stroke-width:1.0002;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+       style="fill:#f0f0f2;stroke:none;stroke-width:1.0002;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
        id="rect6832-3"
        width="84.016762"
        height="71.868233"
@@ -73,6 +73,6 @@
        d="m 13.12925,36.963094 h 97.74269 c 4.0719,-2.1e-4 7.12706,3.845975 7.12706,7.692161 l -4.07354,57.728045 c 0,4.7901 -5.09192,9.58019 -10.18385,9.58019 H 22.270812 c -5.091927,0 -10.183854,-4.79009 -10.183854,-9.58019 L 5.9766469,44.655255 c 0,-3.846186 3.0551555,-7.692371 7.1526031,-7.692161 z"
        fill="#3584e4"
        id="path25"
-       style="opacity:1;mix-blend-mode:normal;fill:#62a0ea;fill-opacity:1;stroke:none;stroke-width:1.0002;stroke-opacity:1" />
+       style="opacity:1;mix-blend-mode:normal;fill:#58a8fa;fill-opacity:1;stroke:none;stroke-width:1.0002;stroke-opacity:1" />
   </g>
 </svg>

@@ -19,27 +19,33 @@
     <stop
        offset="0"
        stop-color="#deddda"
-       id="stop2" />
+       id="stop2"
+       style="stop-color:#d0d0d0;stop-opacity:1" />
     <stop
        offset="0.0454546"
        stop-color="#eeeeec"
-       id="stop4" />
+       id="stop4"
+       style="stop-color:#e5e5e5;stop-opacity:1" />
     <stop
        offset="0.0909091"
        stop-color="#deddda"
-       id="stop6" />
+       id="stop6"
+       style="stop-color:#d0d0d0;stop-opacity:1" />
     <stop
        offset="0.909091"
        stop-color="#deddda"
-       id="stop8" />
+       id="stop8"
+       style="stop-color:#d0d0d0;stop-opacity:1" />
     <stop
        offset="0.954545"
        stop-color="#eeeeec"
-       id="stop10" />
+       id="stop10"
+       style="stop-color:#e5e5e5;stop-opacity:1" />
     <stop
        offset="1"
        stop-color="#c0bfbc"
-       id="stop12" />
+       id="stop12"
+       style="stop-color:#d0d0d0;stop-opacity:1" />
   </linearGradient>
   <linearGradient
      id="b"
@@ -52,17 +58,17 @@
        offset="0"
        stop-color="#241f31"
        id="stop15"
-       style="stop-color:#99c1f1;stop-opacity:1" />
+       style="stop-color:#58a8fa;stop-opacity:1" />
     <stop
        offset="0.493608"
        stop-color="#1a5fb4"
        id="stop17"
-       style="stop-color:#62a0ea;stop-opacity:1" />
+       style="stop-color:#268ef9;stop-opacity:1" />
     <stop
        offset="1"
        stop-color="#dc8add"
        id="stop19"
-       style="stop-color:#57e389;stop-opacity:1" />
+       style="stop-color:#fecb49;stop-opacity:1" />
   </linearGradient>
   <linearGradient
      id="c"
@@ -127,7 +133,8 @@
   <path
      d="m 16 28 h 96 c 4.417969 0 8 3.582031 8 8 v 68 c 0 4.417969 -3.582031 8 -8 8 h -96 c -4.417969 0 -8 -3.582031 -8 -8 v -68 c 0 -4.417969 3.582031 -8 8 -8 z m 0 0"
      fill="#f6f5f4"
-     id="path44" />
+     id="path44"
+     style="fill:#f0f0f2" />
   <path
      d="m 16,36 h 96 v 68 H 16 Z m 0,0"
      fill="url(#b)"
@@ -139,19 +146,19 @@
      stroke="#3584e4"
      stroke-width="2"
      id="path48"
-     style="fill:#b5835a;stroke:#b5835a;stroke-linecap:round" />
+     style="fill:#a87801;stroke:#a87801;stroke-linecap:round" />
   <path
      d="m 29,103 40,-32 40,32 z m 0,0"
      fill="#62a0ea"
      stroke="#62a0ea"
      stroke-width="2"
      id="path50"
-     style="stroke-linecap:round;fill:#865e3c;stroke:#865e3c" />
+     style="stroke-linecap:round;fill:#a24806;stroke:#a24806" />
   <path
      d="m 56,56 c 0,4.417969 -3.582031,8 -8,8 -4.417969,0 -8,-3.582031 -8,-8 0,-4.417969 3.582031,-8 8,-8 4.417969,0 8,3.582031 8,8 z m 0,0"
      fill="#f9f06b"
      stroke="#ffbe6f"
      stroke-width="2"
      id="path52"
-     style="stroke-linecap:round;fill:#f9f06b;stroke:#f6d32d" />
+     style="stroke-linecap:round;fill:#fecb49;stroke:#febc16" />
 </svg>
