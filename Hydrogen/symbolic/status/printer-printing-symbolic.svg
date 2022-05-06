@@ -35,9 +35,10 @@
      d="M 4.5,1 A 0.50005,0.50005 0 0 0 4,1.5 v 3 A 0.5,0.5 0 0 0 4.5,5 0.5,0.5 0 0 0 5,4.5 V 2 h 6 V 4.5 A 0.5,0.5 0 0 0 11.5,5 0.5,0.5 0 0 0 12,4.5 v -3 A 0.50005,0.50005 0 0 0 11.5,1 Z"
      id="path1354" />
   <circle
-     style="fill:#241f31;stroke:none;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     style="fill:#3584e4;stroke:none;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
      id="path851"
      cx="12"
      cy="9"
+     class="info"
      r="1" />
 </svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   version="1.1"
+   id="svg4"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <path
+     id="rect1442"
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 3 1 C 2.4546492 1 2 1.4546492 2 2 L 2 4 L 3 4 L 3 2 L 13 2 L 13 4 L 14 4 L 14 2 C 14 1.4546492 13.545351 1 13 1 L 3 1 z " />
+  <path
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 1,5 C 0.45465051,5 0,5.4546505 0,6 v 6 c 0,0.545349 0.45465051,1 1,1 h 14 c 0.545349,0 1,-0.454651 1,-1 V 6 C 16,5.4546505 15.545349,5 15,5 Z m 0,1 h 14 v 6 H 1 Z"
+     id="rect1510" />
+  <path
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 13,12 c -0.54535,0 -1,0.45465 -1,1 v 1 c 0,0.54535 0.45465,1 1,1 h 1 c 0.54535,0 1,-0.45465 1,-1 v -1 c 0,-0.54535 -0.45465,-1 -1,-1 z m 0,1 h 1 v 1 h -1 z"
+     id="rect1514" />
+  <path
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 2,12 c -0.5453498,0 -1,0.45465 -1,1 v 1 c 0,0.54535 0.4546502,1 1,1 h 1 c 0.5453498,0 1,-0.45465 1,-1 V 13 C 4,12.45465 3.5453498,12 3,12 Z m 0,1 h 1 v 1 H 2 Z"
+     id="rect1514-3" />
+  <path
+     id="rect1516"
+     style="fill:#241f31;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="m 5.5,10 h 5 c 0.277,0 0.5,0.223 0.5,0.5 0,0.277 -0.223,0.5 -0.5,0.5 h -5 C 5.223,11 5,10.777 5,10.5 5,10.223 5.223,10 5.5,10 Z" />
+  <path
+     id="path1584"
+     style="fill:#241f31;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="M 4,9 A 1,1 0 0 1 3,10 1,1 0 0 1 2,9 1,1 0 0 1 3,8 1,1 0 0 1 4,9 Z" />
+  <path
+     id="path1608"
+     style="fill:#241f31;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="m 14,9 a 1,1 0 0 1 -1,1 1,1 0 0 1 -1,-1 1,1 0 0 1 1,-1 1,1 0 0 1 1,1 z" />
+</svg>
