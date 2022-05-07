@@ -55,22 +55,8 @@ foreach size: sizes
 endforeach
 
 cursors += [
-    'left_ptr_watch_0001',
-    'left_ptr_watch_0002',
-    'left_ptr_watch_0003',
-    'left_ptr_watch_0004',
-    'left_ptr_watch_0005',
-    'left_ptr_watch_0006',
-    'left_ptr_watch_0007',
-    'left_ptr_watch_0008',
-    'watch_0001',
-    'watch_0002',
-    'watch_0003',
-    'watch_0004',
-    'watch_0005',
-    'watch_0006',
-    'watch_0007',
-    'watch_0008'
+    'left_ptr_watch',
+    'watch'
 ]
 
 foreach cursor : cursors
