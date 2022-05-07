@@ -110,22 +110,12 @@
        id="path20"
        style="fill:url(#c-7)" />
   </g>
-  <g
-     aria-label=".ui"
-     id="text2419"
-     style="font-size:48px;line-height:1.25;fill:#bf56a8;stroke-width:0.931876"
-     transform="matrix(1.074117,0,0,1.0720909,-14.13604,11.336896)">
-    <path
-       d="m 53.472506,66.377865 c 1.824,0 3.072,-1.296 3.072,-3.072 0,-1.776 -1.248,-3.072 -3.072,-3.072 -1.824,0 -3.072,1.296 -3.072,3.072 0,1.776 1.248,3.072 3.072,3.072 z"
-       style="font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.931876"
-       id="path3676" />
-    <path
-       d="m 71.56844,66.377865 c 2.544,0 5.136,-0.912 7.296,-2.496 l 0.864,2.016 h 2.688 v -23.136 h -3.84 v 18.144 c -1.68,1.344 -3.792,2.112 -5.856,2.112 -3.6,0 -5.664,-2.112 -5.664,-5.856 v -14.4 h -3.84 v 15.168 c 0,5.136 3.408,8.448 8.352,8.448 z"
-       style="font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.931876"
-       id="path3678" />
-    <path
-       d="m 90.384375,65.897865 h 3.84 v -23.136 h -3.84 z m 1.968,-28.56 c 1.728,0 2.736,-1.008 2.736,-2.736 0,-1.728 -1.008,-2.736 -2.736,-2.736 -1.728,0 -2.736,1.008 -2.736,2.736 0,1.728 1.008,2.736 2.736,2.736 z"
-       style="font-family:Cantarell;-inkscape-font-specification:Cantarell;stroke-width:0.931876"
-       id="path3680" />
-  </g>
+  <path
+     id="path1948"
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#268ef9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     d="m 63.655007,40.000394 c -1.974306,0.0092 -3.859716,0.176599 -5.518692,0.468576 -4.887123,0.858754 -5.774429,2.656201 -5.774429,5.970998 v 4.377838 h 11.548866 v 1.459279 H 52.361886 48.027693 c -3.356418,0 -6.295399,2.006564 -7.21468,5.823732 -1.060372,4.375361 -1.107405,7.105657 0,11.674237 0.82094,3.400675 2.781445,5.823729 6.137863,5.823731 h 3.970767 v -5.248052 c 0,-3.791408 3.298138,-7.135743 7.214672,-7.135744 h 11.535403 c 3.211052,0 5.774437,-2.629665 5.774437,-5.837118 V 46.439968 c 0,-3.112989 -2.640348,-5.451453 -5.774437,-5.970998 -1.983921,-0.328475 -4.042411,-0.4777 -6.016711,-0.468576 z m -6.245545,3.521014 c 1.192918,0 2.167097,0.984769 2.167097,2.195614 0,1.206551 -0.974179,2.182224 -2.167097,2.182224 -1.197193,0 -2.167096,-0.975673 -2.167096,-2.182224 0,-1.210845 0.969903,-2.195614 2.167096,-2.195614 z" />
+  <path
+     id="path1950-4-1"
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fecb49;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     d="m 77.028537,52.401216 v 5.061982 c 0,3.92447 -3.36398,7.227581 -7.200021,7.227581 H 58.316552 c -3.153327,0 -5.762703,2.669315 -5.762703,5.792694 v 10.854678 c 0,3.089305 2.716046,4.90639 5.762703,5.792695 3.648294,1.061017 7.146814,1.252768 11.511964,0 2.90157,-0.830913 5.762702,-2.503136 5.762702,-5.792695 V 76.993619 H 64.079253 v -1.448163 h 11.511965 5.762702 c 3.34961,0 4.597802,-2.310879 5.762696,-5.779418 1.2033,-3.570806 1.15211,-7.004721 0,-11.585404 -0.827794,-3.298092 -2.408833,-5.779418 -5.762696,-5.779418 z m -6.474638,27.488758 c 1.194757,0 2.162688,0.968252 2.162688,2.165628 0,1.201626 -0.967931,2.178904 -2.162688,2.178904 -1.190503,0 -2.162695,-0.977278 -2.162695,-2.178904 0,-1.197376 0.972192,-2.165628 2.162695,-2.165628 z" />
 </svg>
