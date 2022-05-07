@@ -9,7 +9,7 @@ cursors = [
     'bottom_right_corner',
     'copy',
     'cross',
-    'dnd-none',
+    'dnd_none',
     'dotbox',
     'hand1',
     'left_ptr',
