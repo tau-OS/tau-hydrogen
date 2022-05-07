@@ -24,14 +24,14 @@
   <g
      transform="matrix(1.75,0,0,1.75,13.25,2.5)"
      id="g8"
-     style="fill:#ffffff">
+     style="fill:#268ef9">
     <circle
        cx="50"
        cy="27"
        r="17"
        fill="#0000ff"
        id="circle6"
-       style="fill:#ffffff">
+       style="fill:#268ef9">
       <animate
          attributeName="cy"
          dur="1.0204081632653061s"

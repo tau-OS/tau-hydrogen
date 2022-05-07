@@ -5,36 +5,26 @@ xcursorgen = find_program('xcursorgen')
 cursors = [
     'all-scroll',
     'bottom_tee',
+    'bottom_left_corner',
+    'bottom_right_corner',
     'copy',
     'cross',
-    'crosshair',
     'dnd-none',
     'dotbox',
     'hand1',
     'left_ptr',
     'left_tee',
-    'link',
-    'll_angle',
-    'lr_angle',
+    'left_side',
     'move',
-    'no-drop',
-    'not-allowed',
     'pencil',
     'plus',
-    'pointer',
     'right_ptr',
     'right_tee',
-    'sb_down_arrow',
-    'sb_h_double_arrow',
-    'sb_left_arrow',
-    'sb_right_arrow',
-    'sb_up_arrow',
-    'sb_v_double_arrow',
-    'tcross',
     'text',
     'top_tee',
-    'ul_angle',
-    'ur_angle',
+    'top_left_corner',
+    'top_right_corner',
+    'top_side',
     'vertical-text',
     'X_cursor',
     'zoom-in',
@@ -65,8 +55,22 @@ foreach size: sizes
 endforeach
 
 cursors += [
-    'left_ptr_watch',
-    'watch'
+    'left_ptr_watch_0001',
+    'left_ptr_watch_0002',
+    'left_ptr_watch_0003',
+    'left_ptr_watch_0004',
+    'left_ptr_watch_0005',
+    'left_ptr_watch_0006',
+    'left_ptr_watch_0007',
+    'left_ptr_watch_0008',
+    'watch_0001',
+    'watch_0002',
+    'watch_0003',
+    'watch_0004',
+    'watch_0005',
+    'watch_0006',
+    'watch_0007',
+    'watch_0008'
 ]
 
 foreach cursor : cursors
@@ -99,14 +103,20 @@ links += [[
   'cross',
   [
       'diamond_cross',
-      'cross_reverse'
+      'cross_reverse',
+      'tcross',
+      'crosshair'
   ]
 ]]
 
 links += [[
     'dnd-none',
     [
-        'grabbing'
+        'grabbing',
+        'no-drop',
+        'not-allowed',
+        'crossed_circle',
+        '03b6e0fcb3499374a867c041f52298f0'
     ]
 ]]
 
@@ -124,7 +134,11 @@ links += [[
   'hand1',
   [
       'grab',
-      'fleur'
+      'fleur',
+      'link',
+      'pointer',
+      '3085a0e285430894940527032f8b26df',
+      '640fb0e74195791501fd1ed57b41487f'
   ]
 ]]
 
@@ -139,26 +153,10 @@ links += [[
 ]]
 
 links += [[
-  'link',
-  [
-      '3085a0e285430894940527032f8b26df',
-      '640fb0e74195791501fd1ed57b41487f'
-  ]
-]]
-
-links += [[
   'move',
   [
       '9081237383d90e509aa00f00170e968f',
       '4498f0e0c1937ffe01fd06f973665830'
-  ]
-]]
-
-links += [[
-  'not-allowed',
-  [
-      'crossed_circle',
-      '03b6e0fcb3499374a867c041f52298f0'
   ]
 ]]
 
@@ -188,23 +186,27 @@ links += [[
 ]]
 
 links += [[
-  'sb_h_double_arrow',
+  'left-side',
   [
       'h_double_arrow',
-      'left_side',
+      'sb_h_double_arrow',
       'right_side',
+      'sb_left_arrow',
+      'sb_right_arrow',
       '028006030e0e7ebffc7f7070c0600140',
       '14fef782d02440884392942c11205230'
   ]
 ]]
 
 links += [[
-  'sb_v_double_arrow',
+  'top_side',
   [
       'bottom_side',
       'double_arrow',
-      'top_side',
+      'sb_v_double_arrow',
       'v_double_arrow',
+      'sb_down_arrow',
+      'sb_up_arrow',
       '00008160000006810000408080010102',
       '2870a09082c103050810ffdffffe0204'
   ]

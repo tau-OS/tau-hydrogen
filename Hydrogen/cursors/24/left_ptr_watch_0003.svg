@@ -5,7 +5,7 @@
    viewBox="0 0 200 200"
    fill="none"
    version="1.1"
-   id="svg25"
+   id="svg27"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <g
@@ -18,15 +18,29 @@
        id="path2"
        style="fill:#000000;stroke:#ffffff;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
-  <path
-     fill-rule="evenodd"
-     clip-rule="evenodd"
-     d="M121 104.169L120.975 67L83.2314 67.024L94.2465 77.8551C93.401 78.7327 92.2493 79.9288 91.5693 80.7642C89.8723 82.8499 88.8553 83.9919 87.8322 85.164C87.1093 85.9935 86.2271 87.0693 85.5226 88.013C84.5485 89.3173 83.8072 90.5976 83.311 91.4691C82.631 92.6472 81.9265 94.234 81.0627 95.977C79.8619 98.4053 79.4576 100.461 79.1084 101.879C78.8694 102.841 78.312 105.311 78.0914 107.608C77.9199 109.351 78.0424 111.358 78.0424 112.17C78.0424 113.588 77.8954 115.295 78.2078 118.06C78.4957 120.59 80.0212 126.18 81.1607 128.41C82.1164 130.291 83.991 134 83.991 134C83.991 134 82.9496 124.876 83.2804 120.266C83.4764 117.633 84.7201 113.155 86.3006 109.88C86.5763 109.321 86.6253 108.617 87.4401 107.343C88.0711 106.369 88.9104 105.023 89.615 103.929C90.926 101.903 93.6216 98.6698 94.2648 97.8283C95.3002 96.4759 98.3082 93.7892 100.011 92.3166C100.881 91.5653 103.032 89.7982 104.869 88.3015L121 104.169Z"
-     fill="#0000FF"
-     id="path6"
-     style="fill:#ffffff" />
+  <g
+     transform="matrix(1.3,0,0,1.3,35,64.9)"
+     id="g8"
+     style="fill:#f7812b">
+    <circle
+       cx="50"
+       cy="27"
+       r="17"
+       fill="#0000ff"
+       id="circle6"
+       style="fill:#f7812b">
+      <animate
+         attributeName="cy"
+         dur="1.0204081632653061s"
+         repeatCount="indefinite"
+         calcMode="spline"
+         keySplines="0.45 0 0.9 0.55;0 0.45 0.55 0.9"
+         keyTimes="0;0.5;1"
+         values="27;73;27" />
+    </circle>
+  </g>
   <defs
-     id="defs23">
+     id="defs25">
     <filter
        id="filter0_d"
        x="19"
@@ -38,33 +52,33 @@
       <feFlood
          flood-opacity="0"
          result="BackgroundImageFix"
-         id="feFlood8" />
+         id="feFlood10" />
       <feColorMatrix
          in="SourceAlpha"
          type="matrix"
          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"
-         id="feColorMatrix10" />
+         id="feColorMatrix12" />
       <feOffset
          dy="4"
-         id="feOffset12" />
+         id="feOffset14" />
       <feGaussianBlur
          stdDeviation="3"
-         id="feGaussianBlur14" />
+         id="feGaussianBlur16" />
       <feColorMatrix
          type="matrix"
          values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"
-         id="feColorMatrix16" />
+         id="feColorMatrix18" />
       <feBlend
          mode="normal"
          in2="BackgroundImageFix"
          result="effect1_dropShadow"
-         id="feBlend18" />
+         id="feBlend20" />
       <feBlend
          mode="normal"
          in="SourceGraphic"
          in2="effect1_dropShadow"
          result="shape"
-         id="feBlend20" />
+         id="feBlend22" />
     </filter>
   </defs>
 </svg>
