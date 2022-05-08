@@ -1,4 +1,4 @@
-cursor_dir = join_paths(icon_dir, 'Hydrogen', 'cursors')
+cursor_dir = join_paths(icon_dir, 'cursors')
 rsvg = find_program('rsvg-convert')
 xcursorgen = find_program('xcursorgen')
 
@@ -31,6 +31,25 @@ cursors = [
     'zoom-out'
 ]
 
+watches = [
+    'left_ptr_watch_0001',
+    'left_ptr_watch_0002',
+    'left_ptr_watch_0003',
+    'left_ptr_watch_0004',
+    'left_ptr_watch_0005',
+    'left_ptr_watch_0006',
+    'left_ptr_watch_0007',
+    'left_ptr_watch_0008',
+    'watch_0001',
+    'watch_0002',
+    'watch_0003',
+    'watch_0004',
+    'watch_0005',
+    'watch_0006',
+    'watch_0007',
+    'watch_0008'
+]
+
 sizes = [
     '24',
     '32',
@@ -50,6 +69,17 @@ foreach size: sizes
                 '--width=@0@'.format(size), '--height=@0@'.format(size),
                 '--output', '@0@.png'.format(join_paths (meson.build_root(), 'Hydrogen', 'cursors', size + 'x' + size, cursor)),
                 join_paths ('24', cursor + '.svg')
+            )
+    endforeach
+    
+    foreach watch : watches
+            message('rendering: ' + size + 'x' + size + '/' + watch + '.png')
+
+            run_command(
+                rsvg, '--format', 'png',
+                '--width=@0@'.format(size), '--height=@0@'.format(size),
+                '--output', '@0@.png'.format(join_paths (meson.build_root(), 'Hydrogen', 'cursors', size + 'x' + size, watch)),
+                join_paths ('24', watch + '.svg')
             )
     endforeach
 endforeach
