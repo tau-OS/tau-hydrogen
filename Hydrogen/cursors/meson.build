@@ -172,7 +172,7 @@ links += [[
 ]]
 
 links += [[
-  'left-side',
+  'left_side',
   [
       'h_double_arrow',
       'sb_h_double_arrow',
