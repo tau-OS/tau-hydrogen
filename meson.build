@@ -36,5 +36,5 @@ install_subdir(
 
 install_data(
     join_paths(meson.source_root(), 'logo.png'),
-    install_dir: join_paths(icon_dir, 'Hydrogen')
+    install_dir: join_paths(icon_dir)
 )
