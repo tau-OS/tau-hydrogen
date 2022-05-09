@@ -4,7 +4,6 @@
    width="128"
    height="128"
    id="svg3486"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -22,45 +21,9 @@
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs3488">
-    <linearGradient
-       id="linearGradient7641">
-      <stop
-         style="stop-color:#b0b0b0;stop-opacity:1"
-         offset="0"
-         id="stop7637" />
-      <stop
-         style="stop-color:#d0d0d0;stop-opacity:1"
-         offset="0.03604353"
-         id="stop7905" />
-      <stop
-         style="stop-color:#b0b0b0;stop-opacity:1"
-         offset="0.08323751"
-         id="stop7907" />
-      <stop
-         style="stop-color:#b0b0b0;stop-opacity:1"
-         offset="0.90082103"
-         id="stop7839" />
-      <stop
-         style="stop-color:#d0d0d0;stop-opacity:1"
-         offset="0.95035505"
-         id="stop7773" />
-      <stop
-         style="stop-color:#b0b0b0;stop-opacity:1"
-         offset="1"
-         id="stop7639" />
-    </linearGradient>
-    <linearGradient
-       xlink:href="#linearGradient7641"
-       id="linearGradient7643"
-       x1="13"
-       y1="102.5"
-       x2="115"
-       y2="102.5"
-       gradientUnits="userSpaceOnUse" />
-  </defs>
+     id="defs3488" />
   <rect
-     style="opacity:1;fill:url(#linearGradient7643);fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+     style="opacity:1;fill:#cdcdd4;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
      id="rect5984"
      width="102"
      height="25.00001"

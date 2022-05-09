@@ -64,7 +64,8 @@
      stroke-linecap="round"
      stroke-linejoin="round"
      stroke-opacity="0.078431"
-     id="path19" />
+     id="path19"
+     style="stroke:none;fill:#f0f0f2" />
   <path
      d="m 12.957031 31.910156 c -2.882812 2.476563 -4.710937 6.082032 -4.710937 10.125 v 54.152344 c 0 4.042969 1.828125 7.648438 4.710937 10.125 l 51.289063 -37.199219 z m 0 0"
      fill="#deddda"

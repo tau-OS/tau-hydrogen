@@ -69,24 +69,24 @@
      stroke="#9a9996"
      stroke-width="4.00626"
      id="path23"
-     style="fill:none;stroke-linecap:round;stroke:#a5a5a5" />
+     style="fill:none;stroke-linecap:round;stroke:#ababb6" />
   <path
      d="M 64,62 90,34"
      stroke="#f6f5f4"
      stroke-width="2.00313"
      id="path25"
-     style="fill:none;stroke-linecap:round;stroke:#d0d0d0" />
+     style="fill:none;stroke-linecap:round;stroke:#cdcdd4" />
   <path
      d="M 64,62 50,98"
      stroke="#ff7800"
      stroke-width="2.00313"
      id="path27"
-     style="fill:none;stroke-linecap:round;stroke:#f7812b" />
+     style="fill:none;stroke-linecap:round;stroke:#268ef9" />
   <path
      d="m 69.480469 59.554688 c 1.347656 3.027343 -0.011719 6.574218 -3.035157 7.925781 c -3.027343 1.347656 -6.574218 -0.011719 -7.925781 -3.035157 c -1.347656 -3.027343 0.011719 -6.574218 3.035157 -7.925781 c 3.027343 -1.347656 6.574218 0.011719 7.925781 3.035157 z m 0 0"
      fill="#d5d3cf"
      id="path31"
-     style="fill:#d0d0d0" />
+     style="fill:#cdcdd4" />
   <path
      d="m 66.03125 62 c 0 1.105469 -0.894531 2.003906 -2.003906 2.003906 c -1.105469 0 -2 -0.898437 -2 -2.003906 s 0.894531 -2.003906 2 -2.003906 c 1.109375 0 2.003906 0.898437 2.003906 2.003906 z m 0 0"
      fill="#131c1a"

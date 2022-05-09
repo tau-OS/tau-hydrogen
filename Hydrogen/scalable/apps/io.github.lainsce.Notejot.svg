@@ -5,46 +5,10 @@
    width="128px"
    version="1.1"
    id="svg54"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs58">
-    <linearGradient
-       id="linearGradient1597">
-      <stop
-         style="stop-color:#fee8af;stop-opacity:1"
-         offset="0"
-         id="stop1593" />
-      <stop
-         style="stop-color:#fff6ef;stop-opacity:1"
-         offset="0.03319973"
-         id="stop1989" />
-      <stop
-         style="stop-color:#fee8af;stop-opacity:1"
-         offset="0.07175739"
-         id="stop2055" />
-      <stop
-         style="stop-color:#fee8af;stop-opacity:1"
-         offset="0.93015414"
-         id="stop1859" />
-      <stop
-         style="stop-color:#fff6ef;stop-opacity:1"
-         offset="0.96604574"
-         id="stop1793" />
-      <stop
-         style="stop-color:#fee8af;stop-opacity:1"
-         offset="1"
-         id="stop1595" />
-    </linearGradient>
-    <linearGradient
-       xlink:href="#linearGradient1597"
-       id="linearGradient1599"
-       x1="12"
-       y1="66.006171"
-       x2="115.96703"
-       y2="66.006171"
-       gradientUnits="userSpaceOnUse" />
     <linearGradient
        id="c-3"
        gradientTransform="matrix(1,0,0,0.850001,0,-135.9253)"
@@ -57,7 +21,7 @@
          offset="0"
          stop-color="#e8e7e4"
          id="stop20"
-         style="stop-color:#e5e5e5;stop-opacity:1" />
+         style="stop-color:#e3e3e7;stop-opacity:1" />
       <stop
          offset="0.511049"
          stop-color="#ffffff"
@@ -67,7 +31,7 @@
          offset="1"
          stop-color="#c2bfba"
          id="stop24"
-         style="stop-color:#c2c2c2;stop-opacity:1" />
+         style="stop-color:#bebec7;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        id="b-6"
@@ -81,13 +45,24 @@
          offset="0"
          stop-color="#9a9996"
          id="stop15"
-         style="stop-color:#c2c2c2;stop-opacity:1" />
+         style="stop-color:#9e9eab;stop-opacity:1" />
       <stop
          offset="1"
          stop-color="#77767b"
          id="stop17"
-         style="stop-color:#808080;stop-opacity:1" />
+         style="stop-color:#828292;stop-opacity:1" />
     </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter1637"
+       x="-0.1212891"
+       y="-0.054283207"
+       width="1.2425782"
+       height="1.1085664">
+      <feGaussianBlur
+         stdDeviation="1.617188"
+         id="feGaussianBlur1639" />
+    </filter>
   </defs>
   <linearGradient
      id="a"
@@ -184,12 +159,16 @@
      d="m 19.997464,16.012342 h 87.972106 c 4.41657,0 7.99746,3.581589 7.99746,7.999012 v 83.989636 c 0,4.41742 -3.58089,7.99901 -7.99746,7.99901 H 19.997464 C 15.580896,116 12,112.41841 12,108.00099 V 24.011354 c 0,-4.417423 3.580896,-7.999012 7.997464,-7.999012 z m 0,0"
      fill="#fff2b5"
      id="path26"
-     style="fill:url(#linearGradient1599);fill-opacity:1;stroke-width:1" />
+     style="fill:#fed97c;fill-opacity:1;stroke-width:1" />
   <path
      d="m 19.997464,12.012835 h 87.972106 c 4.41657,0 7.99746,3.581589 7.99746,7.999013 v 83.989632 c 0,4.41743 -3.58089,7.99901 -7.99746,7.99901 H 19.997464 C 15.580896,112.00049 12,108.41891 12,104.00148 V 20.011848 c 0,-4.417424 3.580896,-7.999013 7.997464,-7.999013 z m 0,0"
      fill="url(#a)"
      id="path28"
      style="fill:#fff6ef;stroke-width:1;fill-opacity:1" />
+  <path
+     id="path39-5"
+     style="fill:#111111;filter:url(#filter1637);fill-opacity:0.2"
+     d="M 63.929688 56.5 C 63.775879 56.50293 63.619142 56.695312 63.429688 57.089844 C 63.429688 57.089844 59.925781 62.722656 59.152344 65.914062 C 58.987982 66.592063 58.985772 67.694276 59.011719 68.5 L 56 68.5 C 50 78.121094 48 82.132812 48 93.359375 L 48 128 L 80 128 L 80 93.359375 C 80 82.132812 78 78.121094 72 68.5 L 68.988281 68.5 C 69.011425 67.710242 69.006977 66.640179 68.84375 65.980469 C 68.03906 62.738281 64.414062 57.046875 64.414062 57.046875 C 64.234373 56.683594 64.083496 56.49707 63.929688 56.5 z " />
   <g
      fill="#241f31"
      fill-opacity="0.501961"

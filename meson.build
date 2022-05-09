@@ -15,7 +15,7 @@ msg_warning = false
 msg = '\nPLEASE VERIFY THE CONFIGURATION:'
 
 if (get_option('prefix') == '/usr')
-    msg += '\nInstallation prefix:       @0@ ✔'.format (get_option('prefix'))
+    msg += '\nInstallation prefix:       @0@ ✅'.format (get_option('prefix'))
 else
     msg += '\nInstallation prefix:       @0@ ⛔'.format (get_option('prefix'))
     msg_warning = true
@@ -38,4 +38,14 @@ install_subdir(
 install_data(
     join_paths(meson.source_root(), 'logo.png'),
     install_dir: join_paths(icon_dir)
+)
+
+install_data(
+    'palette/Helium.gpl',
+    install_dir: join_paths (get_option('datadir'), 'gimp', '2.0', 'palettes')
+)
+
+install_data(
+    'palette/Helium.gpl',
+    install_dir: join_paths (get_option('datadir'), 'inkscape', 'palettes')
 )

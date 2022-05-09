@@ -69,7 +69,7 @@
        offset="0"
        stop-color="#c0bfbc"
        id="stop9"
-       style="stop-color:#c2c2c2;stop-opacity:1" />
+       style="stop-color:#bebec7;stop-opacity:1" />
     <stop
        offset="1"
        stop-color="#99c1f1"
@@ -135,7 +135,7 @@
      d="m 12 32 v 84 h 96 c 4.433594 0 8 -3.566406 8 -8 v -68 c 0 -4.433594 -3.566406 -8 -8 -8 z m 0 0"
      fill="#9a9996"
      id="path32"
-     style="fill:#b0b0b0" />
+     style="fill:#828292" />
   <path
      d="m 14 44 v 70 h 94 c 4.433594 0 8 -3.566406 8 -8 v -54 c 0 -4.433594 -3.566406 -8 -8 -8 z m 0 0"
      fill="url(#a)"
@@ -144,7 +144,8 @@
   <path
      d="m 12 14 v 94 h 96 c 4.433594 0 8 -3.566406 8 -8 v -78 c 0 -4.433594 -3.566406 -8 -8 -8 z m 0 0"
      fill="#9a9996"
-     id="path36" />
+     id="path36"
+     style="fill:#828292" />
   <path
      d="m 12 12 v 94 h 96 c 4.433594 0 8 -3.566406 8 -8 v -78 c 0 -4.433594 -3.566406 -8 -8 -8 z m 0 0"
      fill="url(#b)"
@@ -199,11 +200,11 @@
      fill="none"
      stroke="#9a9996"
      id="path56"
-     style="stroke-width:10;stroke-linecap:round;fill:#d0d0d0;stroke:#a5a5a5" />
+     style="stroke-width:10;stroke-linecap:round;fill:#d0d0d0;stroke:#bebec7" />
   <path
      d="m 115,84 c 0,13.25391 -10.74609,24 -24,24 C 77.746094,108 67,97.25391 67,84 67,70.74609 77.746094,60 91,60 c 13.25391,0 24,10.74609 24,24 z m 0,0"
      fill="url(#f)"
      stroke="#deddda"
      id="path58"
-     style="fill:url(#f);stroke-width:10;stroke-linecap:round;stroke:#e5e5e5" />
+     style="fill:url(#f);stroke-width:10;stroke-linecap:round;stroke:#e3e3e7" />
 </svg>

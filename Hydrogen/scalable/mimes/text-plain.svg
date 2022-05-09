@@ -100,33 +100,37 @@
      id="path29"
      style="fill:#f0f0f2" />
   <g
-     fill="#c0bfbc"
-     fill-opacity="0.8"
-     id="g37"
-     style="fill:#c2c2c2">
+     id="g849"
+     style="fill:#cdcdd4">
+    <g
+       fill="#c0bfbc"
+       fill-opacity="0.8"
+       id="g37"
+       style="fill:#cdcdd4">
+      <path
+         d="m 32 64 h 64 v 4 h -64 z m 0 0"
+         id="path31"
+         style="fill:#cdcdd4" />
+      <path
+         d="m 32 28 h 64 v 4 h -64 z m 0 0"
+         id="path33"
+         style="fill:#cdcdd4" />
+      <path
+         d="m 32 76 h 48 v 4 h -48 z m 0 0"
+         id="path35"
+         style="fill:#cdcdd4" />
+    </g>
     <path
-       d="m 32 64 h 64 v 4 h -64 z m 0 0"
-       id="path31"
-       style="fill:#c2c2c2" />
+       d="m 32 40 h 40 v 4 h -40 z m 0 0"
+       fill="#c0bfbc"
+       fill-opacity="0.8"
+       id="path41"
+       style="fill:#cdcdd4" />
     <path
-       d="m 32 28 h 64 v 4 h -64 z m 0 0"
-       id="path33"
-       style="fill:#c2c2c2" />
-    <path
-       d="m 32 76 h 48 v 4 h -48 z m 0 0"
-       id="path35"
-       style="fill:#c2c2c2" />
+       d="m 32 52 h 48 v 4 h -48 z m 0 0"
+       fill="#c0bfbc"
+       fill-opacity="0.8"
+       id="path47"
+       style="fill:#cdcdd4" />
   </g>
-  <path
-     d="m 32 40 h 40 v 4 h -40 z m 0 0"
-     fill="#c0bfbc"
-     fill-opacity="0.8"
-     id="path41"
-     style="fill:#c2c2c2" />
-  <path
-     d="m 32 52 h 48 v 4 h -48 z m 0 0"
-     fill="#c0bfbc"
-     fill-opacity="0.8"
-     id="path47"
-     style="fill:#c2c2c2" />
 </svg>

@@ -34,6 +34,9 @@ install -pm 0644 LICENSE licenses/LICENSE
 %{_datadir}/icons/Hydrogen/*
 
 %changelog
+* Mon May 9 2022 Lains <lainsce@airmail.cc> - 1.1-25
+- Use HIG colors
+
 * Sun May 8 2022 Lains <lainsce@airmail.cc> - 1.1-24
 - Fix meson bruh moment
 
