@@ -32,6 +32,8 @@ install -pm 0644 LICENSE licenses/LICENSE
 %license licenses/LICENSE
 %doc README.md
 %{_datadir}/icons/Hydrogen/*
+%{_datadir}/gimp/2.0/palettes/Helium.gpl
+%{_datadir}/inkscape/palettes/Helium.gpl
 
 %changelog
 * Mon May 9 2022 Lains <lainsce@airmail.cc> - 1.1-25
