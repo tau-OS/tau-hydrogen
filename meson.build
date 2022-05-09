@@ -6,6 +6,7 @@ project (
 
 i18n = import('i18n')
 icon_folder = join_paths(meson.source_root(), 'Hydrogen')
+icon_sys_dir = join_paths(get_option('datadir'), 'icons')
 icon_dir = join_paths(get_option('datadir'), 'icons', 'Hydrogen')
 symlink = join_paths(meson.source_root (), 'meson', 'symlink.py')
 
@@ -31,7 +32,7 @@ subdir('Hydrogen')
 # Let's install
 install_subdir(
     icon_folder,
-    install_dir : icon_dir
+    install_dir : icon_sys_dir
 )
 
 install_data(
