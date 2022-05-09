@@ -1,7 +1,7 @@
 Summary:        Hydrogen Icon Theme for tauOS
 Name:           tau-hydrogen
 Version:        1.1
-Release:        23%{dist}
+Release:        24%{dist}
 License:        GPLv3
 URL:            https://tauos.co
 Source0:        %{name}-%{version}.tar.gz
@@ -34,6 +34,9 @@ install -pm 0644 LICENSE licenses/LICENSE
 %{_datadir}/icons/Hydrogen/*
 
 %changelog
+* Sun May 8 2022 Lains <lainsce@airmail.cc> - 1.1-24
+- Fix meson bruh moment
+
 * Sun May 8 2022 Lains <lainsce@airmail.cc> - 1.1-23
 - Fix meson bruh moment
 
