@@ -15,10 +15,12 @@
      style="fill:#e01b24;stroke-width:1" />
   <path
      id="rect975"
+     class="error"
      style="fill:#e01b24;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
      d="M 7.5,3 C 7.777,3 8,3.223 8,3.5 v 5 C 8,8.777 7.777,9 7.5,9 7.223,9 7,8.777 7,8.5 v -5 C 7,3.223 7.223,3 7.5,3 Z" />
   <path
      id="rect977"
+     class="error"
      style="fill:#e01b24;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
      d="M 7.5,11 C 7.777,11 8,11.223 8,11.5 8,11.777 7.777,12 7.5,12 7.223,12 7,11.777 7,11.5 7,11.223 7.223,11 7.5,11 Z" />
 </svg>

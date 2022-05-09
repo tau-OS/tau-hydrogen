@@ -16,6 +16,7 @@
   <rect
      style="fill:#ff7800;stroke:none;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
      id="rect938"
+     class="warning"
      width="1"
      height="5"
      x="8"
@@ -25,6 +26,7 @@
   <rect
      style="fill:#ff7800;stroke:none;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
      id="rect940"
+     class="warning"
      width="1"
      height="1"
      x="8"
