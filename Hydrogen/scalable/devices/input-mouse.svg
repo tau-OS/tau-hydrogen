@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   width="128"
+   height="128"
+   id="svg3486"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata83">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3488" />
+  <rect
+     style="opacity:1;fill:#ababb6;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+     id="rect6798"
+     width="72"
+     height="104"
+     x="28"
+     y="15"
+     rx="12"
+     ry="12" />
+  <rect
+     style="fill:#e3e3e7;fill-opacity:1;stroke:none;stroke-width:0.999999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stop-color:#000000"
+     id="rect6798-3"
+     width="72"
+     height="99.999992"
+     x="28"
+     y="12.000004"
+     rx="12"
+     ry="12" />
+  <ellipse
+     style="fill:#ababb6;stroke-width:9.99997;stroke-linejoin:round;stop-color:#000000"
+     id="path1599"
+     cx="64.5"
+     cy="32.5"
+     rx="4.5"
+     ry="12.5" />
+</svg>
