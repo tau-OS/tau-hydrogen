@@ -1,0 +1,1 @@
+option('cursors', type: 'boolean', value: true, description: 'Include cursors')
