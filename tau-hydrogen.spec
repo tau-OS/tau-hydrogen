@@ -15,7 +15,7 @@ BuildRequires:  xcursorgen
 Hydrogen is the default icon theme in tauOS.
 
 %prep
-%autosetup
+%setup -q -n tau-hydrogen-main
 
 %build
 %meson
