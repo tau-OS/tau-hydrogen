@@ -4,7 +4,7 @@ Version:        1.1
 Release:        31%{dist}
 License:        GPLv3
 URL:            https://tauos.co
-Source0:        %{name}-%{version}.tar.gz
+Source0:        https://github.com/tau-OS/tau-hydrogen/archive/refs/heads/main.zip
 BuildArch:      noarch
 BuildRequires:  meson
 BuildRequires:  ninja-build
