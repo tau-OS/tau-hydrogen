@@ -5,8 +5,8 @@
    viewBox="0 0 200 200"
    version="1.1"
    id="svg27"
-   sodipodi:docname="watch-0001.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="watch_0001.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,9 +21,16 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="3.28"
-     inkscape:cx="99.847561"
+     inkscape:cx="100.45732"
      inkscape:cy="100"
-     inkscape:current-layer="svg27" />
+     inkscape:current-layer="svg27"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="2560"
+     inkscape:window-height="927"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
   <g
      filter="url(#filter0_d)"
      id="g4"
@@ -39,7 +46,7 @@
        style="fill:#000000;stroke:#ffffff;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
   <g
-     transform="matrix(1.75,0,0,1.75,13.25,2.5)"
+     transform="matrix(2.8235294,0,0,2.8235294,-41.17647,23.764706)"
      id="g8"
      style="fill:#8c56bf">
     <circle
