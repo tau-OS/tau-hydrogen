@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    sodipodi:docname="open-menu-symbolic.svg"
-   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,10 +24,10 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
      inkscape:zoom="48.875"
-     inkscape:cx="8.0102302"
+     inkscape:cx="8.0204604"
      inkscape:cy="8"
      inkscape:window-width="2560"
-     inkscape:window-height="911"
+     inkscape:window-height="927"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -39,11 +39,15 @@
   <defs
      id="defs2" />
   <path
-     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="m 7.7480469,0.06835937 -6.5,3.80078123 C 1.0945283,3.9587122 1.0000941,4.1230426 1,4.3007812 v 7.4240238 c -2.084e-4,0.168236 0.084196,0.3253 0.2246094,0.417969 l 6.5,3.775195 c 0.1670507,0.110222 0.3837305,0.110222 0.5507812,0 L 14.775391,12.142774 C 14.915805,12.050105 15.000208,11.893041 15,11.724805 V 4.3007812 c -9.4e-5,-0.1777386 -0.09453,-0.342069 -0.248047,-0.4316406 L 8.2519531,0.06835937 c -0.1556927,-0.09081818 -0.3482135,-0.09081818 -0.5039062,0 z M 8,1.0800781 14,4.5859375 V 11.457227 L 8,14.900391 2,11.457227 V 4.5878906 Z"
-     id="path938" />
+     style="color:#000000;fill:#241f31;-inkscape-stroke:none"
+     d="M 2,3 V 4 H 14 V 3 Z"
+     id="path1063" />
   <path
      style="color:#000000;fill:#241f31;-inkscape-stroke:none"
-     d="M 8,5 C 6.348932,5 5,6.3489319 5,8 5,9.6510681 6.348932,11 8,11 9.651068,11 11,9.6510681 11,8 11,6.3489319 9.651068,5 8,5 Z M 8,5.9765625 C 9.1231968,5.9765625 10.023438,6.876803 10.023438,8 10.023438,9.123197 9.1231968,10.023438 8,10.023438 6.8768032,10.023438 5.9765625,9.123197 5.9765625,8 5.9765625,6.876803 6.8768032,5.9765625 8,5.9765625 Z"
-     id="path895" />
+     d="M 2,8 V 9 H 12 V 8 Z"
+     id="path1057" />
+  <path
+     style="color:#000000;fill:#241f31;-inkscape-stroke:none"
+     d="m 2,13 v 1 h 8 v -1 z"
+     id="path1051" />
 </svg>
