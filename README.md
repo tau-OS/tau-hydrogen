@@ -3,7 +3,7 @@
 ![Light screenshot](logo.png#gh-light-mode-only)
 ![Dark screenshot](logo-dark.png#gh-dark-mode-only)
 
-![](Hydrogen/scalable/apps/org.gnome.Nautilus.svg)  ![](Hydrogen/scalable/apps/systemsettings.svg)  ![](Hydrogen/scalable/apps/org.gnome.Weather.svg) ![](Hydrogen/scalable/apps/utilities-terminal.svg) ![](Hydrogen/scalable/apps/application-default-icon.svg) ![](Hydrogen/scalable/apps/org.gnome.Music.svg) ![](Hydrogen/scalable/apps/org.gnome.Geary.svg) ![](Hydrogen/scalable/apps/org.gnome.Photos.svg) ![](Hydrogen/scalable/apps/org.gnome.Boxes.svg) ![](Hydrogen/scalable/apps/org.gnome.Totem.svg) ![](Hydrogen/scalable/apps/org.gnome.SystemMonitor.svg) ![](Hydrogen/scalable/apps/org.gnome.baobab.svg) 
+![](Hydrogen/scalable/apps/org.gnome.Nautilus.svg)  ![](Hydrogen/scalable/apps/systemsettings.svg)  ![](Hydrogen/scalable/apps/utilities-terminal.svg) ![](Hydrogen/scalable/apps/application-default-icon.svg)
 
 Hydrogen is the default icon theme in tauOS
 
