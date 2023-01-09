@@ -5,7 +5,7 @@
    width="16px"
    version="1.1"
    id="svg4"
-   sodipodi:docname="stopwatch-symbolic-filled.svg"
+   sodipodi:docname="stopwatch-filled-symbolic.svg"
    xml:space="preserve"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -31,8 +31,8 @@
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4" /><defs
      id="defs8" /><path
-     style="fill:none;stroke:#241f31;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="m 13.5,0.5 2,2"
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 13.146484,0.14648437 a 0.5,0.5 0 0 0 0,0.70703126 l 2,1.99999997 a 0.5,0.5 0 0 0 0.707032,0 0.5,0.5 0 0 0 0,-0.7070312 l -2,-2.00000003 a 0.5,0.5 0 0 0 -0.707032,0 z"
      id="path860" /><path
      id="path341"
      style="opacity:1;fill:#241f31;fill-opacity:1;stroke:none;stroke-width:1.04972;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
