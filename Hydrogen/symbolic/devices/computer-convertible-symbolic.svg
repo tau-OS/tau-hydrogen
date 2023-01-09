@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="computer-laptop-symbolic.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="true"
+     inkscape:zoom="48.875"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="2560"
+     inkscape:window-height="927"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6">
+    <inkscape:grid
+       type="xygrid"
+       id="grid290" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <path
+     style="color:#000000;fill:#241f31;stroke-width:0.801784;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 3,2 C 2.3671312,1.9913132 2.0115325,2.4197207 2,3 v 7 c 0.018054,0.526092 0.3628153,0.950982 1,1 h 10 c 0.614453,-2.5e-5 1.005149,-0.456325 0.999802,-1 V 3 C 14.012822,2.4563258 13.581365,2.0034618 13,2 Z m 0,1 h 10 v 7 H 3 Z"
+     id="path859"
+     sodipodi:nodetypes="cccccccccccccc" />
+  <path
+     id="path459"
+     style="fill:#241f31;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+     d="m 2,12 c 0,0 -1,0 -1,1 0.00738,0.63332 -0.0268936,0.367816 0,1 0,0 0,1 1.012869,1 H 14 c 0,0 1,0 1,-1.085907 C 15,13.385731 15,13.525438 15,13 15,12 14,12 14,12 9.9012568,12 5,12 2,12 Z m 0,1 h 12 v 1 H 2 Z"
+     sodipodi:nodetypes="sccccssssscccs" />
+</svg>
