@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16px"
+   viewBox="0 0 16 16"
+   width="16px"
+   version="1.1"
+   id="svg54"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs58" />
+  <filter
+     id="a"
+     height="1"
+     width="1"
+     x="0"
+     y="0">
+    <feColorMatrix
+       in="SourceGraphic"
+       type="matrix"
+       values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"
+       id="feColorMatrix2" />
+  </filter>
+  <mask
+     id="b">
+    <g
+       filter="url(#a)"
+       id="g7">
+      <rect
+         fill-opacity="0.6"
+         height="16"
+         width="16"
+         id="rect5" />
+    </g>
+  </mask>
+  <radialGradient
+     id="c"
+     cx="-251.055023"
+     cy="52.752613"
+     gradientTransform="matrix(-0.846883 1.305436 -1.218098 -0.790224 -65.108978 434.367493)"
+     gradientUnits="userSpaceOnUse"
+     r="44">
+    <stop
+       offset="0"
+       stop-color="#8ff0a4"
+       id="stop10" />
+    <stop
+       offset="0.293477"
+       stop-color="#62a0ea"
+       id="stop12" />
+    <stop
+       offset="0.617135"
+       stop-color="#3584e4"
+       id="stop14" />
+    <stop
+       offset="0.820867"
+       stop-color="#9141ac"
+       id="stop16" />
+    <stop
+       offset="1"
+       stop-color="#a347ba"
+       id="stop18" />
+  </radialGradient>
+  <clipPath
+     id="d">
+    <rect
+       height="152"
+       width="192"
+       id="rect21" />
+  </clipPath>
+  <mask
+     id="e">
+    <g
+       filter="url(#a)"
+       id="g26">
+      <rect
+         fill-opacity="0.5"
+         height="16"
+         width="16"
+         id="rect24" />
+    </g>
+  </mask>
+  <clipPath
+     id="f">
+    <rect
+       height="152"
+       width="192"
+       id="rect29" />
+  </clipPath>
+  <mask
+     id="g">
+    <g
+       filter="url(#a)"
+       id="g34">
+      <rect
+         fill-opacity="0.5"
+         height="16"
+         width="16"
+         id="rect32" />
+    </g>
+  </mask>
+  <clipPath
+     id="h">
+    <rect
+       height="152"
+       width="192"
+       id="rect37" />
+  </clipPath>
+  <path
+     style="color:#000000;fill:#241f31;-inkscape-stroke:none"
+     d="M 6.1425781,2 C 5.362757,2 4.7148437,2.6357351 4.7148437,3.4160156 V 3.8339844 H 2.4277344 C 1.6479132,3.8339844 1,4.4697196 1,5.25 v 7.333984 C 1,13.364265 1.6479133,14 2.4277344,14 H 13.572266 C 14.352086,14 15,13.364265 15,12.583984 V 5.25 C 15,4.4697195 14.352087,3.8339844 13.572266,3.8339844 h -2.28711 V 3.4160156 C 11.285156,2.6357351 10.637243,2 9.8574219,2 Z m 0,1 h 3.7148438 c 0.2430561,0 0.4277341,0.1865319 0.4277341,0.4160156 v 1.4179688 h 3.28711 C 13.815322,4.8339844 14,5.0205163 14,5.25 v 7.333984 C 14,12.813469 13.815322,13 13.572266,13 H 2.4277344 C 2.1846775,13 2,12.813469 2,12.583984 V 5.25 C 2,5.0205162 2.1846775,4.8339844 2.4277344,4.8339844 H 5.7148437 V 3.4160156 C 5.7148437,3.1865319 5.8995213,3 6.1425781,3 Z"
+     id="path40" />
+  <g
+     clip-path="url(#d)"
+     mask="url(#b)"
+     transform="matrix(1 0 0 1 -168 -16)"
+     id="g44">
+    <path
+       d="m 72 124 c -24.300781 0 -44 -19.699219 -44 -44 s 19.699219 -44 44 -44 s 44 19.699219 44 44 s -19.699219 44 -44 44 z m 0 0"
+       fill="url(#c)"
+       id="path42" />
+  </g>
+  <g
+     clip-path="url(#f)"
+     mask="url(#e)"
+     transform="matrix(1 0 0 1 -168 -16)"
+     id="g48">
+    <path
+       d="m 104.828125 104.921875 c 0 4.417969 -3.582031 8 -8 8 c -4.421875 0 -8 -3.582031 -8 -8 s 3.578125 -8 8 -8 c 4.417969 0 8 3.582031 8 8 z m 0 0"
+       fill="#ffffff"
+       id="path46" />
+  </g>
+  <g
+     clip-path="url(#h)"
+     mask="url(#g)"
+     transform="matrix(1 0 0 1 -168 -16)"
+     id="g52">
+    <path
+       d="m 88 92 c 0 2.210938 -1.789062 4 -4 4 s -4 -1.789062 -4 -4 s 1.789062 -4 4 -4 s 4 1.789062 4 4 z m 0 0"
+       fill="#ffffff"
+       id="path50" />
+  </g>
+  <path
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 8,6 C 6.34907,6 5,7.34907 5,9 c 0,1.65093 1.34907,3 3,3 1.65093,0 3,-1.34907 3,-3 C 11,7.34907 9.65093,6 8,6 Z m 0,1 c 1.110491,0 2,0.889509 2,2 0,1.110491 -0.889509,2 -2,2 C 6.889509,11 6,10.110491 6,9 6,7.889509 6.889509,7 8,7 Z"
+     id="path1014" />
+</svg>
