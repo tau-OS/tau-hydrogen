@@ -1,18 +1,18 @@
 <svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g style="mix-blend-mode:hard-light" opacity="0.66" filter="url(#filter0_diii_5_6)">
-<ellipse cx="37" cy="36.5" rx="15" ry="14.5" fill="#6F98AF"/>
-<ellipse cx="37" cy="36.5" rx="15" ry="14.5" fill="url(#paint0_linear_5_6)"/>
+<ellipse cx="35.1429" cy="34.5714" rx="17.1429" ry="16.5714" fill="#6F98AF"/>
+<ellipse cx="35.1429" cy="34.5714" rx="17.1429" ry="16.5714" fill="url(#paint0_linear_5_6)"/>
 </g>
 <g style="mix-blend-mode:hard-light" opacity="0.66" filter="url(#filter1_diii_5_6)">
-<ellipse cx="66.5" cy="55" rx="11.5" ry="11" fill="#6F98AF"/>
-<ellipse cx="66.5" cy="55" rx="11.5" ry="11" fill="url(#paint1_linear_5_6)"/>
+<ellipse cx="68.8572" cy="55.7143" rx="13.1429" ry="12.5714" fill="#6F98AF"/>
+<ellipse cx="68.8572" cy="55.7143" rx="13.1429" ry="12.5714" fill="url(#paint1_linear_5_6)"/>
 </g>
 <g style="mix-blend-mode:hard-light" opacity="0.66" filter="url(#filter2_diii_5_6)">
-<ellipse cx="43" cy="69.5" rx="9" ry="8.5" fill="#6F98AF"/>
-<ellipse cx="43" cy="69.5" rx="9" ry="8.5" fill="url(#paint2_linear_5_6)"/>
+<ellipse cx="42" cy="72.2857" rx="10.2857" ry="9.71429" fill="#6F98AF"/>
+<ellipse cx="42" cy="72.2857" rx="10.2857" ry="9.71429" fill="url(#paint2_linear_5_6)"/>
 </g>
 <defs>
-<filter id="filter0_diii_5_6" x="18" y="18" width="38" height="41" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_diii_5_6" x="14" y="14" width="42.2857" height="45.1429" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="4"/>
@@ -40,7 +40,7 @@
 <feColorMatrix type="matrix" values="0 0 0 0 0.941176 0 0 0 0 0.941176 0 0 0 0 0.94902 0 0 0 0.25 0"/>
 <feBlend mode="normal" in2="effect3_innerShadow_5_6" result="effect4_innerShadow_5_6"/>
 </filter>
-<filter id="filter1_diii_5_6" x="51" y="40" width="31" height="34" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter1_diii_5_6" x="51.7143" y="39.1429" width="34.2857" height="37.1429" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="4"/>
@@ -68,7 +68,7 @@
 <feColorMatrix type="matrix" values="0 0 0 0 0.941176 0 0 0 0 0.941176 0 0 0 0 0.94902 0 0 0 0.25 0"/>
 <feBlend mode="normal" in2="effect3_innerShadow_5_6" result="effect4_innerShadow_5_6"/>
 </filter>
-<filter id="filter2_diii_5_6" x="30" y="57" width="26" height="29" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter2_diii_5_6" x="27.7143" y="58.5714" width="28.5714" height="31.4286" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="4"/>
@@ -96,15 +96,15 @@
 <feColorMatrix type="matrix" values="0 0 0 0 0.941176 0 0 0 0 0.941176 0 0 0 0 0.94902 0 0 0 0.25 0"/>
 <feBlend mode="normal" in2="effect3_innerShadow_5_6" result="effect4_innerShadow_5_6"/>
 </filter>
-<linearGradient id="paint0_linear_5_6" x1="41.7222" y1="22" x2="41.7222" y2="51" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_5_6" x1="40.5397" y1="18" x2="40.5397" y2="51.1429" gradientUnits="userSpaceOnUse">
 <stop stop-color="#2D2D2D" stop-opacity="0"/>
 <stop offset="1" stop-color="#2D2D2D" stop-opacity="0.2"/>
 </linearGradient>
-<linearGradient id="paint1_linear_5_6" x1="70.1204" y1="44" x2="70.1204" y2="66" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint1_linear_5_6" x1="72.9947" y1="43.1429" x2="72.9947" y2="68.2857" gradientUnits="userSpaceOnUse">
 <stop stop-color="#2D2D2D" stop-opacity="0"/>
 <stop offset="1" stop-color="#2D2D2D" stop-opacity="0.2"/>
 </linearGradient>
-<linearGradient id="paint2_linear_5_6" x1="45.8333" y1="61" x2="45.8333" y2="78" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint2_linear_5_6" x1="45.2381" y1="62.5714" x2="45.2381" y2="82" gradientUnits="userSpaceOnUse">
 <stop stop-color="#2D2D2D" stop-opacity="0"/>
 <stop offset="1" stop-color="#2D2D2D" stop-opacity="0.2"/>
 </linearGradient>

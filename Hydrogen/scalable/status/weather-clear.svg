@@ -1,10 +1,10 @@
 <svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g style="mix-blend-mode:hard-light" filter="url(#filter0_dii_5_2)">
-<path d="M76 49.5C76 34.8645 64.1355 23 49.5 23C34.8645 23 23 34.8645 23 49.5V50.5C23 65.1355 34.8645 77 49.5 77C64.1355 77 76 65.1355 76 50.5V49.5Z" fill="#FECB49"/>
-<path d="M76 49.5C76 34.8645 64.1355 23 49.5 23C34.8645 23 23 34.8645 23 49.5V50.5C23 65.1355 34.8645 77 49.5 77C64.1355 77 76 65.1355 76 50.5V49.5Z" fill="url(#paint0_linear_5_2)"/>
+<path d="M82 49.4074C82 32.0616 67.6731 18 50 18C32.3269 18 18 32.0616 18 49.4074V50.5926C18 67.9384 32.3269 82 50 82C67.6731 82 82 67.9384 82 50.5926V49.4074Z" fill="#FECB49"/>
+<path d="M82 49.4074C82 32.0616 67.6731 18 50 18C32.3269 18 18 32.0616 18 49.4074V50.5926C18 67.9384 32.3269 82 50 82C67.6731 82 82 67.9384 82 50.5926V49.4074Z" fill="url(#paint0_linear_5_2)"/>
 </g>
 <defs>
-<filter id="filter0_dii_5_2" x="19" y="19" width="61" height="66" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_dii_5_2" x="14" y="14" width="72" height="76" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="4"/>
@@ -26,7 +26,7 @@
 <feColorMatrix type="matrix" values="0 0 0 0 0.941176 0 0 0 0 0.941176 0 0 0 0 0.94902 0 0 0 0.2 0"/>
 <feBlend mode="normal" in2="effect2_innerShadow_5_2" result="effect3_innerShadow_5_2"/>
 </filter>
-<linearGradient id="paint0_linear_5_2" x1="49.5" y1="23" x2="49.5" y2="77" gradientUnits="userSpaceOnUse">
+<linearGradient id="paint0_linear_5_2" x1="50" y1="18" x2="50" y2="82" gradientUnits="userSpaceOnUse">
 <stop stop-color="#2D2D2D" stop-opacity="0"/>
 <stop offset="1" stop-color="#2D2D2D" stop-opacity="0.1"/>
 </linearGradient>
