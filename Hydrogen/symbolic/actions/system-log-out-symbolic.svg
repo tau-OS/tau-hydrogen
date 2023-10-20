@@ -4,11 +4,33 @@
    width="16"
    height="16"
    id="svg13986"
+   sodipodi:docname="system-log-out-symbolic.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="50.4375"
+     inkscape:cx="7.9900867"
+     inkscape:cy="8"
+     inkscape:window-width="2560"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg13986" />
   <defs
      id="defs13988" />
   <metadata
@@ -44,7 +66,7 @@
      d="M 7.0708092,2 C 5.1429963,2 3.570809,3.5721872 3.570809,5.5 3.570809,7.4278126 5.1429963,9 7.0708092,9 8.9986216,9 10.570809,7.4278126 10.570809,5.5 10.570809,3.5721872 8.9986216,2 7.0708092,2 Z m 0,0.875 c 1.4549282,0 2.6250001,1.170072 2.6250001,2.625 0,1.454928 -1.1700719,2.6249999 -2.6250001,2.6249999 C 5.615881,8.1249999 4.445809,6.954928 4.445809,5.5 c 0,-1.454928 1.170072,-2.625 2.6250002,-2.625 z"
      id="path1243" />
   <path
-     style="fill:none;stroke:#241f31;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     d="m 12.5,6.5 2,2 -2,2"
+     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="m 12.146484,6.1464844 a 0.5,0.5 0 0 0 0,0.7070312 L 13.792969,8.5 12.146484,10.146484 a 0.5,0.5 0 0 0 0,0.707032 0.5,0.5 0 0 0 0.707032,0 l 2,-2.0000004 a 0.50005,0.50005 0 0 0 0,-0.7070312 l -2,-2 a 0.5,0.5 0 0 0 -0.707032,0 z"
      id="path863" />
 </svg>
