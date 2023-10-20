@@ -56,10 +56,8 @@
      d="M 11.486669,1.9999999 H 4.5143502 L 1.0200356,8.0000002 4.5143502,14 H 11.486669 L 14.980984,8.0000002 Z M 4.5143502,1 A 1.019345,1 0 0 0 3.6295588,1.504 L 0.13422478,7.5040001 a 1.019345,1 0 0 0 0,0.992 L 3.6295588,14.496 A 1.019345,1 0 0 0 4.5143502,15 h 6.9723188 a 1.019345,1 0 0 0 0.884792,-0.504 l 3.494315,-5.9999999 a 1.019345,1 0 0 0 0,-0.992 L 12.371461,1.504 A 1.019345,1 0 0 0 11.486669,1 Z"
      id="path1"
      style="stroke-width:1;stroke-dasharray:none;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1" />
-  <circle
-     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
-     id="path2"
-     cx="8"
-     cy="8"
-     r="3.5" />
+  <path
+     style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+     d="M 8,4 C 5.7967855,4 4,5.7967855 4,8 c 0,2.203214 1.7967855,4 4,4 2.203214,0 4,-1.796786 4,-4 C 12,5.7967855 10.203214,4 8,4 Z m 0,1 c 1.6627749,0 3,1.3372251 3,3 0,1.6627749 -1.3372251,3 -3,3 C 6.3372251,11 5,9.6627749 5,8 5,6.3372251 6.3372251,5 8,5 Z"
+     id="path2" />
 </svg>
