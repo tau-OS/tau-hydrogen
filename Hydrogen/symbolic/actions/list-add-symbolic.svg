@@ -6,7 +6,7 @@
    version="1.1"
    id="svg4"
    sodipodi:docname="list-add-symbolic.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,32 +25,38 @@
      inkscape:cx="6.7221477"
      inkscape:cy="8.0107383"
      inkscape:window-width="2560"
-     inkscape:window-height="919"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4">
     <inkscape:grid
        type="xygrid"
-       id="grid291" />
+       id="grid291"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs8" />
   <g
      id="path1236"
-     style="fill:#241f31;stroke-width:1.11143"
-     transform="matrix(0.87180733,0,0,1,1,0.5)">
+     style="fill:#241f31;stroke-width:1.15338"
+     transform="matrix(0.80953538,0,0,1,2,1)">
     <path
-       style="color:#000000;fill:#241f31;stroke-width:1.11143px;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       style="color:#000000;fill:#241f31;stroke-width:1.15338px;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
        d="M 0.5,7.5 H 15.558824"
        id="path866" />
     <path
-       style="color:#000000;fill:#241f31;stroke-width:1.11143;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
+       style="color:#000000;fill:#241f31;stroke-width:1.15338;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
        d="M 0.5,7 A 0.5,0.5 0 0 0 0,7.5 0.5,0.5 0 0 0 0.5,8 h 15.058594 a 0.5,0.5 0 0 0 0.5,-0.5 0.5,0.5 0 0 0 -0.5,-0.5 z"
        id="path868" />
   </g>
   <path
      style="color:#000000;fill:#241f31;stroke-width:1.03774;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="M 8,1 A 0.5,0.43760686 0 0 0 7.5,1.4376069 V 14.562393 A 0.5,0.43760686 0 0 0 8,15 0.5,0.43760686 0 0 0 8.5,14.562393 V 1.4376069 A 0.5,0.43760686 0 0 0 8,1 Z"
+     d="M 8.5,1.9999999 A 0.5,0.40634922 0 0 0 8,2.4063493 V 14.593651 A 0.5,0.40634922 0 0 0 8.5,15 0.5,0.40634922 0 0 0 9,14.593651 V 2.4063493 A 0.5,0.40634922 0 0 0 8.5,1.9999999 Z"
      id="path826" />
 </svg>
