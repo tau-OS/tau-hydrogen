@@ -1,12 +1,1 @@
-<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect y="20" width="128" height="96" rx="12" fill="#4D409F"/>
-<rect y="16" width="128" height="96" rx="12" fill="url(#paint0_linear_1172_122)"/>
-<path d="M64 16H116C122.627 16 128 21.3726 128 28H72C67.5817 28 64 24.4183 64 20V16Z" fill="white" fill-opacity="0.32"/>
-<rect x="32" y="92" width="64" height="12" rx="6" fill="white" fill-opacity="0.32"/>
-<defs>
-<linearGradient id="paint0_linear_1172_122" x1="31" y1="16" x2="73.6892" y2="122.36" gradientUnits="userSpaceOnUse">
-<stop stop-color="#9288D3"/>
-<stop offset="1" stop-color="#4D409F"/>
-</linearGradient>
-</defs>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" fill="none" viewBox="0 0 128 128"><rect width="128" height="96" y="20" fill="#4D409F" rx="12"/><rect width="128" height="96" y="16" fill="url(#paint0_linear_1172_122)" rx="12"/><path fill="#fff" fill-opacity=".32" d="M64 16H116C122.627 16 128 21.3726 128 28H72C67.5817 28 64 24.4183 64 20V16Z"/><rect width="64" height="12" x="32" y="92" fill="#fff" fill-opacity=".32" rx="6"/><defs><linearGradient id="paint0_linear_1172_122" x1="31" x2="73.689" y1="16" y2="122.36" gradientUnits="userSpaceOnUse"><stop stop-color="#9288D3"/><stop offset="1" stop-color="#4D409F"/></linearGradient></defs></svg>

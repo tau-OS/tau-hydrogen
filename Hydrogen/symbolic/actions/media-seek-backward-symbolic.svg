@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   width="16"
-   height="16"
-   enable-background="new"
-   version="1.1"
-   id="svg4"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs8" />
-  <path
-     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="M 13.276886,4.0527344 A 0.50005,0.50005 0 0 1 13.999542,4.5 v 7 a 0.50005,0.50005 0 0 1 -0.722656,0.447266 L 6.9995423,8.8085938 V 11.5 A 0.50005,0.50005 0 0 1 6.2475892,11.931641 L 0.2475893,8.4316406 a 0.50005,0.50005 0 0 1 0,-0.8632812 l 5.9999999,-3.5 A 0.50005,0.50005 0 0 1 6.9995423,4.5 V 7.1914062 Z M 12.999542,5.3085937 7.6167298,8 12.999542,10.691406 Z M 5.9995423,5.3710937 1.4917293,8 5.9995423,10.628906 V 8 Z"
-     id="path935" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" id="svg4" width="16" height="16" enable-background="new" version="1.1"><path style="color:#000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none" id="path935" d="M 13.276886,4.0527344 A 0.50005,0.50005 0 0 1 13.999542,4.5 v 7 a 0.50005,0.50005 0 0 1 -0.722656,0.447266 L 6.9995423,8.8085938 V 11.5 A 0.50005,0.50005 0 0 1 6.2475892,11.931641 L 0.2475893,8.4316406 a 0.50005,0.50005 0 0 1 0,-0.8632812 l 5.9999999,-3.5 A 0.50005,0.50005 0 0 1 6.9995423,4.5 V 7.1914062 Z M 12.999542,5.3085937 7.6167298,8 12.999542,10.691406 Z M 5.9995423,5.3710937 1.4917293,8 5.9995423,10.628906 V 8 Z"/></svg>
