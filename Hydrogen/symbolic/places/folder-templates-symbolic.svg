@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   height="16px"
-   viewBox="0 0 16 16"
-   width="16px"
-   version="1.1"
-   id="svg8"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs12" />
-  <path
-     style="color:#000000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
-     d="M 1.3085937,1.0371094 A 0.50004851,0.50004851 0 0 0 1,1.5 v 13 A 0.50004851,0.50004851 0 0 0 1.5,15 h 13 a 0.50004851,0.50004851 0 0 0 0.353516,-0.853516 L 1.8535156,1.1464844 A 0.50004851,0.50004851 0 0 0 1.3085937,1.0371094 Z M 2,2.7070313 13.292969,14 H 2 Z"
-     id="path1018" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" id="svg8" width="16" height="16" version="1.1" viewBox="0 0 16 16"><path style="color:#000;fill:#241f31;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none" id="path1018" d="M 1.3085937,1.0371094 A 0.50004851,0.50004851 0 0 0 1,1.5 v 13 A 0.50004851,0.50004851 0 0 0 1.5,15 h 13 a 0.50004851,0.50004851 0 0 0 0.353516,-0.853516 L 1.8535156,1.1464844 A 0.50004851,0.50004851 0 0 0 1.3085937,1.0371094 Z M 2,2.7070313 13.292969,14 H 2 Z"/></svg>
