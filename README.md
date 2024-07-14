@@ -29,3 +29,8 @@ $ meson build --prefix=/usr
 $ cd build
 $ sudo ninja install
 ```
+
+## Wanted Icons
+
+If you have the time and would like to contribute, the addition of the following icons would be useful:
+- [ ] *-filled-symbolic variants of existing symbolics
