@@ -23,10 +23,10 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="6.109375"
-     inkscape:cx="85.196931"
+     inkscape:cx="85.278772"
      inkscape:cy="54.179028"
      inkscape:window-width="2560"
-     inkscape:window-height="984"
+     inkscape:window-height="979"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -303,8 +303,7 @@
        id="stop12" /></linearGradient><g
      filter="url(#filter0_i_321_34)"
      id="g6"
-     style="fill:#ebf4fe;fill-opacity:1;stroke-width:0.8125"
-     transform="matrix(1.2307692,0,0,1.2307692,-14.769231,-14.76923)"><rect
+     style="fill:#ebf4fe;fill-opacity:1;stroke-width:0.8125"><rect
        x="12"
        y="12"
        width="104"
@@ -324,7 +323,7 @@
        style="fill:#ebf4fe;fill-opacity:1;stroke-width:0.8125"
        ry="19.500002" /></g><g
      id="g609"
-     transform="matrix(0.62856976,0,0,0.62856976,23.823397,24.010607)"><ellipse
+     transform="matrix(0.61211653,0,0,0.60357216,24.875047,25.600945)"><ellipse
        style="fill:#0674e6;stroke:none;stroke-width:10.0032;stop-color:#000000"
        id="path1573"
        cx="-2.375396"
