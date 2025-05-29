@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="nav-expanded-symbolic.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="50.9375"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:window-width="2560"
+     inkscape:window-height="1000"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1" />
+  <defs
+     id="defs18" />
+  <g
+     id="g1"
+     transform="matrix(1.1111111,0,0,1.1428571,-0.8888888,-1.7142854)">
+    <path
+       id="rect1"
+       style="fill:#111111;stroke-width:1.18742"
+       d="m 3.86,5 h 6.48 c 0.19944,0 0.36,0.195125 0.36,0.4375 0,0.242375 -0.16056,0.4375001 -0.36,0.4375001 H 3.86 C 3.66056,5.8750001 3.5,5.679875 3.5,5.4375 3.5,5.195125 3.66056,5 3.86,5 Z" />
+    <path
+       id="rect1-6"
+       style="fill:#111111;stroke-width:0.938738"
+       d="M 3.725,7.625 H 7.7750001 C 7.8996501,7.625 8,7.820125 8,8.0625 8,8.304875 7.8996501,8.5000001 7.7750001,8.5000001 H 3.725 C 3.60035,8.5000001 3.5,8.304875 3.5,8.0625 3.5,7.820125 3.60035,7.625 3.725,7.625 Z" />
+    <path
+       id="rect1-5"
+       style="fill:#111111;stroke-width:1.18606"
+       d="m 3.8591751,10.25 h 6.4651509 c 0.198982,0 0.359174,0.195125 0.359174,0.4375 0,0.242375 -0.160192,0.4375 -0.359174,0.4375 H 3.8591751 C 3.6601921,11.125 3.5,10.929875 3.5,10.6875 3.5,10.445125 3.6601921,10.25 3.8591751,10.25 Z" />
+    <path
+       style="fill:#111111;stroke-linecap:round;stroke-linejoin:round"
+       d="M 13.256442,5.2276073 9.9700613,7.9245399 Z"
+       id="path4" />
+    <path
+       id="path5"
+       style="stroke-width:0.988016;stroke-linecap:round;stroke-linejoin:round"
+       d="M 13.298047,5.002259 A 0.44375038,0.43317811 0 0 0 12.974609,5.095682 L 9.6892578,7.7282093 a 0.44375038,0.43317811 0 0 0 -0.1423828,0.2936152 0.44375038,0.43317811 0 0 0 -0.00352,0.041707 0.44375038,0.43317811 0 0 0 0.00352,0.040038 0.44375038,0.43317811 0 0 0 0.1423828,0.2936152 l 3.2853512,2.6325273 a 0.44375038,0.43317811 0 0 0 0.71543,-0.266923 0.44375038,0.43317811 0 0 0 -0.15293,-0.402052 l -2.86875,-2.297206 2.86875,-2.2988736 a 0.44375038,0.43317811 0 0 0 0.15293,-0.4020526 0.44375038,0.43317811 0 0 0 -0.279492,-0.3336537 0.44375038,0.43317811 0 0 0 -0.1125,-0.026692 z" />
+    <path
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#111111;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+       d="M 13.256442,10.621472 9.9700613,7.9245399 Z"
+       id="path2" />
+  </g>
+</svg>
